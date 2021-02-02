@@ -1,0 +1,277 @@
+<?php
+
+// This file is part of Moodle - http://moodle.org/
+//
+// Moodle is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+//
+// Moodle is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License
+// along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+
+/**
+ * Strings for component 'mootyper', language 'nl', branch 'MOODLE_37_STABLE'
+ *
+ * @package   mootyper
+ * @copyright 1999 onwards Martin Dougiamas  {@link http://moodle.com}
+ * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ */
+
+defined('MOODLE_INTERNAL') || die();
+
+$string['allstring'] = 'Alle';
+$string['average'] = 'Gemiddeld';
+$string['bymootyper'] = 'per oefening';
+$string['byuser'] = 'per gebruiker';
+$string['calendarend'] = '{$a} sluit';
+$string['calendarstart'] = '{$a} opent';
+$string['cancel'] = 'Annuleren';
+$string['charttitleallgrades'] = 'Alle resultaten';
+$string['charttitlemyowngrades'] = 'Mijn resultaten';
+$string['chere'] = 'Klik om te starten';
+$string['closebeforeopen'] = 'Kan MooTyper niet updaten. Sluit-datum ligt voor de open-datum.';
+$string['configdateformat'] = 'Dit bepaalt hoe datums getoond worden in het rapport. De standaardwaarde, "M d, Y G:i" is Maand-, dag-, jaar- en 24 uur-formaat. Bekijk PHP-handleiding voor meer voorbeelden.';
+$string['configpassword_desc'] = 'Of een wachtwoord nodig is om toegang te krijgen tot de les.';
+$string['configrequirepassword'] = 'Configureer wachtwoord';
+$string['configtimelimit_desc'] = 'Toon een tijdslimiet boven de statusbalk als die is ingesteld. Wanneer de tijdslimiet is bereikt, dan stopt de oefening. Indien de tijdslimiet op 0 staat, dan is er geen tijdslimiet voor deze oefening.';
+$string['continue'] = 'Ga verder';
+$string['continuoustype'] = 'Continu typen';
+$string['continuoustype_help'] = 'Indien ingeschakeld hoeft een foute letter niet verbeterd te worden.';
+$string['countmistakes'] = 'Tel alle aanslagen';
+$string['countmistakes_help'] = 'Indien ingeschakeld worden alle aanslagen voor dezelfde fout opgeteld bij het foutentotaal.';
+$string['countmistypedspaces'] = 'Tel fout getypte spaties';
+$string['countmistypedspaces_help'] = 'Indien ingeschakeld worden fout getypte spaties toegevoegd aan totaal aantal fouten.';
+$string['course_exercises_viewed'] = 'Bekeken oefeningen';
+$string['csvexport'] = 'Exporteer naar .csv';
+$string['cursorcolor'] = 'Kleur van de cursor';
+$string['cursorcolor_colour'] = '#00ff00';
+$string['cursorcolor_descr'] = 'Kies de kleur van de cursor voor de volgende te typen letter.';
+$string['cursorcolor_help'] = 'Kies de kleur rond de cursor.  Je kan een hex kleur of naam gebruiken. bijv.  #95fc89 of groen';
+$string['cursorcolor_title'] = 'Kleur van de cursor';
+$string['dateformat'] = 'Standaard datumopmaak';
+$string['defaulteditalign'] = 'Bewerk tekstalignering';
+$string['defaulteditalign_help'] = 'Zet de tekstalignering van de oefening links, midden of rechts.';
+$string['defaultfmode_help'] = 'Standaard keuze tussen Les, Examen of Oefening.';
+$string['defaultlayout'] = 'Standaard toetsenbord-layout';
+$string['defaultprecision'] = 'Standaard typ precisie %';
+$string['defaulttextalign'] = 'Tekstalignering';
+$string['defaulttextalign_center'] = 'midden';
+$string['defaulttextalign_help'] = 'Kies tekstalignering tijdens typen links, midden of rechts';
+$string['defaulttextalign_left'] = 'links';
+$string['defaulttextalign_right'] = 'rechts';
+$string['defaulttextalign_warning'] = 'OPMERKING: kies tekstalignering voor je start met typen.';
+$string['defaulttimelimit'] = 'Standaard tijdslimiet';
+$string['defaultwpm'] = 'Standaard woorden per minuut';
+$string['delete'] = 'Verwijder';
+$string['deleteall'] = 'Verwijder alles van';
+$string['deleteexconfirm'] = 'Bevestig dat je een oefening wil verwijderen uit';
+$string['deletegradeconfirm'] = 'Bevestig dat je resultaten wil verwijderen voor';
+$string['deletekb'] = 'Verwijder toetsenbord-layout';
+$string['deletelsnconfirm'] = 'Bevestig dat je alles wil verwijderen van';
+$string['eaccess0'] = 'Elke leraar';
+$string['eaccess1'] = 'Leraar binnen deze cursus';
+$string['eaccess2'] = 'Enkel ik';
+$string['eaddnew'] = 'Voeg nieuwe oefening of les toe';
+$string['eaddnewex'] = 'Voeg nieuwe aan deze les, ID:';
+$string['editable'] = 'Kan bewerken';
+$string['editexercises'] = 'Exporteer of bewerk oefeningen';
+$string['eeditlabel'] = 'Bewerken';
+$string['eheading'] = 'Beheer MooTyper oefeningen';
+$string['emanage'] = 'Klik hier om oefeningen en lessen te beheren';
+$string['emptypassword'] = 'Wachtwoord mag niet leeg zijn';
+$string['ename'] = 'Oefening:';
+$string['endlesson'] = 'Einde oefening';
+$string['enterpassword'] = 'Wachtwoord:';
+$string['etext'] = 'Tekst';
+$string['etitle'] = 'MooTyper oefeningen';
+$string['eventlessonexport'] = 'Geëxporteerde les';
+$string['examdone'] = 'Examen voltooid.';
+$string['excategory'] = 'Naam van de les';
+$string['excategory_help'] = 'Kies een lesnaam voor deze MooTyper.';
+$string['exercise'] = 'Oefening {$a} van';
+$string['exercise_abreviation'] = 'Ex';
+$string['exercise_added'] = 'Toegevoegde oefening';
+$string['exercise_completed'] = 'Oefening voltooid';
+$string['exercise_deleted'] = 'Oefening verwijderd';
+$string['exercise_edited'] = 'Bewerkte oefening';
+$string['export'] = 'Exporteer';
+$string['exportconfirm'] = 'Bevestig dat je wil exporteren';
+$string['failbgc_colour'] = '#FF6C6C';
+$string['failbgc_descr'] = 'Kies de achtergrondkleur voor een niet geslaagd resultaat';
+$string['failbgc_title'] = 'Achtergrondkleur niet geslaagd resultaat';
+$string['fapply'] = 'Toepassen';
+$string['fconfirm'] = 'Bevestig';
+$string['fcontinue'] = 'Ga verder';
+$string['fexercise'] = 'Oefening';
+$string['flesson'] = 'Les';
+$string['fmode'] = 'Modus';
+$string['fmode_help'] = 'Lesmodus zal alle oefeningen na elkaar tonen tot alle oefeningen klaar zijn. Examenmodus toont enkel de geselecteerde oefening van het examen. Oefenmodus is hetzelfde als Lesmodus, maar leerlingen kunnen resultaten verwijderen en oefeningen opnieuw maken. Eenmaal een Modus gekozen, kan je deze niet meer wijzigen.';
+$string['fnewexercise'] = 'Oefening zal deel uitmaken van een les';
+$string['fnewlesson'] = 'Maak nieuwe les';
+$string['fsecurity'] = 'Beveiliging';
+$string['fsettings'] = 'Instellingen';
+$string['fsetup'] = 'Opzet';
+$string['fullhits'] = 'Alle aanslagen';
+$string['grade_deleted'] = 'Resultaat verwijderd';
+$string['gradesfilename'] = 'grades.csv';
+$string['gviewmode'] = 'Toon';
+$string['hitsperminute'] = 'Slagen/minuut';
+$string['invalidaccess'] = 'Je hebt niet voldoende rechten om deze pagina te zien';
+$string['isexamtext'] = 'Examen';
+$string['kblimportadd'] = 'Toetsenbord-layout succesvol toegevoegd aan de database';
+$string['kblimportnotadd'] = 'Layout reeds aanwezig in de database.';
+$string['keybdbgc'] = 'Toetsenbord achtergrondkleur';
+$string['keybdbgc_help'] = 'Kies de achtergrondkleur rond de toetsen.  Je kan een hex kleur of naam gebruiken. bijv.  #95fc89 of groen';
+$string['keyboardbgc_colour'] = '#DDDDDD';
+$string['keyboardbgc_descr'] = 'Kies de achtergrondkleur rond de toetsen van het toetsenbord';
+$string['keyboardbgc_title'] = 'Toetsenbord achtergrondkleur';
+$string['keytopbgc'] = 'Kleur bovenkant toetsen';
+$string['keytopbgc_help'] = 'Kies de kleur van de bovenkant van de basisrijtoetsen.  Je kan een hex kleur of naam gebruiken. bijv.  #95fc89 of groen';
+$string['keytoptextc'] = 'Kleur letters op toetsen';
+$string['keytoptextc_help'] = 'Kies de kleur van de letters op de toetsen.  Je kan een hex kleur of naam gebruiken. bijv.  #95fc89 of groen';
+$string['layout'] = 'Toetsenbord-layout';
+$string['layout_help'] = 'Je kan een toetsenbord-layout kiezen om te tonen wanneer bij "Toon toetsenbord"  "ja" ingesteld is.';
+$string['layout_imported'] = 'Toetsenbord-layout geïmporteerd';
+$string['lesson_completed'] = 'Les voltooid';
+$string['lesson_deleted'] = 'Les en oefeningen verwijderd';
+$string['lesson_export'] = 'Instellingen les exporteren';
+$string['lesson_exported'] = 'Les geëxporteerd';
+$string['lesson_export_filename'] = 'Bestandsnaam Les exporteren';
+$string['lesson_export_filenameconfig'] = 'Voeg GMT-tijd toe als deel van de bestandsnaam';
+$string['lesson_imported'] = 'Les geïmporteerd';
+$string['loginfail'] = 'Login mislukt, probeer nog eens...';
+$string['lsnimport'] = 'Importeer les of toetsenbord-layout';
+$string['lsnimportadd'] = 'Succesvol toegevoegd aan de database';
+$string['lsnimportnotadd'] = 'Reeds in database aanwezig. Niets toegevoegd.';
+$string['lsnname'] = 'Lesnaam';
+$string['mistakedetails'] = 'Foutendetails:';
+$string['modulename'] = 'MooTyper';
+$string['modulename_help'] = 'De Mootyper module leert ons blind te typen';
+$string['modulenameplural'] = 'MooTypers';
+$string['mootyper'] = 'mootyper';
+$string['mootyper:addinstance'] = 'Voeg voorbeeld toe';
+$string['mootyper:aftersetup'] = 'Na setup';
+$string['mootyperclosed'] = 'Deze Mootyper is gesloten op {a}';
+$string['mootyperclosetime'] = 'Sluit-tijd';
+$string['mootyper:editall'] = 'Bewerk alles';
+$string['mootypererror'] = 'Je moet een course_module ID of instance ID opgeven';
+$string['mootypername'] = 'Titel voor de test';
+$string['mootyperopen'] = 'Deze MooTyper-les start op {a}';
+$string['mootyperopentime'] = 'Open op';
+$string['mootyper:setup'] = 'Instellingen';
+$string['mootyper:view'] = 'Toon';
+$string['mootyper:viewgrades'] = 'Toon alle resultaten';
+$string['mootyper:viewmygrades'] = 'Toon mijn resultaten';
+$string['nogrades'] = 'Nog geen resultaten...';
+$string['normalkeytops_colour'] = '#CCCCCC';
+$string['normalkeytops_descr'] = 'Dit stelt de kleur van de bovenkant van de toetsen in , behalve die van de basisrij.';
+$string['normalkeytops_title'] = 'Toetskleur bovenkant';
+$string['normalkeytoptextc_colour'] = '#000000';
+$string['normalkeytoptextc_descr'] = 'Kies kleur van tekst op de toetsen';
+$string['normalkeytoptextc_title'] = 'Kleur tekst op toets';
+$string['notavailable'] = '<b>Momenteel niet beschikbaar!</br><b>';
+$string['noteditablebyme'] = 'Niet mogelijk om zelf aan te passen.';
+$string['notreadyyet'] = 'Nog niet klaar... probeer later nog eens.';
+$string['options'] = 'Opties';
+$string['overview'] = 'Overzicht';
+$string['overview_help'] = 'MooTyper is een module om blind te leren typen. Er zijn standaard lessen aanwezig en nieuwe, extra lessen kan je leraar of beheerder toevoegen. Het is mogelijk om een backup te nemen van de lessen in de cursus en ze door te geven aan andere Moodle-gebruikers.';
+$string['passbgc_colour'] = '#7FEF6C';
+$string['passbgc_descr'] = 'Kies achtergrondkleur voor het cijfer wanneer geslaagd.';
+$string['passbgc_title'] = 'Achtergrondkleur wanneer geslaagd';
+$string['password'] = 'Wachtwoord';
+$string['passwordprotectedlesson'] = '{a} is een MooTyper activiteit, beschermd met een wachtwoord.';
+$string['pluginadministration'] = 'MooTyper beheer';
+$string['pluginname'] = 'MooTyper';
+$string['practice'] = 'Oefening';
+$string['precision'] = 'Precisie';
+$string['privacy:metadata:mootyper_attempts'] = 'Gegevens opslaan in verband met pogingen';
+$string['privacy:metadata:mootyper_attempts:inprogress'] = 'Status: voltooid = 0 of nog bezig = 1.';
+$string['privacy:metadata:mootyper_attempts:mootyperid'] = 'ID van de MooTyper activiteit voor deze poging.';
+$string['privacy:metadata:mootyper_attempts:suspicion'] = 'Toon wanneer er te veel tijd of te veel fouten gemaakt zijn.';
+$string['privacy:metadata:mootyper_attempts:timetaken'] = 'Wanneer de oefening is gestart.';
+$string['privacy:metadata:mootyper_attempts:userid'] = 'GebruikersID van de persoon die de oefening maakt.';
+$string['privacy:metadata:mootyper_exercises'] = 'Bewaar oefeningen van elke les.';
+$string['privacy:metadata:mootyper_exercises:exercisename'] = 'Naam van de oefening.';
+$string['privacy:metadata:mootyper_exercises:lesson'] = 'De les waarin deze oefening zich bevindt.';
+$string['privacy:metadata:mootyper_exercises:snumber'] = 'Het volgnummer in de les.';
+$string['privacy:metadata:mootyper_exercises:texttotype'] = 'De tekst van de oefening.';
+$string['privacy:metadata:mootyper_grades'] = 'Bewaar resultaat van de voltooide pogingen.';
+$string['privacy:metadata:mootyper_grades:attemptid'] = 'IDnummer van de poging.';
+$string['privacy:metadata:mootyper_grades:exercise'] = 'De oefening voor deze poging';
+$string['privacy:metadata:mootyper_grades:fullhits'] = 'Aantal aanslagen voor deze oefening';
+$string['privacy:metadata:mootyper_grades:grade'] = 'Resultaat van deze oefening';
+$string['privacy:metadata:mootyper_grades:hitsperminute'] = 'Aanslagen per minuut';
+$string['privacy:metadata:mootyper_grades:mistakes'] = 'Aantal fouten in deze oefening';
+$string['privacy:metadata:mootyper_grades:mootyper'] = 'ID van de MooTyper-activiteit voor deze oefening.';
+$string['privacy:metadata:mootyper_grades:pass'] = 'Was deze poging geslaagd of niet?';
+$string['privacy:metadata:mootyper_grades:precisionfield'] = 'Typ-precisie';
+$string['privacy:metadata:mootyper_grades:timeinseconds'] = 'Totaal verstreken tijd in seconden voor deze oefening.';
+$string['privacy:metadata:mootyper_grades:timetaken'] = 'Wanneer was deze oefening voltooid?';
+$string['privacy:metadata:mootyper_grades:userid'] = 'GebruikersID van de persoon die deze oefening maakt.';
+$string['privacy:metadata:mootyper_grades:wpm'] = 'Resulaat in woorden per minuut voor deze oefening';
+$string['privacy:metadata:mootyper_lessons'] = 'Bewaar lessen voor MooTyper';
+$string['privacy:metadata:mootyper_lessons:authorid'] = 'GebruikersID van persoon die de les heeft toegevoegd.';
+$string['privacy:metadata:mootyper_lessons:courseid'] = 'CursusID waar de les is aangemaakt.';
+$string['privacy:metadata:mootyper_lessons:editable'] = 'Aanpasbaar door: enkel ik, leraar van deze cursus of elke leraar.';
+$string['privacy:metadata:mootyper_lessons:lessonname'] = 'Naam van de les.';
+$string['privacy:metadata:mootyper_lessons:visible'] = 'Zichtbaar: enkel ik, leraar van deze cursus of elke leraar';
+$string['reqfield'] = 'Verplicht veld';
+$string['requiredgoal'] = 'Minimum precisie';
+$string['requiredgoal_help'] = 'Geef precisie om geslaagd te zijn op een oefening.';
+$string['requiredwpm'] = 'Benodigde WPM';
+$string['requiredwpm_help'] = 'Geef WPM die nodig zijn om geslaagd te zijn op een oefening.';
+$string['requirepassword'] = 'Heeft wachtwoord nodig';
+$string['resetmootyperall'] = 'Alle Mootyper-pogingen en -punten opnieuw instellen';
+$string['returnto'] = 'Ga terug naar {a}';
+$string['rhitspermin'] = 'Aanslagen per minuut';
+$string['rmistakes'] = 'Fouten';
+$string['rprecision'] = 'Precisie';
+$string['rprogress'] = 'Voortgang';
+$string['rtime'] = 'Tijd';
+$string['sflesson'] = 'Les';
+$string['showkeyboard'] = 'Toon toetsenbord';
+$string['showkeyboard_help'] = 'Indien ingeschakeld tonen we een visuele voorstelling van het gekozen toetsenbord op het scherm terwijl de gebruiker een oefening maakt.';
+$string['showrecentactivity'] = 'Toon recente activiteit';
+$string['showrecentactivityconfig'] = 'Iedereen kan meldingen zien in het recente activiteitsrapport';
+$string['statsbgc'] = 'Achtergrondkleur Statistieken';
+$string['statsbgc_help'] = 'Achtergrondkleur van de statistiekenbalk. Je kan een hex kleur of naam gebruiken. bijv.  #95fc89 of groen';
+$string['statscolor_colour'] = '#CCCCCC';
+$string['statscolor_descr'] = 'Kies de achtergrondkleur van de statistiekenbalk.';
+$string['statscolor_title'] = 'Achtergrond kleur statistiekenbalk';
+$string['student'] = 'Leerling';
+$string['suspicion_colour'] = '#FFFF00';
+$string['suspicion_descr'] = 'Kies de kleur voor resultaten met twijfelachtige resultaten';
+$string['suspicion_title'] = 'Kleur van twijfelachtig resultaat';
+$string['testing'] = 'Test code';
+$string['textbgc'] = 'Test achtergrondkleur';
+$string['textbgc_colour'] = '#dddddd';
+$string['textbgc_descr'] = 'Kies achtergrondkleur van de oefentekst.';
+$string['textbgc_help'] = 'Achtergrondkleur van de oefentekst.  Je kan een hex kleur of naam gebruiken. bijv.  #95fc89 of groen';
+$string['textbgc_title'] = 'Tekst achtergrondkleur';
+$string['texterrorcolor'] = 'Tekst foutkleur';
+$string['texterrorcolor_colour'] = '#ff9999';
+$string['texterrorcolor_descr'] = 'Kies achtergrondkleur van een fout getypte letter.';
+$string['texterrorcolor_help'] = 'Achtergrondkleur van een fout getypte letter.  Je kan een hex kleur of naam gebruiken. bijv.  #95fc89 of groen';
+$string['texterrorcolor_title'] = 'Tekst fout kleur';
+$string['timeinseconds'] = 'Verstreken tijd';
+$string['timeisup'] = 'Tijd is om';
+$string['timelimit'] = 'Tijdslimiet';
+$string['timelimit_help'] = 'Indien ingeschakeld tonen we de tijdslimiet boven de statusbalk. Wanneer de tijdslimiet is bereikt, is de oefening ten einde. Als je 0 invult, dan is er geen tijdslimiet. Letters die na de tijdslimiet worden getypt, tellen niet mee';
+$string['timetaken'] = 'Voltooid';
+$string['usepassword'] = 'Met wachtwoord beschermde les';
+$string['usepassword_help'] = 'Indien ingeschakeld is er een wachtwoord nodig om toegang te krijgen tot de les.';
+$string['vaccess0'] = 'Alle leraren';
+$string['vaccess1'] = 'Leraren binnen de cursus';
+$string['vaccess2'] = 'Enkel ik';
+$string['viewgrades'] = 'Toon alle resultaten';
+$string['viewmygrades'] = 'Bekijk mijn resultaten';
+$string['visibility'] = 'Les zichtbaar voor';
+$string['vmistakes'] = 'Fouten';
+$string['wpm'] = 'WPM';
+$string['xaxislabel'] = 'Bereik';

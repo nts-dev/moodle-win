@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>eXe</title>
+<meta http-equiv="Content-Type" content="text/html;  charset=utf-8" />
+<style type="text/css">
+@import url(content.css);
+</style>
+<script type="text/javascript" src="APIWrapper.js"></script>
+<script type="text/javascript" src="SCOFunctions.js"></script>
+<script type="text/javascript" src="common.js"></script>
+</head>
+<body onload="loadPage()" onbeforeunload="unloadPage()" onunload="unloadPage()"><div id="outer">
+<div id="main">
+<div id="nodeDecoration">
+<p id="nodeTitle">
+A multi-choice question</p></div>
+<div class="iDevice emphasis0">
+<div id="2_1" style="display:block"><p>In eXe teachers can create multi-choice questions with the following features:</p> <ul>   <li>the option of including a hint for learners<br />   </li>   <li>customised feedback for the correct answer</li>   <li>customised feedback for the incorrect alternatives</li> </ul> The multi-choice feature is not intended to replace the assessment tools in Moodle. They are best used as formative assessment interactions for learners interacting with new content to be learned. Have a look at the example below.</div></div>
+<script type="text/javascript" src="common.js"></script>
+<script type="text/javascript" src="libot_drag.js"></script>
+<div class="iDevice emphasis1">
+<img alt="" class="iDevice_icon" src="icon_question.gif" />
+<span class="iDeviceTitle">The end of transmission pedagogy</span><br/>
+<div class="iDevice_inner">
+<p> Many educators are on a crusade to rid the world of transmission pedagogy, Yet eXe is developing another content authoring tool!</p><p><span style="font-style: italic">With this paradox in mind, what course of action do you recommend for the eXe project?</span>  <br /> </p> &nbsp;&nbsp;
+<span  style="background-image:url('panel-amusements.png');">
+<a onmousedown="Javascript:updateCoords(event);showMe('hint3', 350, 100);" style="cursor:help;align:center;vertical-align:middle;" title="Hint" 
+href="javascript:void(0);">&nbsp;&nbsp;&nbsp;&nbsp;</a></span><div id="hint3" style="display:none; z-index:99;"><div style="float:right;" ><img alt="Close" src="stock-stop.png" title="Close" onmousedown="Javascript:hideMe();"/></div><div class="popupDivLabel">Hint</div>
+Think about reasons why you wouldn't want content in your teaching.<br /></div>
+<table>
+<tbody>
+<tr><td><input type="radio" name="option3" id="a0b3" onclick="getFeedback(0,3,'3','multi')"/></td><td>
+ Blame transmission pedagogy on Learning Management Systems</td></tr>
+<tr><td><input type="radio" name="option3" id="a1b3" onclick="getFeedback(1,3,'3','multi')"/></td><td>
+ Epitomise the social deconstruction of knowledge</td></tr>
+<tr><td><input type="radio" name="option3" id="a2b3" onclick="getFeedback(2,3,'3','multi')"/></td><td>
+ Deny the existence of pedagogy</td></tr>
+</tbody>
+</table>
+<div id="sa0b3" style="color: rgb(0, 51, 204);display: none;">Don't cut off the hand that feeds you. Without LMSs, eXe will have difficulty delivering content, even if it's disguised as radical constructivism. We try to export SCORM compliant content for LMSs to deliver - so best to stay in their good books.</div>
+<div id="sa1b3" style="color: rgb(0, 51, 204);display: none;">Not a bad idea, but we are still reluctant to undergo operations from surgeons who spent their postgraduate years deconstructing the meaning of a scalpel.</div>
+<div id="sa2b3" style="color: rgb(0, 51, 204);display: none;">This is the best option because then you can't be accused of embedding any paradigmitic point of depature.</div>
+</div>
+</div>
+</div>
+</div>
+</body></html>

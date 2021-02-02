@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="68">
+    <name>top</name>
+    <contextid>31536</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>801</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>education.nts.nl+210120062919+popLhy</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="69">
+    <name>Default for Copy2 of C001 Moodle tutorial</name>
+    <contextid>31536</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>801</contextinstanceid>
+    <info>The default category for questions shared in context 'Copy2 of C001 Moodle tutorial'.</info>
+    <infoformat>0</infoformat>
+    <stamp>education.nts.nl+210120062919+GhDpUa</stamp>
+    <parent>68</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+    </questions>
+  </question_category>
+</question_categories>

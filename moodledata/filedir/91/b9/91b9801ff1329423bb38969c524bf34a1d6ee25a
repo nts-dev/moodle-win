@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>eXe</title>
+<meta http-equiv="Content-Type" content="text/html;  charset=utf-8" />
+<style type="text/css">
+@import url(content.css);
+</style>
+<script type="text/javascript" src="APIWrapper.js"></script>
+<script type="text/javascript" src="SCOFunctions.js"></script>
+<script type="text/javascript" src="common.js"></script>
+</head>
+<body onload="loadPage()" onbeforeunload="unloadPage()" onunload="unloadPage()"><div id="outer">
+<div id="main">
+<div id="nodeDecoration">
+<p id="nodeTitle">
+eXe Scorm Package</p></div>
+<div class="iDevice emphasis1">
+<img alt="" class="iDevice_icon" src="icon_objectives.gif"/>
+<span class="iDeviceTitle">Pupose</span>
+<div class="iDevice_inner">
+<div id="1_8" style="display:block"><p>The purpose of this of this resource is</p> <ul>   <li>To demonstrate a SCORM package in the Moodle Features Demonstration course</li>   <li>To show the outputs of eXe by demonstrating a few features of the software</li>   <li>To demonstrate how eXe can be used as an offline authoring tool for Moodle resources.</li> </ul><strong>NOTE: This SCORM package was authored using eXe Version 0.10.</strong></div><br/>
+</div>
+</div>
+<div class="iDevice emphasis0">
+<div id="0_1" style="display:block"><p>The <a href="http://exelearning.org">eXe</a> project is developing an off-line authoring environment to assist teachers and academics in the publishing of web content without the need to become proficient in HTML or XML markup. This open source software project is funded by a grant from the <a href="http://www.tec.govt.nz/about_tec/who_we_are.htm">Tertiary Education   Commission</a> of New Zealand.</p><p>Download eXe @ <a href="http://exelearning.org">http://exelearning.org</a> </p> <p>The main purpose of each release is to provide concrete examples of the technology we are developing. By playing with these early versions of eXe you can help us in making something that you will find useful. We rely heavily on feedback from practicing teachers and educators, so please play around with the technology and let us know what you think by:<br /></p> <ol> <li>getting involved in the <a href="http://eduforge.org/forum/?group_id=20">discussions</a> on eXe;</li><li>reporting eXe bugs on the <a href="http://exe.cfdl.auckland.ac.nz/mantis/bug_report_page.php">issue tracker</a>;</li><li>submitting ideas for new <a href="http://cfdl.auckland.ac.nz/idevice_interest/introduction.html">iDevices</a>;<br /></li><li>Visiting the developer's <a href="http://exe.cfdl.auckland.ac.nz/wiki/FutureOfExe">wiki</a> and helping us develop ideas for the future of eXe after release 1.0.<br /></li> </ol> <p> </p><p> </p></div></div>
+</div>
+</div>
+</body></html>

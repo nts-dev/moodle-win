@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>eXe</title>
+<meta http-equiv="Content-Type" content="text/html;  charset=utf-8" />
+<style type="text/css">
+@import url(content.css);
+</style>
+<script type="text/javascript" src="APIWrapper.js"></script>
+<script type="text/javascript" src="SCOFunctions.js"></script>
+<script type="text/javascript" src="common.js"></script>
+</head>
+<body onload="loadPage()" onbeforeunload="unloadPage()" onunload="unloadPage()"><div id="outer">
+<div id="main">
+<div id="nodeDecoration">
+<p id="nodeTitle">
+Using Wikipedia</p></div>
+<div class="iDevice emphasis0">
+<div id="12_1" style="display:block"><p>Users of eXe have the ability to inlcude and adapt wikipedia articles for their own teaching needs. This is a powerful feature because a wikipedia article can be recontextualised for your own students by adding customised learning objectives, questions and other iDevices to your content.</p><p>In the example below, we:</p> <ol>   <li>Executed a search for &quot;Aardvark&quot; using the <a href="http://en.wikipedia.org/wiki/Main_Page">Wikipedia</a>  iDevice in eXe</li>   <li>Edited aspects of the article which were not appropriate for this demonstration</li>   <li>Recontextualised the resource by inserting specific learning objectives and questions based on the wikipedia article.</li> </ol> <p> </p></div></div>
+<div class="iDevice emphasis1">
+<img alt="" class="iDevice_icon" src="icon_objectives.gif"/>
+<span class="iDeviceTitle">Objectives</span>
+<div class="iDevice_inner">
+<div id="14_8" style="display:block"><p>The purpose of this page is:</p> <ol>   <li>Establish the first noun in the English Dictionary;</li>   <li>Demonstrate how to inlcude a wikipedia article into a SCORM package;</li>   <li>Show how open content resources can be customised for your students using eXe. </li> </ol></div><br/>
+</div>
+</div>
+<div class="iDevice emphasis1">
+<img alt="" class="iDevice_icon" src="icon_activity.gif"/>
+<span class="iDeviceTitle">Activity</span>
+<div class="iDevice_inner">
+<div id="20_10" style="display:block"><div style="display: block" id="17_10">Read the article on the Aardvark below and then answer the questions which follow. Remember that we may have changed the names of people and places as part of our creative license, and hope that you learn something valuable from this activity.<br /></div></div><br/>
+</div>
+</div>
+<div class="iDevice emphasis0">
+<div id="13_4" style="display:block"><div id="content"> <a name="top"></a> <h1 class="firstHeading">Aardvark</h1> <div id="bodyContent"> <h3>From Wikipedia, the free encyclopedia.</h3> <table width="200" cellpadding="0" border="1" style="margin: 0pt 0pt 0.5em 1em; position: relative; border-collapse: collapse; float: right; clear: right"> <tbody><tr style="text-align: center"> <th style="background: pink none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial"> <div style="padding: 0pt 0.5em 0pt 2em; float: right; font-size: 70%"><a title="Wikipedia:How to read a taxobox" href="http://en.wikipedia.org/wiki/Wikipedia:How_to_read_a_taxobox">?</a></div> <strong>Aardvark</strong><br /> <strong><a title="Wikipedia:Conservation status" href="http://en.wikipedia.org/wiki/Wikipedia:Conservation_status">Conservation status:</a> Lower risk</strong></th> </tr> <tr> <td style="text-align: center"><a title="Cape Aardvark" class="image" href="http://en.wikipedia.org/wiki/Image:Erdferkel-drawing.jpg"><img width="200" height="121" border="0" longdesc="/wiki/Image:Erdferkel-drawing.jpg" alt="Cape Aardvark" src="13_200px-Erdferkel-drawing.jpg" /></a><br /></td> </tr> <tr style="text-align: center"> <th style="background: pink none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial"><strong><a title="Scientific classification" href="http://en.wikipedia.org/wiki/Scientific_classification">Scientific classification</a></strong></th> </tr> <tr style="text-align: center"> <td> <table cellpadding="2" border="0" style="margin: 0pt auto; background: transparent none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; text-align: left"> <tbody><tr valign="top"> <td>Kingdom:</td> <td><a title="Animal" href="http://en.wikipedia.org/wiki/Animal">Animalia</a></td> </tr> <tr valign="top"> <td>Phylum:</td> <td><a title="Chordate" href="http://en.wikipedia.org/wiki/Chordate">Chordata</a></td> </tr> <tr valign="top"> <td>Class:</td> <td><a title="Mammal" href="http://en.wikipedia.org/wiki/Mammal">Mammalia</a></td> </tr> <tr valign="top"> <td>Order:</td> <td><strong>Tubulidentata</strong><br /> <a title="Thomas Henry Huxley" href="http://en.wikipedia.org/wiki/Thomas_Henry_Huxley">Huxley</a>, 1872</td> </tr> <tr valign="top"> <td>Family:</td> <td><strong>Orycteropodidae</strong><br /> <a title="John Edward Gray" href="http://en.wikipedia.org/wiki/John_Edward_Gray">Gray</a>, 1821</td> </tr> <tr valign="top"> <td>Genus:</td> <td><em><strong>Orycteropus</strong></em><br /> <a title="&Eacute;tienne Geoffroy Saint-Hilaire" href="http://en.wikipedia.org/wiki/%C3%89tienne_Geoffroy_Saint-Hilaire">&Eacute;. Geoffroy Saint-Hilaire</a>, 1796</td> </tr> <tr valign="top"> <td>Species:</td> <td><em><strong>O. afer</strong></em></td> </tr> </tbody></table> </td> </tr> <tr style="text-align: center"> <th style="background: pink none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial"><strong><a title="Binomial nomenclature" href="http://en.wikipedia.org/wiki/Binomial_nomenclature">Binomial name</a></strong></th> </tr> <tr style="text-align: center"> <td><em><strong>Orycteropus afer</strong></em><br /> <a title="Peter Simon Pallas" href="http://en.wikipedia.org/wiki/Peter_Simon_Pallas">Pallas</a>, <a title="1766" href="http://en.wikipedia.org/wiki/1766">1766</a></td> </tr> </tbody></table> <p>The <strong>Aardvark</strong> (<em>Orycteropus afer</em>) is a medium-sized <a title="Mammal" href="http://en.wikipedia.org/wiki/Mammal">mammal</a> native to <a title="Africa" href="http://en.wikipedia.org/wiki/Africa">Africa</a> The name comes from the <a title="Afrikaans language" href="http://en.wikipedia.org/wiki/Afrikaans_language">Afrikaans</a> for &quot;earth pig&quot; (<em>aarde</em> earth, <em>vark</em> pig), because early settlers from <a title="Europe" href="http://en.wikipedia.org/wiki/Europe">Europe</a> thought it resembled a <a title="Pig" href="http://en.wikipedia.org/wiki/Pig">pig</a> (although Aardvarks are not closely related to pigs).</p> <p>The Aardvark is the only surviving member of the <a title="Family (biology)" href="http://en.wikipedia.org/wiki/Family_%28biology%29">family</a> <strong>Orycteropodidae</strong> and of the <a title="Order (biology)" href="http://en.wikipedia.org/wiki/Order_%28biology%29">order</a> <strong>Tubulidentata</strong>. Aardvarks bear a striking first-glance resemblance to the <a title="Marsupial" href="http://en.wikipedia.org/wiki/Marsupial">marsupial</a> <a title="Bilby" href="http://en.wikipedia.org/wiki/Bilby">bilbies</a> and <a title="Bandicoot" href="http://en.wikipedia.org/wiki/Bandicoot">bandicoots</a> of <a title="Australasia" href="http://en.wikipedia.org/wiki/Australasia">Australasia</a>, which are not <a title="Eutheria" href="http://en.wikipedia.org/wiki/Eutheria">placental mammals</a> at all.)</p>  <p>The most distinctive characteristic of the Tubulidentata is (as the name implies) their teeth. The teeth have no enamel coating and are worn away and regrow continuously. Aardvarks are born with conventional incisors and canines at the front of the jaw, but these fall out and are not replaced. In adult Aardvarks, the only teeth are the molars at the back of the jaw.</p>  <p>Aardvarks are only vaguely pig-like; the body is stout with an arched back; the limbs are of moderate length. The front feet have lost the pollex (or 'thumb')&mdash;resulting in four toes&mdash;but the rear feet have all five toes. The ears are disproportionately long and the tail very thick at the base with a gradual taper. The greatly elongated head is set on a short thick neck, and at the end of the snout is a disk in which the nostrils open. The mouth is typical of species that feed on termites: small and tubular. Aardvarks have long, thin, protrusible tongues and elaborate structures supporting a keen <a title="Olfaction" href="http://en.wikipedia.org/wiki/Olfaction">sense of smell</a>.</p> <p>Weight is typically between 40 and 65kg; length is usually between 1 and 1.3m. Aardvarks are a pale yellowish gray in color, often stained reddish-brown by soil. The coat is thin and the animal's primary protection is its tough skin. <br /> </p>  <p>Aardvarks are <a title="Nocturnal" href="http://en.wikipedia.org/wiki/Nocturnal">nocturnal</a> and solitary creatures that feed almost exclusively on <a title="Ant" href="http://en.wikipedia.org/wiki/Ant">ants</a> and <a title="Termite" href="http://en.wikipedia.org/wiki/Termite">termites</a>. An Aardvark emerges from its burrow in the late afternoon or shortly after sunset, and forages over a considerable home range, swinging its long nose from side to side to pick up the scent of food. When a concentration of ants or termites is found, the Aardvark digs into it with its powerful front legs, keeping its long ears upright to listen for predators, and takes up an astonishing number of insects with its long, sticky tongue&mdash;as many as 50,000 in one night has been recorded. They are exceptionally fast diggers, but otherwise move rather slowly.</p>    <p>Aardvark is always the first noun in the English Dictionary. <br /> </p></div></div>This article is licensed under the <a href="http://www.gnu.org/copyleft/fdl.html">GNU Free Documentation License</a>. It uses material from the <a href="http://en.wikipedia.org/wiki/aardvark">article &quot;aardvark&quot;</a>.<br /></div></div>
+<script type="text/javascript" src="common.js"></script>
+<script type="text/javascript" src="libot_drag.js"></script>
+<div class="iDevice emphasis1">
+<img alt="" class="iDevice_icon" src="icon_question.gif" />
+<span class="iDeviceTitle">Multi-Choice Question</span><br/>
+<div class="iDevice_inner">
+Select the aardvark's favourite food.<br /> &nbsp;&nbsp;
+<span  style="background-image:url('panel-amusements.png');">
+<a onmousedown="Javascript:updateCoords(event);showMe('hint15', 350, 100);" style="cursor:help;align:center;vertical-align:middle;" title="Hint" 
+href="javascript:void(0);">&nbsp;&nbsp;&nbsp;&nbsp;</a></span><div id="hint15" style="display:none; z-index:99;"><div style="float:right;" ><img alt="Close" src="stock-stop.png" title="Close" onmousedown="Javascript:hideMe();"/></div><div class="popupDivLabel">Hint</div>
+The aardvark has a long sticky tongue<br /></div>
+<table>
+<tbody>
+<tr><td><input type="radio" name="option15" id="a0b15" onclick="getFeedback(0,3,'15','multi')"/></td><td>
+Carrots</td></tr>
+<tr><td><input type="radio" name="option15" id="a1b15" onclick="getFeedback(1,3,'15','multi')"/></td><td>
+Hokey pokey ice cream<br /></td></tr>
+<tr><td><input type="radio" name="option15" id="a2b15" onclick="getFeedback(2,3,'15','multi')"/></td><td>
+Ants</td></tr>
+</tbody>
+</table>
+<div id="sa0b15" style="color: rgb(0, 51, 204);display: none;">No, Rabbits eat carrots<br /></div>
+<div id="sa1b15" style="color: rgb(0, 51, 204);display: none;">No. The Aardvark does not come from New Zealand.<br /></div>
+<div id="sa2b15" style="color: rgb(0, 51, 204);display: none;">Well done<br /></div>
+</div>
+</div>
+<script type="text/javascript" src="common.js"></script>
+<script type="text/javascript" src="libot_drag.js"></script>
+<div class="iDevice emphasis1">
+<img alt="" class="iDevice_icon" src="icon_question.gif" />
+<span class="iDeviceTitle">True-False Questions</span><br/>
+<div class="iDevice_inner">
+<br/><br/><b>1. Aardvark is the first entry in the English dictionary<br /></b><br/><br/>True <input type="radio" name="option0b16" id="true0b16" onclick="getFeedback(0,2,'0b16','truefalse')"/> 
+False <input type="radio" name="option0b16" id="false0b16" onclick="getFeedback(1,2,'0b16','truefalse')"/>
+<span style="background-image:url('panel-amusements.png');">
+<a onmousedown="Javascript:updateCoords(event);showMe('hint0b16', 350, 100);" style="cursor:help;align:center;vertical-align:middle;" title="Hint" 
+href="javascript:void(0);">&nbsp;&nbsp;&nbsp;&nbsp;</a></span><div id="hint0b16" style="display:none; z-index:99;"><div style="float:right;" ><img alt="Close" src="stock-stop.png" title="Close" onmousedown="Javascript:hideMe();"/></div><div class="popupDivLabel">Hint</div>
+Don't confuse the first entry with the first word<br /></div>
+<div id="s0b0b16" style="color: rgb(0, 51, 204);display: none;">Incorrect! Aardvark is the first noun in the English dictionary<br /></div>
+<div id="s1b0b16" style="color: rgb(0, 51, 204);display: none;">Correct! Aardvark is the first noun in the English dictionary<br /></div>
+<br/><br/><b>2. The best time to see an Aardvark is during daylight saving<br /></b><br/><br/>True <input type="radio" name="option1b16" id="true1b16" onclick="getFeedback(0,2,'1b16','truefalse')"/> 
+False <input type="radio" name="option1b16" id="false1b16" onclick="getFeedback(1,2,'1b16','truefalse')"/>
+<span style="background-image:url('panel-amusements.png');">
+<a onmousedown="Javascript:updateCoords(event);showMe('hint1b16', 350, 100);" style="cursor:help;align:center;vertical-align:middle;" title="Hint" 
+href="javascript:void(0);">&nbsp;&nbsp;&nbsp;&nbsp;</a></span><div id="hint1b16" style="display:none; z-index:99;"><div style="float:right;" ><img alt="Close" src="stock-stop.png" title="Close" onmousedown="Javascript:hideMe();"/></div><div class="popupDivLabel">Hint</div>
+When you're asleep, Aarvarks are at play<br /></div>
+<div id="s0b1b16" style="color: rgb(0, 51, 204);display: none;">Incorrect! Aarvarks are nocturnal<br /></div>
+<div id="s1b1b16" style="color: rgb(0, 51, 204);display: none;">Correct! Aarvarks are nocturnal<br /></div>
+</div>
+</div>
+</div>
+</div>
+</body></html>

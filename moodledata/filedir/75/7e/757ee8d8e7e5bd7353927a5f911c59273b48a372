@@ -1,0 +1,212 @@
+.h5p-timeline .h5p-content-controls {
+  z-index: 1000;
+}
+/* Allow wysiwygging */
+#h5p-timeline ul {
+  list-style-type: square;
+  margin: 1em;
+  padding-left: 1em;
+}
+#h5p-timeline ol {
+  list-style-type: decimal;
+  margin: 1em;
+  padding-left: 1em;
+}
+#storyjs-timeline.vco-skinny .vco-slider .slider-item .content .layout-text-media .text .container {
+  text-align: left !important;
+}
+/* Background image */
+#h5p-timeline .vco-slider {
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#h5p-timeline .vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .credit {
+  color: #333;
+  text-align: left;
+}
+#h5p-timeline .vco-slider .slider-item .content .content-container {
+  padding: .5em;
+  background: rgba(255,255,255,0.9);
+  border-radius: .2em;
+  display: block !important;
+}
+#h5p-timeline .vco-slider .slider-item {
+  overflow-x: hidden;
+}
+#h5p-timeline .vco-storyjs .vco-feature p,
+#h5p-timeline .vco-storyjs h2.date {
+  color: #333;
+}
+#h5p-timeline .vco-slider .nav-previous,
+#h5p-timeline .vco-slider .nav-next {
+  height: auto !important;
+  top: 0;
+  bottom: 0;
+}
+#h5p-timeline .vco-slider .nav-previous:hover,
+#h5p-timeline .vco-slider .nav-next:hover {
+  background-color: rgba(255,255,255,0.7);
+}
+#h5p-timeline .vco-skinny.vco-notouch .vco-slider .nav-previous:hover,
+#h5p-timeline .vco-skinny.vco-notouch .vco-slider .nav-next:hover {
+  border-radius: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  background-color: #333;
+  background-color: rgba(0,0,0,0.65);
+}
+#h5p-timeline .media-wrapper,
+#h5p-timeline .media-wrapper .media-container,
+#h5p-timeline .media-wrapper .media-container .media-shadow {
+  max-width: 100% !important;
+  max-height: none !important;
+  width: 100%;
+}
+#h5p-timeline .media-wrapper .media-container .media-shadow:not(.media-image) {
+  width: 100%;
+}
+#h5p-timeline .media-wrapper .media-container .media-shadow {
+  text-align: left;
+}
+#h5p-timeline .media-image img {
+  max-width: 100% !important;
+  height: auto !important;
+}
+#h5p-timeline .media-image {
+  background: transparent !important;
+}
+#h5p-timeline .media-image:after,
+#h5p-timeline .media-image:before {
+  display: none;
+}
+#h5p-timeline .media-shadow .media-frame {
+  width: 100% !important;
+}
+#h5p-timeline .vco-slider .slider-item .content .text .container {
+  padding-left: 0;
+  display: inline !important;
+  width: auto !important;
+}
+#h5p-timeline .vco-slider .slider-item .content .text .container * {
+  max-width: 100%;
+  width: 100%;
+  word-wrap: break-word;
+}
+#h5p-timeline .vco-timeline:not(.vco-skinny) .vco-slider .slider-item .content .content-container .text {
+  display: inline-block !important;
+  width: 50% !important;
+  max-width: none;
+  vertical-align: top;
+}
+#h5p-timeline .vco-timeline:not(.vco-skinny) .vco-slider .slider-item .content .content-container .text h2,
+#h5p-timeline .vco-timeline:not(.vco-skinny) .vco-slider .slider-item .content .content-container .text h3 {
+  width: 100% !important;
+}
+#h5p-timeline .vco-timeline:not(.vco-skinny) .vco-slider .slider-item .content .content-container .media {
+  display: inline-block !important;
+  max-width: 40%;
+  min-width: inherit;
+  margin-right: 20px;
+  float: none !important;
+}
+.h5p-timeline-data-not-valid {
+  padding: 1em;
+  color: #eee;
+  background: #555;
+  font-size: 1.1em;
+  margin: 2em;
+  border-radius: .5em;
+}
+
+.h5p-column-content {
+  position: relative;
+}
+.h5p-column-content.h5p-table,
+.h5p-column-content.h5p-advanced-text,
+.h5p-column-content.h5p-link {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+.h5p-column-content.h5p-video > video {
+  width: 100%;
+}
+
+.h5p-column-ruler {
+  border-bottom: 2px solid #eee;
+}
+.h5p-column-space-before-n-after {
+  margin: 1em 0;
+}
+.h5p-column-space-before {
+  margin: 1em 0 0;
+}
+.h5p-column-space-after {
+  margin: 0 0 1em;
+}
+
+/* Align question texts when there's no frame */
+.h5p-no-frame > .h5p-column > div > .h5p-question > * {
+  margin-left: 0;
+  margin-right: 0;
+}
+.h5p-no-frame > .h5p-column > div > .h5p-question .h5p-question-image-wrap {
+  -webkit-transform: translate(0, 1em);
+  transform: translate(0, 1em);
+  margin: 0 0 1em 0;
+  max-width: 100%;
+}
+
+/* Special fixes for SCS */
+.h5p-no-frame > .h5p-column > div > .h5p-single-choice-set .h5p-sc-alternatives,
+.h5p-no-frame > .h5p-column > div > .h5p-single-choice-set .h5p-sc-question {
+  margin-left: 0;
+  margin-right: 0;
+}
+.h5p-no-frame > .h5p-column > div > .h5p-single-choice-set .h5p-sc-sound-control {
+  top: 0;
+  right: 0;
+}
+
+/* QS is a bit to eager... */
+.h5p-no-frame > .h5p-column > div > .h5p-column-content > .questionset .h5p-question > *:first-child {
+  margin-top: 1em;
+}
+
+/* Align text content when there's no frame */
+.h5p-no-frame > .h5p-column > div > .h5p-table,
+.h5p-no-frame > .h5p-column > div > .h5p-advanced-text,
+.h5p-no-frame > .h5p-column > div > .h5p-link {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+/* Align accordion texts when there's no frame */
+.h5p-no-frame > .h5p-column > div > .h5p-accordion {
+  border-left: 1px solid #eeeeee;
+  border-right: 1px solid #eeeeee;
+}
+
+/* Memory Game */
+.h5p-no-frame > .h5p-column > div > .h5p-memory-game .h5p-status {
+  padding-left: 0;
+  padding-right: 0;
+}
+.h5p-no-frame > .h5p-column > div > .h5p-memory-game .h5p-feedback {
+  margin: 0;
+}
+.h5p-no-frame > .h5p-column > div > .h5p-memory-game .h5p-memory-card {
+  margin-left: 0;
+  margin-right: 2em;
+}
+
+/* Remove fullscreen for video tags and DQ */
+.h5p-interactive-book video::-webkit-media-controls-fullscreen-button,
+.h5p-interactive-book .h5p-my-fullscreen-button-enter {
+  display: none;
+}
+

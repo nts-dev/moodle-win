@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="eXeCORM_Small4367da861a5747e53df" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd" > 
+<metadata> 
+ <schema>ADL SCORM</schema> 
+ <schemaversion>1.2</schemaversion> 
+</metadata> 
+<organizations default="eXeCORM_Small4367da861a5747e53d10">  
+<organization identifier="eXeCORM_Small4367da861a5747e53d10" structure="hierarchical">  
+<title>eXe Scorm Package</title>
+<item identifier="ITEM-eXeCORM_Small4367da861a5747e53d11" isvisible="true" identifierref="RES-eXeCORM_Small4367da861a5747e53d12">
+    <title>eXe Scorm Package</title>
+<item identifier="ITEM-eXeCORM_Small4367da861a5747e53d13" isvisible="true" identifierref="RES-eXeCORM_Small4367da861a5747e53d14">
+    <title>Adding an image</title>
+</item>
+<item identifier="ITEM-eXeCORM_Small4367da861a5747e53d15" isvisible="true" identifierref="RES-eXeCORM_Small4367da861a5747e53d16">
+    <title>A multi-choice question</title>
+</item>
+<item identifier="ITEM-eXeCORM_Small4367da861a5747e53d17" isvisible="true" identifierref="RES-eXeCORM_Small4367da861a5747e53d18">
+    <title>Learner-content interactions</title>
+</item>
+<item identifier="ITEM-eXeCORM_Small4367da861a5747e53d19" isvisible="true" identifierref="RES-eXeCORM_Small4367da861a5747e53d1a">
+    <title>Using Wikipedia</title>
+</item>
+<item identifier="ITEM-eXeCORM_Small4367da861a5747e53d1b" isvisible="true" identifierref="RES-eXeCORM_Small4367da861a5747e53d1c">
+    <title>A cloze activity</title>
+</item>
+</item>
+</organization>
+</organizations>
+<resources>
+<resource identifier="RES-eXeCORM_Small4367da861a5747e53d12" type="webcontent" adlcp:scormtype="sco" href="index.html"> 
+    <file href="index.html"/>
+    <file href="content.css"/>
+    <file href="APIWrapper.js"/>
+    <file href="SCOFunctions.js"/>
+    <file href="libot_drag.js"/>
+    <file href="icon_objectives.gif"/>
+    <file href="common.js"/>
+</resource>
+<resource identifier="RES-eXeCORM_Small4367da861a5747e53d14" type="webcontent" adlcp:scormtype="sco" href="adding_an_image.html"> 
+    <file href="adding_an_image.html"/>
+    <file href="content.css"/>
+    <file href="APIWrapper.js"/>
+    <file href="SCOFunctions.js"/>
+    <file href="6_2_exe_logo_small.jpg"/>
+</resource>
+<resource identifier="RES-eXeCORM_Small4367da861a5747e53d16" type="webcontent" adlcp:scormtype="sco" href="a_multichoice_question.html"> 
+    <file href="a_multichoice_question.html"/>
+    <file href="content.css"/>
+    <file href="APIWrapper.js"/>
+    <file href="SCOFunctions.js"/>
+    <file href="stock-stop.png"/>
+    <file href="common.js"/>
+    <file href="libot_drag.js"/>
+    <file href="panel-amusements.png"/>
+    <file href="icon_question.gif"/>
+</resource>
+<resource identifier="RES-eXeCORM_Small4367da861a5747e53d18" type="webcontent" adlcp:scormtype="sco" href="learnercontent_interactions.html"> 
+    <file href="learnercontent_interactions.html"/>
+    <file href="content.css"/>
+    <file href="APIWrapper.js"/>
+    <file href="SCOFunctions.js"/>
+    <file href="icon_reading.gif"/>
+    <file href="icon_casestudy.gif"/>
+    <file href="libot_drag.js"/>
+    <file href="icon_reflection.gif"/>
+    <file href="common.js"/>
+</resource>
+<resource identifier="RES-eXeCORM_Small4367da861a5747e53d1a" type="webcontent" adlcp:scormtype="sco" href="using_wikipedia.html"> 
+    <file href="using_wikipedia.html"/>
+    <file href="content.css"/>
+    <file href="APIWrapper.js"/>
+    <file href="SCOFunctions.js"/>
+    <file href="13_250px-Orycteropus_afer01.jpg"/>
+    <file href="13_50px-Sourceberg.jpg"/>
+    <file href="13_200px-Erdferkel-drawing.jpg"/>
+    <file href="13_magnify-clip.png"/>
+    <file href="icon_question.gif"/>
+    <file href="icon_objectives.gif"/>
+    <file href="icon_activity.gif"/>
+    <file href="panel-amusements.png"/>
+    <file href="common.js"/>
+    <file href="stock-stop.png"/>
+    <file href="libot_drag.js"/>
+</resource>
+<resource identifier="RES-eXeCORM_Small4367da861a5747e53d1c" type="webcontent" adlcp:scormtype="sco" href="a_cloze_activity.html"> 
+    <file href="a_cloze_activity.html"/>
+    <file href="content.css"/>
+    <file href="APIWrapper.js"/>
+    <file href="SCOFunctions.js"/>
+    <file href="common.js"/>
+    <file href="icon_question.gif"/>
+</resource>
+</resources>
+</manifest>

@@ -1,0 +1,3094 @@
+a:822:{s:11:"cpapisecret";s:0:"";s:9:"cpapiuser";s:0:"";s:9:"dataset_1";s:0:"";s:10:"dataset_10";s:0:"";s:10:"dataset_11";s:0:"";s:10:"dataset_12";s:0:"";s:10:"dataset_13";s:0:"";s:10:"dataset_14";s:0:"";s:10:"dataset_15";s:0:"";s:10:"dataset_16";s:0:"";s:10:"dataset_17";s:0:"";s:10:"dataset_18";s:0:"";s:10:"dataset_19";s:0:"";s:9:"dataset_2";s:0:"";s:10:"dataset_20";s:0:"";s:10:"dataset_21";s:0:"";s:10:"dataset_22";s:0:"";s:10:"dataset_23";s:0:"";s:10:"dataset_24";s:0:"";s:10:"dataset_25";s:0:"";s:10:"dataset_26";s:0:"";s:10:"dataset_27";s:0:"";s:10:"dataset_28";s:0:"";s:10:"dataset_29";s:0:"";s:9:"dataset_3";s:0:"";s:10:"dataset_30";s:0:"";s:10:"dataset_31";s:0:"";s:10:"dataset_32";s:0:"";s:10:"dataset_33";s:0:"";s:10:"dataset_34";s:0:"";s:10:"dataset_35";s:0:"";s:10:"dataset_36";s:0:"";s:10:"dataset_37";s:0:"";s:10:"dataset_38";s:0:"";s:10:"dataset_39";s:0:"";s:9:"dataset_4";s:0:"";s:10:"dataset_40";s:0:"";s:9:"dataset_5";s:0:"";s:9:"dataset_6";s:0:"";s:9:"dataset_7";s:0:"";s:9:"dataset_8";s:0:"";s:9:"dataset_9";s:0:"";s:13:"datasetvars_1";s:0:"";s:14:"datasetvars_10";s:0:"";s:14:"datasetvars_11";s:0:"";s:14:"datasetvars_12";s:0:"";s:14:"datasetvars_13";s:0:"";s:14:"datasetvars_14";s:0:"";s:14:"datasetvars_15";s:0:"";s:14:"datasetvars_16";s:0:"";s:14:"datasetvars_17";s:0:"";s:14:"datasetvars_18";s:0:"";s:14:"datasetvars_19";s:0:"";s:13:"datasetvars_2";s:0:"";s:14:"datasetvars_20";s:0:"";s:14:"datasetvars_21";s:0:"";s:14:"datasetvars_22";s:0:"";s:14:"datasetvars_23";s:0:"";s:14:"datasetvars_24";s:0:"";s:14:"datasetvars_25";s:0:"";s:14:"datasetvars_26";s:0:"";s:14:"datasetvars_27";s:0:"";s:14:"datasetvars_28";s:0:"";s:14:"datasetvars_29";s:0:"";s:13:"datasetvars_3";s:0:"";s:14:"datasetvars_30";s:0:"";s:14:"datasetvars_31";s:0:"";s:14:"datasetvars_32";s:0:"";s:14:"datasetvars_33";s:0:"";s:14:"datasetvars_34";s:0:"";s:14:"datasetvars_35";s:0:"";s:14:"datasetvars_36";s:0:"";s:14:"datasetvars_37";s:0:"";s:14:"datasetvars_38";s:0:"";s:14:"datasetvars_39";s:0:"";s:13:"datasetvars_4";s:0:"";s:14:"datasetvars_40";s:0:"";s:13:"datasetvars_5";s:0:"";s:13:"datasetvars_6";s:0:"";s:13:"datasetvars_7";s:0:"";s:13:"datasetvars_8";s:0:"";s:13:"datasetvars_9";s:0:"";s:10:"datavars_1";s:0:"";s:11:"datavars_10";s:0:"";s:11:"datavars_11";s:0:"";s:11:"datavars_12";s:0:"";s:11:"datavars_13";s:0:"";s:11:"datavars_14";s:0:"";s:11:"datavars_15";s:0:"";s:11:"datavars_16";s:0:"";s:11:"datavars_17";s:0:"";s:11:"datavars_18";s:0:"";s:11:"datavars_19";s:0:"";s:10:"datavars_2";s:0:"";s:11:"datavars_20";s:0:"";s:11:"datavars_21";s:0:"";s:11:"datavars_22";s:0:"";s:11:"datavars_23";s:0:"";s:11:"datavars_24";s:0:"";s:11:"datavars_25";s:0:"";s:11:"datavars_26";s:0:"";s:11:"datavars_27";s:0:"";s:11:"datavars_28";s:0:"";s:11:"datavars_29";s:0:"";s:10:"datavars_3";s:0:"";s:11:"datavars_30";s:0:"";s:11:"datavars_31";s:0:"";s:11:"datavars_32";s:0:"";s:10:"datavars_4";s:0:"";s:10:"datavars_5";s:0:"";s:10:"datavars_6";s:0:"";s:10:"datavars_7";s:0:"";s:10:"datavars_8";s:0:"";s:10:"datavars_9";s:0:"";s:10:"extensions";s:36:"mp4,webm,ogg,ogv,flv,mp3,rss,youtube";s:9:"handleflv";s:1:"0";s:9:"handlemp3";s:1:"1";s:9:"handlemp4";s:1:"1";s:9:"handleogg";s:1:"0";s:9:"handleogv";s:1:"0";s:9:"handlerss";s:1:"0";s:10:"handlewebm";s:1:"0";s:13:"handleyoutube";s:1:"1";s:24:"html5recorder_skin_audio";s:11:"onetwothree";s:24:"html5recorder_skin_video";s:11:"onetwothree";s:20:"placeholderaudiofile";s:0:"";s:20:"placeholderaudiosecs";s:1:"0";s:20:"placeholdervideofile";s:0:"";s:20:"placeholdervideosecs";s:1:"0";s:8:"revision";s:10:"1591360565";s:14:"skinstyleaudio";s:0:"";s:14:"skinstylevideo";s:0:"";s:10:"template_1";s:304:"<audio id="@@AUTOID@@" controls="controls" controlsList="nodownload" class="nomediaplugin">
+  <source src="@@VIDEOURL@@" type="audio/mpeg">
+  Your browser does not support HTML5.
+</audio>
+
+<a id="@@AUTOID@@_download_button" class="@@CANDOWNLOAD@@ nomediaplugin"  href="@@VIDEOURL@@" download>Download</a>";s:11:"template_10";s:27:"<div id="@@AUTOID@@"></div>";s:11:"template_11";s:906:"<div id='@@AUTOID@@_container' class='poodll_multiplayer'>
+
+ <div class="button-wrapper">
+    <button type='button'  id='@@AUTOID@@' class='poodll_multiplayer_button'>
+   <audio id='@@AUTOID@@_player' class="onceplayerjs nomediaplugin" src="@@VIDEOURL@@"></audio>
+    <i class="fa fa-play fa-2x" aria-hidden="true"></i></button>
+  </div>
+  <div class="state-wrapper">
+   <div id='@@AUTOID@@_time' class='poodll_onceplayer_time'></div>
+   <!--<div id='@@AUTOID@@_state' class='poodll_onceplayer_state'></div>-->
+    <div id='@@AUTOID@@_playtime' class="poodll_multiplayer_playtime"></div>
+  </div>
+  <div class="volume-control">
+    <button type="button" id="@@AUTOID@@_vol-up" class="vol-up vol-but"></button>
+   <div class="meter">
+     <div id="@@AUTOID@@_indicator" class="indicator"></div>
+   </div>
+    <button type="button" id="@@AUTOID@@_vol-down" class="vol-down vol-but"></button> 
+  </div>
+</div>";s:11:"template_12";s:169:"<div class="video-js-box" id="@@AUTOID@@_box"></div>
+
+<a id="@@AUTOID@@_download_button" class="@@CANDOWNLOAD@@ nomediaplugin"  href="@@VIDEOURL@@" download>Download</a>";s:11:"template_13";s:1281:"<!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#@@AUTOID@@_trigger">
+  Audio Recorder
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="@@AUTOID@@_trigger" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLongTitle">Record Audio</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div id="@@AUTOID@@" class="poodllrecorder" data-parent="@@WWWROOT@@" data-type="fresh" data-width="380" data-height="280" data-id="@@AUTOID@@_widget" data-media="audio" data-token="@@CLOUDPOODLLTOKEN@@" />
+      </div>
+     <div id="@@AUTOID@@_download" style="display: none;">
+           <a id="@@AUTOID@@_download_button" class="btn btn-success pf-popuprecorder-downloadbutton" download>Download</a>
+           <a id="@@AUTOID@@_reset_button" href="#" class="pf-popuprecorder-resetbutton">New recording</a>
+    </div> 
+    </div>
+  </div>
+</div>
+</div>";s:11:"template_14";s:224:"<div class="filter_poodll_fff_outer">
+<div class="filter_poodll_fff_inner" id ="@@AUTOID@@" >
+</div>
+</div>
+
+<a id="@@AUTOID@@_download_button" class="@@CANDOWNLOAD@@ nomediaplugin"  href="@@VIDEOURL@@" download>Download</a>";s:11:"template_15";s:93:"<iframe id='@@AUTOID@@' width='@@width@@' height='@@height@@' style='border: none'></iframe>
+";s:11:"template_16";s:488:"<div id='@@AUTOID@@_container' class='poodll_onceplayer'>
+<button type='button'  id='@@AUTOID@@' class='poodll_onceplayer_button'><audio id='@@AUTOID@@_player' class="onceplayerjs nomediaplugin" src="@@VIDEOURL@@"></audio><i class="fa fa-play fa-2x" aria-hidden="true"></i></button>
+<!-- div id='@@AUTOID@@_slider' class='poodll_onceplayer_slider' -->
+<div id='@@AUTOID@@_time' class='poodll_onceplayer_time'></div>
+<div id='@@AUTOID@@_state' class='poodll_onceplayer_state'></div>
+</div>";s:11:"template_17";s:136:"<iframe width="@@width@@" height="@@height@@" src="//www.youtube.com/embed/@@FILENAME@@?rel=0" frameborder="0" allowfullscreen></iframe>";s:11:"template_18";s:139:"<audio id="@@AUTOID@@_audioplayer" class="nomediaplugin" controls/>
+<!-- @@CLOUDPOODLLTOKEN@@ -->
+<div id="@@AUTOID@@" class='hide nolink'>";s:11:"template_19";s:252:"<div id="@@AUTOID@@"><span class="fa fa-2x fa-toggle-off togglebutton"  aria-hidden="true"></span><span class="toggletext" style="padding: 5px;">@@closedtext@@</span></div>
+  <div id="@@AUTOID@@_target" class="@@AUTOID@@_target" style="display: none;">";s:10:"template_2";s:208:"<audio id="@@AUTOID@@" src="@@VIDEOURL@@" class="nomediaplugin" preload="metadata"></audio>
+
+<a id="@@AUTOID@@_download_button" class="@@CANDOWNLOAD@@ nomediaplugin"  href="@@VIDEOURL@@" download>Download</a>";s:11:"template_20";s:145:"<a id="@@AUTOID@@" data-fancybox data-src="#@@AUTOID@@_content" href="javascript:;" >@@linktext@@</a>
+<div id="@@AUTOID@@_content" class="hide">
+";s:11:"template_21";s:93:"<iframe id='@@AUTOID@@' width='@@width@@' height='@@height@@' style='border: none'></iframe>
+";s:11:"template_22";s:148:"<audio id='@@AUTOID@@_audio' class="nomediaplugin"></audio>
+<!-- @@CLOUDPOODLLTOKEN@@ -->
+<div id='@@AUTOID@@_textblock' ><div class='tbr_innerdiv'>";s:11:"template_23";s:227:"<video id="@@AUTOID@@" src="@@VIDEOURL@@" width="@@WIDTH@@" height="@@HEIGHT@@" class="nomediaplugin"></video>
+
+<a id="@@AUTOID@@_download_button" class="@@CANDOWNLOAD@@ nomediaplugin"  href="@@VIDEOURL@@" download>Download</a>";s:11:"template_24";s:130:"<div><div id="@@AUTOID@@" style="max-width: @@WIDTH@@px; background-color:#777;" class="flowplayer poodll-flowplayer"></div></div>";s:11:"template_25";s:347:"<video id="@@AUTOID@@" controls="controls" controlList="noDownload" width="@@WIDTH@@" height="@@HEIGHT@@" class="nomediaplugin" crossorigin="anonymous">
+  <source src="@@VIDEOURL@@">
+  Your browser does not support HTML5.
+</video>
+
+<a id="@@AUTOID@@_download_button" class="@@CANDOWNLOAD@@ nomediaplugin"  href="@@VIDEOURL@@" download>Download</a>";s:11:"template_26";s:71:"<div id="@@AUTOID@@" class="filter_generico_tabitem" title="@@title@@">";s:11:"template_27";s:28:"<h3>@@titletext@@</h3>
+<div>";s:11:"template_28";s:93:"<iframe id='@@AUTOID@@' width='@@width@@' height='@@height@@' style='border: none'></iframe>
+";s:11:"template_29";s:457:"<button type='button' id='@@AUTOID@@' data-currentsentence="0" class="roundmini-audio-player" style="width: @@width@@px; height: @@height@@px; background-color: @@background@@;   border-radius: 50%;">
+  <audio id='@@AUTOID@@_player' class="roundminiaudio nomediaplugin">
+ </audio>
+  <i class="fa fa-volume-up" aria-hidden="true" style="color:@@color@@"></i>
+</button>
+<div id='@@AUTOID@@_textblock' >
+<!-- @@CLOUDPOODLLTOKEN@@ -->
+<div class='tbr_innerdiv'>";s:10:"template_3";s:76:"<span tabindex='0' id='@@AUTOID@@' class="fp_popovertrigger">@@text@@</span>";s:11:"template_30";s:21:"<div id="@@AUTOID@@">";s:11:"template_31";s:1650:"<div class="filterpoodll_siv_transcriptmain_container fpv_flexrow" >
+<video id="@@AUTOID@@_player" class="poodllmediacontainer nomediaplugin" controls="true" src="@@VIDEOURL@@" crossorigin='anonymous' style="max-width: 100%"><track src='@@data-subtitles@@' kind='captions' srclang='@@lang@@' label='@@lang@@' default='true' width="640" height="480" ></video>
+  <div id="@@AUTOID@@_splitter" class="splitter ui-resizable-handle ui-resizable-e"></div>
+  <div id="@@AUTOID@@_transcriptcontainer" class="filterpoodll_siv_transcriptcontainer">
+            <div class="filterpoodll_siv_transcripttoolbar">
+                <span class="filterpoodll_siv_transcripttitle"></span>
+                <span class="filterpoodll_siv_transcripttools" style="display: none">
+                    <a class="btn btn-secondary filterpoodll_siv_transcriptlayout" href="#">
+                             <i class="fa fa-th-large" aria-hidden="true"></i></a>
+                     <a class="btn btn-secondary filterpoodll_siv_transcriptshowtime" href="#">
+                             <i class="fa fa-list" aria-hidden="true"></i></a>
+                     <a class="btn btn-secondary filterpoodll_siv_transcriptdownload" href="#">
+                             <i class="fa fa-download" aria-hidden="true"></i></a>  
+                </span>
+             </div>
+            <div id="@@AUTOID@@_transcriptscrollable" class="filterpoodll_siv_transcriptscrollable"></div>
+        </div>
+</div>
+<video id="@@AUTOID@@_dummyplayer" crossorigin='anonymous' class='nomediaplugin'><track src='@@data-subtitles@@' kind='captions' srclang='@@lang@@' label='@@lang@@' default='true'></video>";s:11:"template_32";s:90:"<a class="btn @@style@@" href="@@url@@"  target="@@target@@" role="button">@@caption@@</a>";s:11:"template_33";s:0:"";s:11:"template_34";s:0:"";s:11:"template_35";s:0:"";s:11:"template_36";s:0:"";s:11:"template_37";s:0:"";s:11:"template_38";s:0:"";s:11:"template_39";s:0:"";s:10:"template_4";s:243:"<audio id="@@AUTOID@@" src="@@VIDEOURL@@" width="@@WIDTH@@" height="@@HEIGHT@@" class="nomediaplugin" preload="auto"'></audio>
+
+<a id="@@AUTOID@@_download_button" class="@@CANDOWNLOAD@@ nomediaplugin"  href="@@VIDEOURL@@" download>Download</a>";s:11:"template_40";s:0:"";s:10:"template_5";s:1359:"<div class="filterpoodll_sia_transcriptmain_container fpv_flexcol" >
+<audio id="@@AUTOID@@_player" class="poodllmediacontainer nomediaplugin" controls="true" src="@@VIDEOURL@@" crossorigin='anonymous'><track src='@@data-subtitles@@' kind='captions' srclang='@@lang@@' label='@@lang@@' default='true' width="640" height="480" ></audio>
+  <div id="@@AUTOID@@_transcriptcontainer" class="filterpoodll_sia_transcriptcontainer">
+            <div class="filterpoodll_sia_transcripttoolbar">
+                <span class="filterpoodll_sia_transcripttitle"></span>
+                <span class="filterpoodll_sia_transcripttools" style="display: none">
+                     <a class="btn btn-secondary filterpoodll_sia_transcriptshowtime" href="#">
+                             <i class="fa fa-list" aria-hidden="true"></i></a>
+                     <a class="btn btn-secondary filterpoodll_sia_transcriptdownload" href="#">
+                             <i class="fa fa-download" aria-hidden="true"></i></a>  
+                </span>
+             </div>
+            <div id="@@AUTOID@@_transcriptscrollable" class="filterpoodll_sia_transcriptscrollable"></div>
+        </div>
+</div>
+<audio id="@@AUTOID@@_dummyplayer" crossorigin='anonymous' class='nomediaplugin'><track src='@@data-subtitles@@' kind='captions' srclang='@@lang@@' label='@@lang@@' default='true'></audio>";s:10:"template_6";s:174:"<div id="@@AUTOID@@_container" class="container"></div>
+<audio id="@@AUTOID@@_player"></audio>
+<!-- @@CLOUDPOODLLTOKEN@@ -->
+<div id="@@AUTOID@@" class="fp_soundboard hide">
+";s:10:"template_7";s:146:"<iframe width="@@width@@" height="@@height@@" src="//www.youtube.com/embed/@@id@@?rel=0&start=@@start@@" frameborder="0" allowfullscreen></iframe>";s:10:"template_8";s:30:"<div id="@@AUTOID@@"><ul></ul>";s:10:"template_9";s:823:" <div id="@@AUTOID@@_glide" class="glide">
+    <div class="glide__arrows speechcards_toprow">
+        <button class="glide__arrow prev btn btn-success" data-glide-dir="<">prev</button>
+        <div id='@@AUTOID@@_whatheard' class='speechcards_whatheard'>........</div>
+        <button class="glide__arrow next btn btn-success" data-glide-dir=">">Next</button>
+    </div>
+ 
+    <div class="glide__wrapper"><ul id="@@AUTOID@@_thelist" class="glide__track"></ul></div>
+
+</div>
+
+<div id="@@AUTOID@@" class="poodllrecorder" data-parent="@@WWWROOT@@" data-type="push" data-width="240" data-height="80" data-id="@@AUTOID@@_widget" data-media="audio" data-speechevents="1" data-language="@@language@@" data-token="@@CLOUDPOODLLTOKEN@@" ></div>
+
+<div id="@@AUTOID@@_bullets" class="poodllspeechcards__bullets" style="display: none">";s:14:"template_amd_1";s:1:"1";s:15:"template_amd_10";s:1:"1";s:15:"template_amd_11";s:1:"1";s:15:"template_amd_12";s:1:"1";s:15:"template_amd_13";s:1:"1";s:15:"template_amd_14";s:1:"1";s:15:"template_amd_15";s:1:"1";s:15:"template_amd_16";s:1:"1";s:15:"template_amd_17";s:1:"1";s:15:"template_amd_18";s:1:"1";s:15:"template_amd_19";s:1:"1";s:14:"template_amd_2";s:1:"1";s:15:"template_amd_20";s:1:"1";s:15:"template_amd_21";s:1:"1";s:15:"template_amd_22";s:1:"1";s:15:"template_amd_23";s:1:"1";s:15:"template_amd_24";s:1:"1";s:15:"template_amd_25";s:1:"1";s:15:"template_amd_26";s:1:"1";s:15:"template_amd_27";s:1:"1";s:15:"template_amd_28";s:1:"1";s:15:"template_amd_29";s:1:"1";s:14:"template_amd_3";s:1:"1";s:15:"template_amd_30";s:1:"1";s:15:"template_amd_31";s:1:"1";s:15:"template_amd_32";s:1:"1";s:15:"template_amd_33";s:1:"1";s:15:"template_amd_34";s:1:"1";s:15:"template_amd_35";s:1:"1";s:15:"template_amd_36";s:1:"1";s:15:"template_amd_37";s:1:"1";s:15:"template_amd_38";s:1:"1";s:15:"template_amd_39";s:1:"1";s:14:"template_amd_4";s:1:"1";s:15:"template_amd_40";s:1:"1";s:14:"template_amd_5";s:1:"1";s:14:"template_amd_6";s:1:"1";s:14:"template_amd_7";s:1:"1";s:14:"template_amd_8";s:1:"1";s:14:"template_amd_9";s:1:"1";s:19:"template_showatto_1";s:1:"0";s:20:"template_showatto_10";s:1:"1";s:20:"template_showatto_11";s:1:"0";s:20:"template_showatto_12";s:1:"0";s:20:"template_showatto_13";s:1:"1";s:20:"template_showatto_14";s:1:"0";s:20:"template_showatto_15";s:1:"1";s:20:"template_showatto_16";s:1:"0";s:20:"template_showatto_17";s:1:"0";s:20:"template_showatto_18";s:1:"1";s:20:"template_showatto_19";s:1:"1";s:19:"template_showatto_2";s:1:"0";s:20:"template_showatto_20";s:1:"1";s:20:"template_showatto_21";s:1:"1";s:20:"template_showatto_22";s:1:"1";s:20:"template_showatto_23";s:1:"0";s:20:"template_showatto_24";s:1:"0";s:20:"template_showatto_25";s:1:"0";s:20:"template_showatto_26";s:1:"1";s:20:"template_showatto_27";s:1:"1";s:20:"template_showatto_28";s:1:"1";s:20:"template_showatto_29";s:1:"1";s:19:"template_showatto_3";s:1:"1";s:20:"template_showatto_30";s:1:"1";s:20:"template_showatto_31";s:1:"0";s:20:"template_showatto_32";s:1:"1";s:20:"template_showatto_33";s:1:"0";s:20:"template_showatto_34";s:1:"0";s:20:"template_showatto_35";s:1:"0";s:20:"template_showatto_36";s:1:"0";s:20:"template_showatto_37";s:1:"0";s:20:"template_showatto_38";s:1:"0";s:20:"template_showatto_39";s:1:"0";s:19:"template_showatto_4";s:1:"0";s:20:"template_showatto_40";s:1:"0";s:19:"template_showatto_5";s:1:"0";s:19:"template_showatto_6";s:1:"1";s:19:"template_showatto_7";s:1:"1";s:19:"template_showatto_8";s:1:"1";s:19:"template_showatto_9";s:1:"1";s:22:"template_showplayers_1";s:1:"1";s:23:"template_showplayers_10";s:1:"0";s:23:"template_showplayers_11";s:1:"1";s:23:"template_showplayers_12";s:1:"1";s:23:"template_showplayers_13";s:1:"0";s:23:"template_showplayers_14";s:1:"1";s:23:"template_showplayers_15";s:1:"0";s:23:"template_showplayers_16";s:1:"1";s:23:"template_showplayers_17";s:1:"1";s:23:"template_showplayers_18";s:1:"0";s:23:"template_showplayers_19";s:1:"0";s:22:"template_showplayers_2";s:1:"1";s:23:"template_showplayers_20";s:1:"0";s:23:"template_showplayers_21";s:1:"0";s:23:"template_showplayers_22";s:1:"0";s:23:"template_showplayers_23";s:1:"1";s:23:"template_showplayers_24";s:1:"1";s:23:"template_showplayers_25";s:1:"1";s:23:"template_showplayers_26";s:0:"";s:23:"template_showplayers_27";s:1:"0";s:23:"template_showplayers_28";s:1:"0";s:23:"template_showplayers_29";s:1:"0";s:22:"template_showplayers_3";s:1:"0";s:23:"template_showplayers_30";s:1:"0";s:23:"template_showplayers_31";s:1:"1";s:23:"template_showplayers_32";s:1:"0";s:23:"template_showplayers_33";s:1:"0";s:23:"template_showplayers_34";s:1:"0";s:23:"template_showplayers_35";s:1:"0";s:23:"template_showplayers_36";s:1:"0";s:23:"template_showplayers_37";s:1:"0";s:23:"template_showplayers_38";s:1:"0";s:23:"template_showplayers_39";s:1:"0";s:22:"template_showplayers_4";s:1:"1";s:23:"template_showplayers_40";s:1:"0";s:22:"template_showplayers_5";s:1:"1";s:22:"template_showplayers_6";s:1:"0";s:22:"template_showplayers_7";s:1:"0";s:22:"template_showplayers_8";s:0:"";s:22:"template_showplayers_9";s:1:"0";s:19:"templatealternate_1";s:0:"";s:20:"templatealternate_10";s:0:"";s:20:"templatealternate_11";s:0:"";s:20:"templatealternate_12";s:0:"";s:20:"templatealternate_13";s:0:"";s:20:"templatealternate_14";s:0:"";s:20:"templatealternate_15";s:0:"";s:20:"templatealternate_16";s:0:"";s:20:"templatealternate_17";s:0:"";s:20:"templatealternate_18";s:0:"";s:20:"templatealternate_19";s:0:"";s:19:"templatealternate_2";s:0:"";s:20:"templatealternate_20";s:0:"";s:20:"templatealternate_21";s:0:"";s:20:"templatealternate_22";s:0:"";s:20:"templatealternate_23";s:0:"";s:20:"templatealternate_24";s:0:"";s:20:"templatealternate_25";s:0:"";s:20:"templatealternate_26";s:0:"";s:20:"templatealternate_27";s:0:"";s:20:"templatealternate_28";s:0:"";s:20:"templatealternate_29";s:0:"";s:19:"templatealternate_3";s:0:"";s:20:"templatealternate_30";s:0:"";s:20:"templatealternate_31";s:0:"";s:20:"templatealternate_32";s:0:"";s:20:"templatealternate_33";s:0:"";s:20:"templatealternate_34";s:0:"";s:20:"templatealternate_35";s:0:"";s:20:"templatealternate_36";s:0:"";s:20:"templatealternate_37";s:0:"";s:20:"templatealternate_38";s:0:"";s:20:"templatealternate_39";s:0:"";s:19:"templatealternate_4";s:0:"";s:20:"templatealternate_40";s:0:"";s:19:"templatealternate_5";s:0:"";s:19:"templatealternate_6";s:0:"";s:19:"templatealternate_7";s:0:"";s:19:"templatealternate_8";s:0:"";s:19:"templatealternate_9";s:0:"";s:23:"templatealternate_end_1";s:0:"";s:24:"templatealternate_end_10";s:0:"";s:24:"templatealternate_end_11";s:0:"";s:24:"templatealternate_end_12";s:0:"";s:24:"templatealternate_end_13";s:0:"";s:24:"templatealternate_end_14";s:0:"";s:24:"templatealternate_end_15";s:0:"";s:24:"templatealternate_end_16";s:0:"";s:24:"templatealternate_end_17";s:0:"";s:24:"templatealternate_end_18";s:0:"";s:24:"templatealternate_end_19";s:0:"";s:23:"templatealternate_end_2";s:0:"";s:24:"templatealternate_end_20";s:0:"";s:24:"templatealternate_end_21";s:0:"";s:24:"templatealternate_end_22";s:0:"";s:24:"templatealternate_end_23";s:0:"";s:24:"templatealternate_end_24";s:0:"";s:24:"templatealternate_end_25";s:0:"";s:24:"templatealternate_end_26";s:0:"";s:24:"templatealternate_end_27";s:0:"";s:24:"templatealternate_end_28";s:0:"";s:24:"templatealternate_end_29";s:0:"";s:23:"templatealternate_end_3";s:0:"";s:24:"templatealternate_end_30";s:0:"";s:24:"templatealternate_end_31";s:0:"";s:24:"templatealternate_end_32";s:0:"";s:24:"templatealternate_end_33";s:0:"";s:24:"templatealternate_end_34";s:0:"";s:24:"templatealternate_end_35";s:0:"";s:24:"templatealternate_end_36";s:0:"";s:24:"templatealternate_end_37";s:0:"";s:24:"templatealternate_end_38";s:0:"";s:24:"templatealternate_end_39";s:0:"";s:23:"templatealternate_end_4";s:0:"";s:24:"templatealternate_end_40";s:0:"";s:23:"templatealternate_end_5";s:0:"";s:23:"templatealternate_end_6";s:0:"";s:23:"templatealternate_end_7";s:0:"";s:23:"templatealternate_end_8";s:0:"";s:23:"templatealternate_end_9";s:0:"";s:13:"templatecount";s:2:"40";s:18:"templatedefaults_1";s:0:"";s:19:"templatedefaults_10";s:11:"seconds=120";s:19:"templatedefaults_11";s:92:"canplaycount=2,canpause=0,pause=fa-stop,play=fa-play,over=fa-minus,playing=fa-circle-o-notch";s:19:"templatedefaults_12";s:20:"WIDTH=640,HEIGHT=480";s:19:"templatedefaults_13";s:0:"";s:19:"templatedefaults_14";s:0:"";s:19:"templatedefaults_15";s:54:"width=300,height=400,bgcolor=0x22222,size=normal|small";s:19:"templatedefaults_16";s:77:"canpause=0,pause=fa-stop,play=fa-play,over=fa-minus,playing=fa-circle-o-notch";s:19:"templatedefaults_17";s:20:"width=560,height=315";s:19:"templatedefaults_18";s:299:"format="text|ssml",language="English(US)|English(GB)|English(AU)|English(In)|English(Welsh)|Danish|Dutch|French(FR)|French(CA)|German|Icelandic|Italian|Japanese|Korean|Norwegian|Polish|Portugese(BR)|Portugese(PT)|Romanian|Russian|Spanish(ES)|Spanish(US)|Swedish|Turkish|Welsh",
+speaker="Male|Female"";s:19:"templatedefaults_19";s:33:"closedtext="Show",opentext="Hide"";s:18:"templatedefaults_2";s:0:"";s:19:"templatedefaults_20";s:24:"linktext="Click to show"";s:19:"templatedefaults_21";s:67:"width=600,height=400,bgcolor=0x22222,dicecount=2|1|3|4,dicesize=200";s:19:"templatedefaults_22";s:304:"playmode="word|sentence",speaker="Male|Female",language="English(US)|English(GB)|English(AU)|English(In)|English(Welsh)|Danish|Dutch|French(FR)|French(CA)|German|Icelandic|Italian|Japanese|Korean|Norwegian|Polish|Portugese(BR)|Portugese(PT)|Romanian|Russian|Spanish(ES)|Spanish(US)|Swedish|Turkish|Welsh"";s:19:"templatedefaults_23";s:20:"WIDTH=640,HEIGHT=480";s:19:"templatedefaults_24";s:20:"WIDTH=640,HEIGHT=480";s:19:"templatedefaults_25";s:20:"WIDTH=640,HEIGHT=480";s:19:"templatedefaults_26";s:14:"title="my tab"";s:19:"templatedefaults_27";s:0:"";s:19:"templatedefaults_28";s:87:"width=450,height=350,bgcolor=0x22222,initseconds=60,usepresets=true|false,fontheight=48";s:19:"templatedefaults_29";s:429:"highlightmode="sentence|word|none",pause="fa-stop",play="fa-volume-up",stoporpause="stop|pause", background="red",color="#fff",width="40",height="40",speaker="Male|Female",language="English(US)|English(GB)|English(AU)|English(In)|English(Welsh)|Danish|Dutch|French(FR)|French(CA)|German|Icelandic|Italian|Japanese|Korean|Norwegian|Polish|Portugese(BR)|Portugese(PT)|Romanian|Russian|Spanish(ES)|Spanish(US)|Swedish|Turkish|Welsh"";s:18:"templatedefaults_3";s:57:"text="click me",title="title-here",content="content-here"";s:19:"templatedefaults_30";s:8:"active=0";s:19:"templatedefaults_31";s:23:"lang="en",vimeoid=empty";s:19:"templatedefaults_32";s:148:"url="#",caption="click me",style="btn-primary|btn-secondary|btn-success|btn-info|btn-warning|btn-danger|btn-link",target="_blank|_self|_parent|_top"";s:19:"templatedefaults_33";s:0:"";s:19:"templatedefaults_34";s:0:"";s:19:"templatedefaults_35";s:0:"";s:19:"templatedefaults_36";s:0:"";s:19:"templatedefaults_37";s:0:"";s:19:"templatedefaults_38";s:0:"";s:19:"templatedefaults_39";s:0:"";s:18:"templatedefaults_4";s:19:"WIDTH=400,HEIGHT=30";s:19:"templatedefaults_40";s:0:"";s:18:"templatedefaults_5";s:9:"lang="en"";s:18:"templatedefaults_6";s:280:"language="English(US)|English(GB)|English(AU)|English(In)|English(Welsh)|Danish|Dutch|French(FR)|French(CA)|German|Icelandic|Italian|Japanese|Korean|Norwegian|Polish|Portugese(BR)|Portugese(PT)|Romanian|Russian|Spanish(ES)|Spanish(US)|Swedish|Turkish|Welsh",
+speaker="Male|Female"";s:18:"templatedefaults_7";s:28:"width=560,height=315,start=0";s:18:"templatedefaults_8";s:0:"";s:18:"templatedefaults_9";s:26:"language=en-US|en-AU|ja-JP";s:13:"templateend_1";s:0:"";s:14:"templateend_10";s:0:"";s:14:"templateend_11";s:0:"";s:14:"templateend_12";s:0:"";s:14:"templateend_13";s:0:"";s:14:"templateend_14";s:0:"";s:14:"templateend_15";s:0:"";s:14:"templateend_16";s:0:"";s:14:"templateend_17";s:0:"";s:14:"templateend_18";s:6:"</div>";s:14:"templateend_19";s:6:"</div>";s:13:"templateend_2";s:0:"";s:14:"templateend_20";s:7:"</div>
+";s:14:"templateend_21";s:0:"";s:14:"templateend_22";s:12:"</div></div>";s:14:"templateend_23";s:0:"";s:14:"templateend_24";s:0:"";s:14:"templateend_25";s:0:"";s:14:"templateend_26";s:6:"</div>";s:14:"templateend_27";s:6:"</div>";s:14:"templateend_28";s:0:"";s:14:"templateend_29";s:13:"</div>
+</div>";s:13:"templateend_3";s:0:"";s:14:"templateend_30";s:6:"</div>";s:14:"templateend_31";s:0:"";s:14:"templateend_32";s:0:"";s:14:"templateend_33";s:0:"";s:14:"templateend_34";s:0:"";s:14:"templateend_35";s:0:"";s:14:"templateend_36";s:0:"";s:14:"templateend_37";s:0:"";s:14:"templateend_38";s:0:"";s:14:"templateend_39";s:0:"";s:13:"templateend_4";s:0:"";s:14:"templateend_40";s:0:"";s:13:"templateend_5";s:0:"";s:13:"templateend_6";s:6:"</div>";s:13:"templateend_7";s:0:"";s:13:"templateend_8";s:6:"</div>";s:13:"templateend_9";s:8:"</div>
+
+";s:22:"templateinstructions_1";s:80:"This simply uses the browser's native HTML5 audio tag with no alternate styling.";s:23:"templateinstructions_10";s:23:"Shows a countdown clock";s:23:"templateinstructions_11";s:71:"This is an HTML5 audio player that will play the audio file onlyetwicw.";s:23:"templateinstructions_12";s:56:"This is a VideoJS player template. It supports subtitles";s:23:"templateinstructions_13";s:73:"Embeds a Popup recorder that you can download recording from on the page.";s:23:"templateinstructions_14";s:118:"This Flowplayer template shows the first frame of the video as a splash image and is responsive. It supports subtitles";s:23:"templateinstructions_15";s:22:"This is a calculator. ";s:23:"templateinstructions_16";s:81:"This is an HTML5 audio player that will only play the audio file it manages once.";s:23:"templateinstructions_17";s:71:"This is a simple player that turns a Youtube link into a Youtube video.";s:23:"templateinstructions_18";s:107:"Enter the text to be read between the 'tta' tags after they are inserted on the page. (Uses Cloud Poodll)  ";s:23:"templateinstructions_19";s:56:"Enter content to toggle in between the tags in the page
+";s:22:"templateinstructions_2";s:25:"Responsive audio player. ";s:23:"templateinstructions_20";s:102:"Add content to display in lightbox between the tags on the page. This is based on the Fancybox project";s:23:"templateinstructions_21";s:14:"These are dice";s:23:"templateinstructions_22";s:132:"This will read aloud words in the enclosed text block when tapped. Currently does not support "sentence" mode. (Uses Cloud Poodll)  ";s:23:"templateinstructions_23";s:53:"This is a shimmed version of mediaelementjs for video";s:23:"templateinstructions_24";s:33:"The standard Flowplayer template.";s:23:"templateinstructions_25";s:93:"This uses the browser's native video player with no alternate styling. It supports subtitles.";s:23:"templateinstructions_26";s:112:"Nest Generico tabitems in between Generico tabs, to produce a tabset. You can not put bullet points inside tabs.";s:23:"templateinstructions_27";s:112:"Accordian items are nested inside an accordian container. Place your content in between the accordian item tags.";s:23:"templateinstructions_28";s:27:"This is a counterdown timer";s:23:"templateinstructions_29";s:214:"This is a small html5 audio player that will read aloud the enclosed text block. There are text to speech options as well as the option to highlight words or sentences. Sentences works better. (Uses Cloud Poodll)  ";s:22:"templateinstructions_3";s:53:"Use this to make clickable things that show a popover";s:23:"templateinstructions_30";s:164:"This is an accordian component. You need to nest accordian items inside the accordian tags on the page. The contents of the accordian items are what users will see.";s:23:"templateinstructions_31";s:89:"Shows a video + interactive transcript. The captions are made and edited here on Moodle. ";s:23:"templateinstructions_32";s:64:"Enter the URL, caption and other choices to create a nice button";s:23:"templateinstructions_33";s:0:"";s:23:"templateinstructions_34";s:0:"";s:23:"templateinstructions_35";s:0:"";s:23:"templateinstructions_36";s:0:"";s:23:"templateinstructions_37";s:0:"";s:23:"templateinstructions_38";s:0:"";s:23:"templateinstructions_39";s:0:"";s:22:"templateinstructions_4";s:53:"This is a shimmed version of mediaelementjs for audio";s:23:"templateinstructions_40";s:0:"";s:22:"templateinstructions_5";s:88:"Shows a audio + interactive transcript. The captions are made and edited here on Moodle.";s:22:"templateinstructions_6";s:116:"Add an html list (bullets) of phrases to be read, between the tags. They will become buttons that speak when tapped.";s:22:"templateinstructions_7";s:246:"This is a simple template to embed a Youtube video. It can be used as is, or as an example of how to make an iframe embed template. You only need to provide the ID of the video (not the full URL). It also allows you set the start time in seconds.";s:22:"templateinstructions_8";s:266:"Tabs separate content by heading and are an efficient way to organize data and avoid lots of scrolling. These tabs are Jquery-UI tabs. Add tabs, and between the Generico tab tags nest as many Generico tabitems as you need. You can not put bullet points inside tabs. ";s:22:"templateinstructions_9";s:18:"Poodll Speechcards";s:13:"templatekey_1";s:11:"nativeaudio";s:14:"templatekey_10";s:9:"flipclock";s:14:"templatekey_11";s:16:"twiceaudioplayer";s:14:"templatekey_12";s:7:"videojs";s:14:"templatekey_13";s:13:"popuprecorder";s:14:"templatekey_14";s:3:"fff";s:14:"templatekey_15";s:10:"poodllcalc";s:14:"templatekey_16";s:10:"onceplayer";s:14:"templatekey_17";s:13:"youtubeplayer";s:14:"templatekey_18";s:8:"ttacloud";s:14:"templatekey_19";s:10:"icontoggle";s:13:"templatekey_2";s:12:"audiojs_shim";s:14:"templatekey_20";s:9:"lightbox2";s:14:"templatekey_21";s:4:"dice";s:14:"templatekey_22";s:18:"tapwordtohearcloud";s:14:"templatekey_23";s:17:"mediaelementvideo";s:14:"templatekey_24";s:10:"flowplayer";s:14:"templatekey_25";s:11:"nativevideo";s:14:"templatekey_26";s:7:"tabitem";s:14:"templatekey_27";s:13:"accordianitem";s:14:"templatekey_28";s:9:"countdown";s:14:"templatekey_29";s:20:"textblockreadercloud";s:13:"templatekey_3";s:7:"popover";s:14:"templatekey_30";s:9:"accordian";s:14:"templatekey_31";s:21:"superinteractivevideo";s:14:"templatekey_32";s:12:"Button-Maker";s:14:"templatekey_33";s:0:"";s:14:"templatekey_34";s:0:"";s:14:"templatekey_35";s:0:"";s:14:"templatekey_36";s:0:"";s:14:"templatekey_37";s:0:"";s:14:"templatekey_38";s:0:"";s:14:"templatekey_39";s:0:"";s:13:"templatekey_4";s:17:"mediaelementaudio";s:14:"templatekey_40";s:0:"";s:13:"templatekey_5";s:21:"superinteractiveaudio";s:13:"templatekey_6";s:15:"soundboardcloud";s:13:"templatekey_7";s:7:"youtube";s:13:"templatekey_8";s:4:"tabs";s:13:"templatekey_9";s:11:"speechcards";s:14:"templatename_1";s:12:"Native Audio";s:15:"templatename_10";s:9:"flipclock";s:15:"templatename_11";s:12:"Twice Player";s:15:"templatename_12";s:8:"Video JS";s:15:"templatename_13";s:14:"Popup Recorder";s:15:"templatename_14";s:22:"Flowplayer First Frame";s:15:"templatename_15";s:17:"PoodLL Calculator";s:15:"templatename_16";s:12:"OncePlayerJS";s:15:"templatename_17";s:16:"YouTube (Player)";s:15:"templatename_18";s:21:"Text to Audio (Cloud)";s:15:"templatename_19";s:16:"Toggle with icon";s:14:"templatename_2";s:15:"Audio JS (shim)";s:15:"templatename_20";s:9:"Lightbox2";s:15:"templatename_21";s:4:"Dice";s:15:"templatename_22";s:24:"Tap Word to Hear (Cloud)";s:15:"templatename_23";s:18:"Mediaelement_Video";s:15:"templatename_24";s:10:"Flowplayer";s:15:"templatename_25";s:12:"Native Video";s:15:"templatename_26";s:8:"Tab Item";s:15:"templatename_27";s:14:"Accordian Item";s:15:"templatename_28";s:15:"Countdown Timer";s:15:"templatename_29";s:22:"Passage reader (Cloud)";s:14:"templatename_3";s:7:"Popover";s:15:"templatename_30";s:9:"Accordian";s:15:"templatename_31";s:23:"Super Interactive Video";s:15:"templatename_32";s:12:"Button Maker";s:15:"templatename_33";s:0:"";s:15:"templatename_34";s:0:"";s:15:"templatename_35";s:0:"";s:15:"templatename_36";s:0:"";s:15:"templatename_37";s:0:"";s:15:"templatename_38";s:0:"";s:15:"templatename_39";s:0:"";s:14:"templatename_4";s:18:"Mediaelement_Audio";s:15:"templatename_40";s:0:"";s:14:"templatename_5";s:23:"Super Interactive Audio";s:14:"templatename_6";s:19:"Sound Board (Cloud)";s:14:"templatename_7";s:16:"YouTube (widget)";s:14:"templatename_8";s:4:"Tabs";s:14:"templatename_9";s:11:"Speechcards";s:21:"templaterequire_css_1";s:0:"";s:22:"templaterequire_css_10";s:72:"https://cdnjs.cloudflare.com/ajax/libs/flipclock/0.7.8/flipclock.min.css";s:22:"templaterequire_css_11";s:69:"//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css";s:22:"templaterequire_css_12";s:35:"//vjs.zencdn.net/5.8.8/video-js.css";s:22:"templaterequire_css_13";s:0:"";s:22:"templaterequire_css_14";s:54:"/filter/poodll/3rdparty/flowplayer-7.2.7/skin/skin.css";s:22:"templaterequire_css_15";s:0:"";s:22:"templaterequire_css_16";s:69:"//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css";s:22:"templaterequire_css_17";s:0:"";s:22:"templaterequire_css_18";s:0:"";s:22:"templaterequire_css_19";s:0:"";s:21:"templaterequire_css_2";s:0:"";s:22:"templaterequire_css_20";s:71:"//cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css";s:22:"templaterequire_css_21";s:0:"";s:22:"templaterequire_css_22";s:0:"";s:22:"templaterequire_css_23";s:76:"/filter/poodll/3rdparty/mediaelement-2.22.0/build/mediaelementplayer.min.css";s:22:"templaterequire_css_24";s:60:"/filter/poodll/3rdparty/flowplayer-6.0.5/skin/minimalist.css";s:22:"templaterequire_css_25";s:0:"";s:22:"templaterequire_css_26";s:0:"";s:22:"templaterequire_css_27";s:0:"";s:22:"templaterequire_css_28";s:0:"";s:22:"templaterequire_css_29";s:69:"//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css";s:21:"templaterequire_css_3";s:0:"";s:22:"templaterequire_css_30";s:50:"/filter/poodll/3rdparty/jqueryui/jquery-ui.min.css";s:22:"templaterequire_css_31";s:0:"";s:22:"templaterequire_css_32";s:0:"";s:22:"templaterequire_css_33";s:0:"";s:22:"templaterequire_css_34";s:0:"";s:22:"templaterequire_css_35";s:0:"";s:22:"templaterequire_css_36";s:0:"";s:22:"templaterequire_css_37";s:0:"";s:22:"templaterequire_css_38";s:0:"";s:22:"templaterequire_css_39";s:0:"";s:21:"templaterequire_css_4";s:76:"/filter/poodll/3rdparty/mediaelement-2.22.0/build/mediaelementplayer.min.css";s:22:"templaterequire_css_40";s:0:"";s:21:"templaterequire_css_5";s:0:"";s:21:"templaterequire_css_6";s:0:"";s:21:"templaterequire_css_7";s:0:"";s:21:"templaterequire_css_8";s:66:"//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css";s:21:"templaterequire_css_9";s:64:"//cdn.jsdelivr.net/npm/glidejs@2.1.0/dist/css/glide.core.min.css";s:20:"templaterequire_js_1";s:0:"";s:21:"templaterequire_js_10";s:71:"https://cdnjs.cloudflare.com/ajax/libs/flipclock/0.7.8/flipclock.min.js";s:21:"templaterequire_js_11";s:0:"";s:21:"templaterequire_js_12";s:31:"//vjs.zencdn.net/5.8.8/video.js";s:21:"templaterequire_js_13";s:86:"https://cdn.jsdelivr.net/gh/justinhunt/cloudpoodll@latest/amd/build/cloudpoodll.min.js";s:21:"templaterequire_js_14";s:58:"/filter/poodll/3rdparty/flowplayer-7.2.7/flowplayer.min.js";s:21:"templaterequire_js_15";s:0:"";s:21:"templaterequire_js_16";s:0:"";s:21:"templaterequire_js_17";s:0:"";s:21:"templaterequire_js_18";s:0:"";s:21:"templaterequire_js_19";s:0:"";s:20:"templaterequire_js_2";s:52:"/filter/poodll/3rdparty/audiojs/audiojs/audio.min.js";s:21:"templaterequire_js_20";s:0:"";s:21:"templaterequire_js_21";s:0:"";s:21:"templaterequire_js_22";s:0:"";s:21:"templaterequire_js_23";s:76:"/filter/poodll/3rdparty/mediaelement-2.22.0/build/mediaelement-and-player.js";s:21:"templaterequire_js_24";s:58:"/filter/poodll/3rdparty/flowplayer-6.0.5/flowplayer.min.js";s:21:"templaterequire_js_25";s:0:"";s:21:"templaterequire_js_26";s:0:"";s:21:"templaterequire_js_27";s:0:"";s:21:"templaterequire_js_28";s:0:"";s:21:"templaterequire_js_29";s:0:"";s:20:"templaterequire_js_3";s:0:"";s:21:"templaterequire_js_30";s:0:"";s:21:"templaterequire_js_31";s:0:"";s:21:"templaterequire_js_32";s:0:"";s:21:"templaterequire_js_33";s:0:"";s:21:"templaterequire_js_34";s:0:"";s:21:"templaterequire_js_35";s:0:"";s:21:"templaterequire_js_36";s:0:"";s:21:"templaterequire_js_37";s:0:"";s:21:"templaterequire_js_38";s:0:"";s:21:"templaterequire_js_39";s:0:"";s:20:"templaterequire_js_4";s:76:"/filter/poodll/3rdparty/mediaelement-2.22.0/build/mediaelement-and-player.js";s:21:"templaterequire_js_40";s:0:"";s:20:"templaterequire_js_5";s:0:"";s:20:"templaterequire_js_6";s:0:"";s:20:"templaterequire_js_7";s:0:"";s:20:"templaterequire_js_8";s:0:"";s:20:"templaterequire_js_9";s:86:"https://cdn.jsdelivr.net/gh/justinhunt/cloudpoodll@latest/amd/build/cloudpoodll.min.js";s:25:"templaterequire_js_shim_1";s:0:"";s:26:"templaterequire_js_shim_10";s:9:"FlipClock";s:26:"templaterequire_js_shim_11";s:0:"";s:26:"templaterequire_js_shim_12";s:0:"";s:26:"templaterequire_js_shim_13";s:0:"";s:26:"templaterequire_js_shim_14";s:0:"";s:26:"templaterequire_js_shim_15";s:0:"";s:26:"templaterequire_js_shim_16";s:0:"";s:26:"templaterequire_js_shim_17";s:0:"";s:26:"templaterequire_js_shim_18";s:0:"";s:26:"templaterequire_js_shim_19";s:0:"";s:25:"templaterequire_js_shim_2";s:7:"audiojs";s:26:"templaterequire_js_shim_20";s:0:"";s:26:"templaterequire_js_shim_21";s:0:"";s:26:"templaterequire_js_shim_22";s:0:"";s:26:"templaterequire_js_shim_23";s:4:"mejs";s:26:"templaterequire_js_shim_24";s:0:"";s:26:"templaterequire_js_shim_25";s:0:"";s:26:"templaterequire_js_shim_26";s:0:"";s:26:"templaterequire_js_shim_27";s:0:"";s:26:"templaterequire_js_shim_28";s:0:"";s:26:"templaterequire_js_shim_29";s:0:"";s:25:"templaterequire_js_shim_3";s:0:"";s:26:"templaterequire_js_shim_30";s:0:"";s:26:"templaterequire_js_shim_31";s:0:"";s:26:"templaterequire_js_shim_32";s:0:"";s:26:"templaterequire_js_shim_33";s:0:"";s:26:"templaterequire_js_shim_34";s:0:"";s:26:"templaterequire_js_shim_35";s:0:"";s:26:"templaterequire_js_shim_36";s:0:"";s:26:"templaterequire_js_shim_37";s:0:"";s:26:"templaterequire_js_shim_38";s:0:"";s:26:"templaterequire_js_shim_39";s:0:"";s:25:"templaterequire_js_shim_4";s:4:"mejs";s:26:"templaterequire_js_shim_40";s:0:"";s:25:"templaterequire_js_shim_5";s:0:"";s:25:"templaterequire_js_shim_6";s:0:"";s:25:"templaterequire_js_shim_7";s:0:"";s:25:"templaterequire_js_shim_8";s:0:"";s:25:"templaterequire_js_shim_9";s:0:"";s:16:"templatescript_1";s:512:"//code to auto refresh if this looks like a placeholder file
+ var player = $('#' + @@AUTOID@@);
+if(typeof player[0] == 'undefined'){return;}
+var refreshfunction =function(){
+  var mr = media_refresher.clone();
+   mr.init(@@FILENAME@@,
+@@AUDIOPLACEHOLDERDURATION@@,
+player[0].duration,
+function(){
+  player.attr('src', player[0].currentSrc + '&reload=true');
+  player[0].pause();
+  player[0].load();
+ });
+};
+if(player[0].readyState==4){
+  refreshfunction();
+}else{
+  player.on('loadedmetadata',refreshfunction);
+}";s:17:"templatescript_10";s:108:"var clock = new FlipClock($('#' + @@AUTOID@@),@@seconds@@, {
+clockFace: 'MinuteCounter',
+countdown: true
+});";s:17:"templatescript_11";s:3500:"$('#' + @@AUTOID@@).attr('playtime', @@canplaycount@@);
+//get our player
+var aplayer = $('#' + @@AUTOID@@).children().first();
+var fa = $('#' + @@AUTOID@@ + ' .fa');
+var thestate =$('#' + @@AUTOID@@ + '_state'); 
+var thetime = $('#' + @@AUTOID@@ + '_time'); 
+
+$(fa).removeClass('fa-minus');
+
+//set status
+thestate.text('- ready -');
+
+
+// setting base volume for audio player
+aplayer[0].volume = 0.2;
+
+
+
+// Append Playtime text
+$('#' + @@AUTOID@@ + '_playtime').empty();
+var playtimer = $('#' + @@AUTOID@@).attr('playtime');
+$('#' + @@AUTOID@@ + '_playtime').append('Remaining plays: '+playtimer +'x');
+
+
+
+/* Volume Control */
+$('#' + @@AUTOID@@ + '_vol-up').click(function(){
+ /* adding value to meter!*/
+ $('#' + @@AUTOID@@ + '_indicator').css("width", '+=' + (0.1 * $('.meter').width()));
+  
+  if(aplayer[0].volume == 1.1){
+   Alert("max Volume");
+  }else{
+    aplayer[0].volume+=0.1; 
+    console.log(aplayer[0].volume);
+ }
+});
+$('#' + @@AUTOID@@ + '_vol-down').click(function(){
+ /* Subtracting value to meter!*/
+  $('#' + @@AUTOID@@ + '_indicator').css("width", '-=' + (0.1 * $('.meter').width()));
+  if(aplayer[0] == 0.0){
+    alert("audio is mute !");
+ }else{
+    aplayer[0].volume-=0.1; 
+    console.log(aplayer[0].volume);
+ }
+ 
+});
+
+
+
+//player clicked event
+ $('#' + @@AUTOID@@).click(function(){
+ 
+    $('#' + @@AUTOID@@).attr('playtime',@@canplaycount@@ - 1);
+    //$('#' + @@AUTOID@@).children().first().attr('playtime', @@canplaycount@@ - 1);
+    play_audio();
+ 
+  
+  
+    aplayer[0].addEventListener('ended', function(){
+    
+    $('#' + @@AUTOID@@ + '_playtime').empty();
+    var playtime = $('#' + @@AUTOID@@).attr('playtime');
+    
+    $(fa).removeClass(@@playing@@);
+   $(fa).removeClass('fa-spin');
+   $(fa).removeClass(@@play@@);
+    aplayer[0].pause(); 
+    
+    
+    if(playtime > 0){
+     
+      $('#' + @@AUTOID@@ + '_playtime').append('Remaining plays: '+playtime+'x');
+     $(fa).addClass('custom-pause');
+     $(fa).removeClass('fa-minus');
+      //thestate.text('- Play Again -');
+      
+      $('#' + @@AUTOID@@).click(function(){
+       $('#' + @@AUTOID@@).attr('playtime',playtime - 1);
+        $(fa).removeClass('custom-pause');
+        play_audio();
+       
+      });
+     
+    }else{
+      $('#' + @@AUTOID@@ + '_playtime').append('Remaining plays: 0');
+     $(fa).addClass('custom-pause');
+     thestate.text('- finished -');
+      $('#' + @@AUTOID@@).attr("disabled", true);
+   }
+   
+  });
+   
+  
+});
+
+
+function play_audio(){
+ aplayer[0].play();
+  thestate.text('- playing -');
+ $(fa).removeClass(@@play@@);
+  $(fa).addClass(@@playing@@);
+  $(fa).addClass('fa-spin');
+}
+
+
+aplayer.bind('durationchange',function(){thetime.text(poodll_mp_fetchtime(aplayer));});
+
+
+//time display function
+function poodll_mp_sec2time(seconds){
+    var date = new Date(null);
+    date.setSeconds(seconds); 
+    return date.toISOString().substr(11, 8);
+}
+function poodll_mp_fetchtime(theplayer){
+     var a_currenttime= isNaN(theplayer[0].currentTime) ? 0 : theplayer[0].currentTime;
+     var a_duration= isNaN(theplayer[0].duration) ? 0 : theplayer[0].duration;
+     var currenttime = poodll_mp_sec2time(Math.floor(a_currenttime));
+     var totaltime = poodll_mp_sec2time(Math.floor(a_duration)); 
+     var displaytime = currenttime + ' / ' +  totaltime;
+    return displaytime;
+}
+//The timer display
+aplayer.on('timeupdate',function(e){
+ var displaytime = poodll_mp_fetchtime(aplayer)
+ thetime.text(displaytime);
+});
+
+//show current time
+ thetime.text(poodll_mp_fetchtime(aplayer));
+
+";s:17:"templatescript_12";s:1341:"//video player html template
+var videohtml_open = '<video id="' + @@AUTOID@@ + '" class="video-js vjs-default-skin vjs-big-play-centered nomediaplugin" controls preload="auto" crossorigin="anonymous" width="' + @@WIDTH@@ + '" height="' + @@HEIGHT@@ + '">';
+var videohtml_src='<source src="' + @@VIDEOURL@@ + '" type="' + @@AUTOMIME@@ + '" />';
+var videohtml_captions='<track kind="captions" src="' + @@data-subtitles@@ + '" srclang="en" label="Captions" default />';
+var videohtml_end='</video>';
+
+//the player var
+var theplayer = false;
+
+//insert video player html on page
+if(@@data-subtitles@@){
+   $('#' + @@AUTOID@@ + '_box').append(videohtml_open + videohtml_src + videohtml_captions + videohtml_end);
+}else{
+   $('#' + @@AUTOID@@ + '_box').append(videohtml_open + videohtml_src + videohtml_end);
+}
+
+//placeholder auto refresh
+var refreshfunction =function(){
+  var mr = media_refresher.clone();
+   mr.init(@@FILENAME@@,
+@@VIDEOPLACEHOLDERDURATION@@,
+theplayer.duration(),
+function(){
+  theplayer.src(theplayer.currentSrc() + '&reload=true');
+ });
+};
+
+//kick off the videojs initialiser
+theplayer= requiredjs_videojs(@@AUTOID@@, {}, function(){
+if(theplayer.readyState()==4){
+  refreshfunction();
+}else{
+  theplayer.ready(function(){
+     theplayer.on("loadedmetadata", refreshfunction);
+    });//end of player ready
+}//end of if
+});
+
+
+";s:17:"templatescript_13";s:754:"CloudPoodll = requiredjs_popuprecorder;
+
+//CloudPoodll.autoCreateRecorders();
+CloudPoodll.createRecorder(@@AUTOID@@);
+
+CloudPoodll.theCallback = function(message){
+   console.log(message);
+   switch(message.type){
+     case 'filesubmitted':
+       var dlink ="https://cloud.poodll.com/local/cpapi/downloader.php?p="+message.mediaurl+"&n="+message.mediafilename;
+       $('#' + @@AUTOID@@ + '_download_button').attr('href',dlink);
+       $('#' + @@AUTOID@@).hide();
+       $('#' + @@AUTOID@@ + '_download').show(); 
+  }
+};
+CloudPoodll.initEvents();
+
+ $('#' + @@AUTOID@@ + '_reset_button').click(function(){
+$('#' + @@AUTOID@@).empty();   
+CloudPoodll.createRecorder(@@AUTOID@@);
+$('#' + @@AUTOID@@).show();
+$('#' + @@AUTOID@@ + '_download').hide(); 
+}
+);
+";s:17:"templatescript_14";s:749:"if(@@data-subtitles@@){
+  var thesubtitles = [{ "default": true, // note the quotes around "default"!
+              kind: "captions", label: "Captions", srclang: "en", 
+              src:  @@data-subtitles@@ }];
+}else{
+ var thesubtitles = [];
+}
+
+var api = requiredjs_fff("#" + @@AUTOID@@, {
+clip:  {
+        sources: [
+              { type: "video/" + @@FILEEXT@@,
+                src:  @@VIDEOURL@@ }
+        ],
+      subtitles: thesubtitles
+    },
+ratio: 3/4,  
+splash: false  
+}); 
+
+//code to auto refresh if this looks like a placeholder file
+api.on('ready',function(){
+  var mr = media_refresher.clone();
+   mr.init(@@FILENAME@@,
+@@VIDEOPLACEHOLDERDURATION@@,
+api.video.duration,
+function(){
+  api.load(api.video.src + '&reload=true');
+ });
+});";s:17:"templatescript_15";s:357:"var params = '?size=' + @@size@@;
+var widget = 'poodllcalc.lzx.js';
+
+var iframeurl = M.cfg.wwwroot + '/filter/poodll/js/poodlliframe.php'; 
+var fullurl =iframeurl + "?paramstring=" +  encodeURIComponent(params);
+fullurl += "&widget=" + widget;
+fullurl += "&width=" + @@width@@;
+fullurl += "&height=" + @@height@@;
+
+$('#'+ @@AUTOID@@).attr('src', fullurl);
+
+";s:17:"templatescript_16";s:2653:"//time display function
+function poodll_op_sec2time(seconds){
+    var date = new Date(null);
+    date.setSeconds(seconds); 
+    return date.toISOString().substr(11, 8);
+}
+function poodll_op_fetchtime(theplayer){
+     var a_currenttime= isNaN(theplayer[0].currentTime) ? 0 : theplayer[0].currentTime;
+     var a_duration= isNaN(theplayer[0].duration) ? 0 : theplayer[0].duration;
+     var currenttime = poodll_op_sec2time(Math.floor(a_currenttime));
+     var totaltime = poodll_op_sec2time(Math.floor(a_duration)); 
+     var displaytime = currenttime + ' / ' +  totaltime;
+    return displaytime;
+}
+
+//get our player
+var aplayer = $('#' + @@AUTOID@@).children().first();
+var fa = $('#' + @@AUTOID@@ + ' .fa');
+var thestate =$('#' + @@AUTOID@@ + '_state'); 
+var thetime = $('#' + @@AUTOID@@ + '_time'); 
+
+//The timer display
+aplayer.on('timeupdate',function(e){
+ var displaytime = poodll_op_fetchtime(aplayer)
+ thetime.text(displaytime);
+});
+
+//show current time
+ thetime.text(poodll_op_fetchtime(aplayer));
+
+//set status
+thestate.text('- ready -');
+
+//set player ended event
+aplayer[0].addEventListener('ended', function(){
+    aplayer[0].pause();
+    $(fa).removeClass(@@playing@@);
+    $(fa).removeClass('fa-spin');
+    $(fa).removeClass(@@play@@);
+    $(fa).addClass(@@over@@);
+   thestate.text('- finished -');
+});
+
+//player clicked event
+$('#' + @@AUTOID@@).click(function(){
+  if(aplayer[0].ended){
+    return;
+}
+  if(!aplayer[0].paused && @@canpause@@ != '0'){
+     aplayer[0].pause();
+    thestate.text('- paused -');
+     $(fa).removeClass(@@playing@@);
+     $(fa).removeClass('fa-spin');
+     $(fa).addClass(@@play@@);
+   }else if(aplayer[0].paused || !aplayer[0].playing){
+     aplayer[0].play();
+     thestate.text('- playing -');
+     $(fa).removeClass(@@play@@);
+     $(fa).addClass(@@playing@@);
+     $(fa).addClass('fa-spin');
+   }
+});
+
+aplayer.bind('durationchange',function(){thetime.text(poodll_op_fetchtime(aplayer));});
+
+var is_https = M.cfg.wwwroot.indexOf('https:')==0;
+var is_ios = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+if(is_https && is_ios){
+ var xhr = new XMLHttpRequest();
+ xhr.onreadystatechange = function(){
+    if (this.readyState == 4 && this.status == 200){
+        var url = window.URL || window.webkitURL;
+        aplayer[0].src = url.createObjectURL(this.response);
+    }
+ }
+ xhr.open('GET', @@VIDEOURL@@);
+ xhr.responseType = 'blob';
+ xhr.send();  
+}
+
+//the volume slider
+/*
+$('#' + @@AUTOID@@ + '_slider').slider({
+orientation: 'horizontal',
+value: aplayer[0].volume,
+min: 0,
+max: 1,
+range: 'min',
+animate: true,
+step: 0.1,
+slide: function(e,ui){
+ aplayer[0].volume = ui.value;
+}
+});
+*/
+";s:17:"templatescript_17";s:0:"";s:17:"templatescript_18";s:4803:"//FUNCTION fetch polly url
+ var fetch_polly_url = function(speaktext, voice, callback) {
+
+                //The REST API we are calling
+                var functionname = 'local_cpapi_fetch_polly_url';
+
+                //fetch the Posturl. We need this.
+                //set up our ajax request
+                var xhr = new XMLHttpRequest();
+                var that = this;
+
+                //set up our handler for the response
+                xhr.onreadystatechange = function (e) {
+                    if (this.readyState === 4) {
+                        if (xhr.status == 200) {
+
+                            //get a yes or forgetit or tryagain
+                            var payload = xhr.responseText;
+                            var payloadobject = JSON.parse(payload);
+                            if (payloadobject) {
+                                //returnCode > 0  indicates an error
+                                if (payloadobject.returnCode > 0) {
+                                    console.log(payloadobject.returnMessage);
+                                    return false;
+                                    //if all good, then lets do the embed
+                                } else if (payloadobject.returnCode === 0){
+                                    var pollyurl = payloadobject.returnMessage;
+                                    callback(pollyurl);
+                                } else {
+                                    console.log('Polly Signed URL Request failed:');
+                                    console.log(payloadobject);
+                                }
+                            } else {
+                                console.log('Polly Signed URL Request something bad happened');
+                            }
+                        } else {
+                            console.log('Polly Signed URL Request Not 200 response:' + xhr.status);
+                        }
+                    }
+                };
+
+                //make our request
+                var xhrparams = "wstoken=" + @@CLOUDPOODLLTOKEN@@
+                + "&wsfunction=" + functionname
+                + "&moodlewsrestformat=" + 'json'
+                + "&text=" + encodeURIComponent(speaktext)
+                + '&texttype=text'
+                + '&voice=' + voice
+                + '&appid=' + 'filter_poodll'
+                + '&owner=poodll'
+                + '&region=useast1';
+
+                var serverurl = 'https://cloud.poodll.com' + "/webservice/rest/server.php";
+                xhr.open("POST", serverurl, true);
+                xhr.setRequestHeader("Cache-Control", "no-cache");
+                xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+                xhr.send(xhrparams);
+        };
+
+
+var usetext = $('#' + @@AUTOID@@).text();
+var theplayer = $('#' + @@AUTOID@@ + '_audioplayer');
+var mf=@@speaker@@
+
+switch(@@language@@){
+case "English(US)": voice = mf=='Male'?'Joey':'Kendra';break;
+case "English(GB)": voice = mf=='Male'?'Brian':'Amy';break;
+case "English(AU)": voice = mf=='Male'?'Russell':'Nicole';break;
+case "English(IN)": voice = mf=='Male'?'Aditi':'Raveena';break;
+case "English(WELSH)": voice = mf=='Male'? 'Geraint':'Geraint';break;
+case "Danish": voice = mf=='Male'?'Mads':'Naja';break;
+case "Dutch": voice = mf=='Male'?'Ruben':'Lotte';break;
+case "French(FR)": voice = mf=='Male'?'Mathieu':'Celine';break;
+case "French(CA)": voice = mf=='Male'?'Chantal':'Chantal';break;
+case "German": voice = mf=='Male'?'Hans':'Marlene';break;
+case "Icelandic": voice = mf=='Male'?'Karl':'Dora';break;
+case "Italian": voice = mf=='Male'?'Carla':'Giorgio';break;
+case "Japanese": voice = mf=='Male'?'Takumi':'Mizuki';break;
+case "Korean": voice = mf=='Male'?'Seoyan':'Seoyan';break;
+case "Norwegian": voice = mf=='Male'?'Liv':'Liv';break;
+case "Polish": voice = mf=='Male'?'Jacek':'Ewa';break;
+case "Portugese(BR)": voice = mf=='Male'?'Ricardo':'Vitoria';break;
+case "Portugese(PT)": voice = mf=='Male'?'Cristiano':'Ines';break;
+case "Romanian": voice = mf=='Male'?'Carmen':'Carmen';break;
+case "Russian": voice = mf=='Male'?'Maxim':'Tatyana';break;
+case "Spanish(ES)": voice = mf=='Male'?'Enrique':'Conchita';break;
+case "Spanish(US)": voice = mf=='Male'?'Miguel':'Penelope';break;
+case "Swedish": voice = mf=='Male'?'Astrid':'Astrid';break;
+case "Turkish": voice = mf=='Male'?'Filiz':'Filiz';break;
+case "Welsh": voice = mf=='Male'?'Gwyneth':'Gwyneth';break;
+default: voice = mf=='Male'?'Brian':'Amy';
+}
+
+
+//we replace tags with markers to survive going into a URL and out again
+//usetext = usetext.replace(/</gi, "PPPP");
+//usetext = usetext.replace(/>/gi, "dddd");
+
+var datastring= @@format@@ + '|' + voice + '|' + usetext;
+
+fetch_polly_url(usetext,voice,function(audiourl){
+      theplayer.attr('src',audiourl);
+  }
+);
+
+";s:17:"templatescript_19";s:524:"var state=0;
+$("#"  + @@AUTOID@@).click(function(e){
+$("#" + @@AUTOID@@ + "_target").toggle(
+{duration: 300, complete: doToggleState}
+); 
+return false;
+});
+
+var doToggleState=function(){
+var tb = $("#"  + @@AUTOID@@ + ' .togglebutton');
+if(state==0){
+tb.removeClass('fa-toggle-off');
+tb.addClass('fa-toggle-on');
+ $("#"  + @@AUTOID@@ + ' .toggletext').text(@@opentext@@);
+state=1;
+}else{
+tb.removeClass('fa-toggle-on');
+tb.addClass('fa-toggle-off');
+ $("#"  + @@AUTOID@@ + ' .toggletext').text(@@closedtext@@);
+state=0;
+}
+};";s:16:"templatescript_2";s:738:"var theaudio =$('#' + @@AUTOID@@);
+if(theaudio.length>0){
+   var ajplayer =audiojs.create(theaudio.get(0),{preload: "metadata"});
+}
+
+//code to auto refresh if this looks like a placeholder file
+ var player = theaudio;
+if(typeof player == 'undefined'){return;}
+if(typeof player[0] == 'undefined'){return;}
+var refreshfunction =function(){
+  var mr = media_refresher.clone();
+   mr.init(@@FILENAME@@,
+@@AUDIOPLACEHOLDERDURATION@@,
+player[0].duration,
+function(){
+  ajplayer.load(player[0].currentSrc + '&reload=true');
+/*
+  player.attr('src', player[0].currentSrc + '&reload=true');
+  player[0].pause();
+  player[0].load();
+*/
+ });
+};
+if(player[0].readyState==4){
+  refreshfunction();
+}else{
+  player.on('loadedmetadata',refreshfunction);
+}";s:17:"templatescript_20";s:137:"if(!$.fn.fancybox){ 
+$.getScript('https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js', function(){});
+}return;
+";s:17:"templatescript_21";s:391:"var params = '?dicecount=' + @@dicecount@@ + '&dicesize=' + @@dicesize@@;
+var widget = 'dice.lzx.js';
+
+var iframeurl = M.cfg.wwwroot + '/filter/poodll/js/poodlliframe.php'; 
+var fullurl =iframeurl + "?paramstring=" +  encodeURIComponent(params);
+fullurl += "&widget=" + widget;
+fullurl += "&width=" + @@width@@;
+fullurl += "&height=" + @@height@@;
+
+$('#'+ @@AUTOID@@).attr('src', fullurl);
+
+";s:17:"templatescript_22";s:10217:"//DECLARATIONS and INITs ...........................
+var thesentence_number =0;
+var lettered= false;
+
+//audio player declarations
+var aplayer = $('#' + @@AUTOID@@ + '_audio');
+
+//determine the voice
+var mf=@@speaker@@
+switch(@@language@@){
+case "English(US)": voice = mf=='Male'?'Joey':'Kendra';break;
+case "English(GB)": voice = mf=='Male'?'Brian':'Amy';break;
+case "English(AU)": voice = mf=='Male'?'Russell':'Nicole';break;
+case "English(IN)": voice = mf=='Male'?'Aditi':'Raveena';break;
+case "English(WELSH)": voice = mf=='Male'? 'Geraint':'Geraint';break;
+case "Danish": voice = mf=='Male'?'Mads':'Naja';break;
+case "Dutch": voice = mf=='Male'?'Ruben':'Lotte';break;
+case "French(FR)": voice = mf=='Male'?'Mathieu':'Celine';break;
+case "French(CA)": voice = mf=='Male'?'Chantal':'Chantal';break;
+case "German": voice = mf=='Male'?'Hans':'Marlene';break;
+case "Icelandic": voice = mf=='Male'?'Karl':'Dora';break;
+case "Italian": voice = mf=='Male'?'Carla':'Giorgio';break;
+case "Japanese": voice = mf=='Male'?'Takumi':'Mizuki';break;
+case "Korean": voice = mf=='Male'?'Seoyan':'Seoyan';break;
+case "Norwegian": voice = mf=='Male'?'Liv':'Liv';break;
+case "Polish": voice = mf=='Male'?'Jacek':'Ewa';break;
+case "Portugese(BR)": voice = mf=='Male'?'Ricardo':'Vitoria';break;
+case "Portugese(PT)": voice = mf=='Male'?'Cristiano':'Ines';break;
+case "Romanian": voice = mf=='Male'?'Carmen':'Carmen';break;
+case "Russian": voice = mf=='Male'?'Maxim':'Tatyana';break;
+case "Spanish(ES)": voice = mf=='Male'?'Enrique':'Conchita';break;
+case "Spanish(US)": voice = mf=='Male'?'Miguel':'Penelope';break;
+case "Swedish": voice = mf=='Male'?'Astrid':'Astrid';break;
+case "Turkish": voice = mf=='Male'?'Filiz':'Filiz';break;
+case "Welsh": voice = mf=='Male'?'Gwyneth':'Gwyneth';break;
+default: voice = mf=='Male'?'Brian':'Amy';
+}
+
+
+//fetch the text to read
+var useblock = $('#' + @@AUTOID@@ + '_textblock');
+var usetext = useblock.text();
+
+//some common selectors
+var wordselector = '#' + @@AUTOID@@+ '_textblock span.tbr_word';
+var sentenceselector = '#' + @@AUTOID@@+ '_textblock span.tbr_sentence';
+
+//FUNCTIONS ...........................
+
+
+//FUNCTION fetch polly url
+ var fetch_polly_url = function(speaktext, voice, callback) {
+
+                //The REST API we are calling
+                var functionname = 'local_cpapi_fetch_polly_url';
+
+                //fetch the Posturl. We need this.
+                //set up our ajax request
+                var xhr = new XMLHttpRequest();
+                var that = this;
+
+                //set up our handler for the response
+                xhr.onreadystatechange = function (e) {
+                    if (this.readyState === 4) {
+                        if (xhr.status == 200) {
+
+                            //get a yes or forgetit or tryagain
+                            var payload = xhr.responseText;
+                            var payloadobject = JSON.parse(payload);
+                            if (payloadobject) {
+                                //returnCode > 0  indicates an error
+                                if (payloadobject.returnCode > 0) {
+                                    console.log(payloadobject.returnMessage);
+                                    return false;
+                                    //if all good, then lets do the embed
+                                } else if (payloadobject.returnCode === 0){
+                                    var pollyurl = payloadobject.returnMessage;
+                                    callback(pollyurl);
+                                } else {
+                                    console.log('Polly Signed URL Request failed:');
+                                    console.log(payloadobject);
+                                }
+                            } else {
+                                console.log('Polly Signed URL Request something bad happened');
+                            }
+                        } else {
+                            console.log('Polly Signed URL Request Not 200 response:' + xhr.status);
+                        }
+                    }
+                };
+
+                //make our request
+                var xhrparams = "wstoken=" + @@CLOUDPOODLLTOKEN@@
+                + "&wsfunction=" + functionname
+                + "&moodlewsrestformat=" + 'json'
+                + "&text=" + encodeURIComponent(speaktext)
+                + '&texttype=text'
+                + '&voice=' + voice
+                + '&appid=' + 'filter_poodll'
+                + '&owner=poodll'
+                + '&region=useast1';
+
+                var serverurl = 'https://cloud.poodll.com' + "/webservice/rest/server.php";
+                xhr.open("POST", serverurl, true);
+                xhr.setRequestHeader("Cache-Control", "no-cache");
+                xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+                xhr.send(xhrparams);
+        };
+
+//FUNCTION: determine if the string is text or HTML
+var isHTML = function (testString) {
+    var htmlRegex = new RegExp("<([A-Za-z][A-Za-z0-9]*)\\b[^>]*>(.*?)</\\1>");
+    return htmlRegex.test(testString);
+};
+
+//FUNCTION: split a text passage into words
+var split_into_words= function(thetext){
+   thetext = thetext.replace(/\s+/g,' ').trim();
+   if(thetext==''){return[]};
+   return thetext.split(' ');  
+};
+
+//FUNCTION: split a text passage into sentences
+var split_into_sentences = function(thetext){
+     thetext = thetext.replace(/\s+/g,' ').trim();
+   if(thetext ==''){return[]};
+   return thetext.match(/([^\.!\?]+[\.!\?"']+)|([^\.!\?"']+$)/g);  
+};
+
+//FUNCTION: break a text passage into words/sentences, and surround the words with marker tags
+var spanify_text_passage = function(){
+          //the itemcount er
+          var itemcount = -1;
+
+         //get all the text nodes in the useblock
+         var textnodes = useblock.find('*').contents().filter(function(){ return this.nodeType == 3; });
+          //wrap sentence or words in text block with spans
+          textnodes.each(function(){
+             var retpieces = ''; 
+             if(@@playmode@@=='word'){
+                //for words
+                 var thewords = split_into_words($(this).text());
+                 for (var theword=0; theword < thewords.length; theword++){
+                    itemcount++;
+                    retpieces =  retpieces + '<span class="tbr_word" data-wordindex="'+ itemcount +'">' + thewords[theword] + '</span> ';
+                 }//end of for loop
+             }else{
+                //for sentences
+                //something is wrong in sentence mode. For now, just use word mode.
+                var thesentences = split_into_sentences($(this).text());
+                for (var thesentence=0; thesentence < thesentences.length; thesentence++){
+                      itemcount++;
+                     retpieces =  retpieces + '<span class="tbr_sentence" data-sentenceindex="'+ itemcount +'">' + thesentences[thesentence] + '</span>&nbsp;';
+                 }//end of for loop
+             }
+             $(this).replaceWith(retpieces);
+          });//end of textnodes each
+};
+
+//FUNCTION:  unhighlight a sentence as active
+var dehighlight_all = function(){
+  switch(@@playmode@@){
+      case 'word':
+          $(wordselector).removeClass('activesentence');
+          break;
+      case 'sentence':
+         $(sentenceselector).removeClass('activesentence');
+      case 'none':
+      default:
+         //do nothing
+  }
+};
+
+//FUNCTION:  highlight a word as active
+var highlight_word = function(theword){
+   $(wordselector).removeClass('activesentence');
+    theword.addClass('activesentence');
+};
+
+//FUNCTION:  highlight a sentence as active
+var highlight_sentence = function(thesentence){
+    $(sentenceselector).removeClass('activesentence');
+     $(sentenceselector + '[data-sentenceindex=' + thesentence + ']').addClass('activesentence');
+};
+
+//FUNCTION: play a single sentence and mark it active for display purposes
+var doplaysentence = function(thesentence){
+     highlight_sentence(thesentence);
+     aplayer.attr('src', instancedata[@@AUTOID@@].sentenceURLs[thesentence]);
+     aplayer[0].play();
+};
+
+var doplayword = function(theword){
+  highlight_word(theword);
+  fetch_polly_url(theword.text(),voice,function(pollyurl){
+     aplayer.attr('src', pollyurl);
+     aplayer[0].play();
+  });
+  
+};
+
+//AUDIO PLAYER events
+aplayer[0].addEventListener('ended', function(){
+      dehighlight_all();
+      aplayer[0].pause();
+});
+
+//handle sentence or word clicks
+$('#' + @@AUTOID@@ + '_textblock  .tbr_innerdiv').on('click', '.tbr_sentence, .tbr_word',function(){
+ var clickeditem= $(this);
+   var startnewplay = function(){ switch(@@playmode@@){
+        case 'sentence':
+            var index = clickeditem.attr('data-sentenceindex');
+            doplaysentence(index);
+            break;
+        case 'word':
+        default:
+            //var index = clickeditem.attr('data-wordindex');
+            doplayword(clickeditem);
+    }//end of switch
+      
+   };//end of startnewplay function
+
+   if(aplayer[0].playing){
+      console.log('was playing but then got iterrupted');
+       aplayer[0].pause().then(startnewplay);
+   }else{ 
+       startnewplay();
+   }//end of if
+});//end of on click handler
+
+//PROCEDURAL stuff ...........................
+//break it into sentences, and fetch data + TTS URL for each sentence
+var sentences = split_into_sentences(usetext);
+wordstarts=[];
+wordcounts=[];
+sentenceURLs=[];
+var previousend=0;
+
+for (var currentsentence=0;currentsentence<sentences.length;currentsentence++){
+  wordstarts[currentsentence]= previousend;
+  wordcounts[currentsentence]= split_into_words(sentences[currentsentence]).length;
+  previousend = previousend + wordcounts[currentsentence];
+
+var speaktext = sentences[currentsentence];
+fetch_polly_url(speaktext,voice,
+  function(sentenceindex){return function(pollyurl){sentenceURLs[sentenceindex]= pollyurl;}}(currentsentence)
+);
+
+}
+
+//now we need to ensure multiple passages on same page work, so we store sentences in array by autoid
+if(!instancedata) {
+     var instancedata = {};
+} 
+instancedata[@@AUTOID@@] = {
+  sentenceURLs: sentenceURLs,
+  wordcounts: wordcounts,
+  wordstarts: wordstarts
+}
+
+//mark up the passage
+spanify_text_passage();
+";s:17:"templatescript_23";s:477:"var player = new mejs.MediaElementPlayer("#" + "@@AUTOID@@");
+if(typeof player == 'undefined'){return;}
+if(typeof player.media == 'undefined'){return;}
+player.pause();
+
+//code to auto refresh if this looks like a placeholder file
+player.media.onloadedmetadata=function(){
+  var mr = media_refresher.clone();
+   mr.init(@@FILENAME@@,
+@@VIDEOPLACEHOLDERDURATION@@,
+player.media.duration,
+function(){
+  player.media.src = player.media.src + '&reload=true';
+  player.load();
+ });
+}";s:17:"templatescript_24";s:204:"requiredjs_flowplayer("#" + @@AUTOID@@, {
+clip:  {
+        sources: [
+              { type: "video/" + @@FILEEXT@@,
+                src:  @@VIDEOURL@@ }
+        ]
+    },
+ratio: 3/4,  
+splash: true  
+}); 
+";s:17:"templatescript_25";s:752:"//add subtitles if we need to
+if(@@data-subtitles@@){
+  var videohtml_captions='<track kind="captions" src="' + @@data-subtitles@@ + '" srclang="en" label="Captions" default="true" />';
+   $('#' + @@AUTOID@@).append(videohtml_captions);
+}
+
+//code to auto refresh if this looks like a placeholder file
+ var player = $('#' + @@AUTOID@@);
+if(typeof player[0] == 'undefined'){return;}
+var refreshfunction =function(){
+  var mr = media_refresher.clone();
+   mr.init(@@FILENAME@@,
+@@VIDEOPLACEHOLDERDURATION@@,
+player[0].duration,
+function(){
+  player.attr('src', player[0].currentSrc + '&reload=true');
+  player[0].pause();
+  player[0].load();
+ });
+};
+if(player[0].readyState==4){
+  refreshfunction();
+}else{
+  player.on('loadedmetadata',refreshfunction);
+}";s:17:"templatescript_26";s:0:"";s:17:"templatescript_27";s:0:"";s:17:"templatescript_28";s:443:"var params = '?initseconds=' + @@initseconds@@ + '&usepresets=' + @@usepresets@@ + '&fontheight=' + @@fontheight@@;
+var widget = 'countdowntimer.lzx.js';
+
+var iframeurl = M.cfg.wwwroot + '/filter/poodll/js/poodlliframe.php'; 
+var fullurl =iframeurl + "?paramstring=" +  encodeURIComponent(params);
+fullurl += "&widget=" + widget;
+fullurl += "&width=" + @@width@@;
+fullurl += "&height=" + @@height@@;
+
+$('#'+ @@AUTOID@@).attr('src', fullurl);
+
+";s:17:"templatescript_29";s:10840:"//now we need to ensure multiple passages so we wrap it all in a function and  call it at the end.
+//start of instance wrapper
+var passagereader = function(PASSAGEID){
+
+//DECLARATIONS and INITs ...........................
+var thesentence_number =0;
+var lettered= false;
+
+//audio player declarations
+var aplayer = $('#' + PASSAGEID + '_player');
+var fa = $('#' + PASSAGEID + ' .fa');
+
+//text to audio preparation
+var format = "text";
+
+//determine the voice
+var mf=@@speaker@@
+switch(@@language@@){
+case "English(US)": voice = mf=='Male'?'Joey':'Kendra';break;
+case "English(GB)": voice = mf=='Male'?'Brian':'Amy';break;
+case "English(AU)": voice = mf=='Male'?'Russell':'Nicole';break;
+case "English(IN)": voice = mf=='Male'?'Aditi':'Raveena';break;
+case "English(WELSH)": voice = mf=='Male'? 'Geraint':'Geraint';break;
+case "Danish": voice = mf=='Male'?'Mads':'Naja';break;
+case "Dutch": voice = mf=='Male'?'Ruben':'Lotte';break;
+case "French(FR)": voice = mf=='Male'?'Mathieu':'Celine';break;
+case "French(CA)": voice = mf=='Male'?'Chantal':'Chantal';break;
+case "German": voice = mf=='Male'?'Hans':'Marlene';break;
+case "Icelandic": voice = mf=='Male'?'Karl':'Dora';break;
+case "Italian": voice = mf=='Male'?'Carla':'Giorgio';break;
+case "Japanese": voice = mf=='Male'?'Takumi':'Mizuki';break;
+case "Korean": voice = mf=='Male'?'Seoyan':'Seoyan';break;
+case "Norwegian": voice = mf=='Male'?'Liv':'Liv';break;
+case "Polish": voice = mf=='Male'?'Jacek':'Ewa';break;
+case "Portugese(BR)": voice = mf=='Male'?'Ricardo':'Vitoria';break;
+case "Portugese(PT)": voice = mf=='Male'?'Cristiano':'Ines';break;
+case "Romanian": voice = mf=='Male'?'Carmen':'Carmen';break;
+case "Russian": voice = mf=='Male'?'Maxim':'Tatyana';break;
+case "Spanish(ES)": voice = mf=='Male'?'Enrique':'Conchita';break;
+case "Spanish(US)": voice = mf=='Male'?'Miguel':'Penelope';break;
+case "Swedish": voice = mf=='Male'?'Astrid':'Astrid';break;
+case "Turkish": voice = mf=='Male'?'Filiz':'Filiz';break;
+case "Welsh": voice = mf=='Male'?'Gwyneth':'Gwyneth';break;
+default: voice = mf=='Male'?'Brian':'Amy';
+}
+
+
+//fetch the text to read
+var useblock = $('#' + PASSAGEID + '_textblock');
+var usetext = useblock.text();
+
+//some common selectors
+var wordselector = '#' + PASSAGEID+ '_textblock span.tbr_word';
+var sentenceselector = '#' + PASSAGEID+ '_textblock span.tbr_sentence';
+
+//FUNCTIONS ...........................
+//FUNCTION fetch polly url
+ var fetch_polly_url = function(speaktext, voice, callback) {
+
+                //The REST API we are calling
+                var functionname = 'local_cpapi_fetch_polly_url';
+
+                //fetch the Posturl. We need this.
+                //set up our ajax request
+                var xhr = new XMLHttpRequest();
+                var that = this;
+
+                //set up our handler for the response
+                xhr.onreadystatechange = function (e) {
+                    if (this.readyState === 4) {
+                        if (xhr.status == 200) {
+
+                            //get a yes or forgetit or tryagain
+                            var payload = xhr.responseText;
+                            var payloadobject = JSON.parse(payload);
+                            if (payloadobject) {
+                                //returnCode > 0  indicates an error
+                                if (payloadobject.returnCode > 0) {
+                                    console.log(payloadobject.returnMessage);
+                                    return false;
+                                    //if all good, then lets do the embed
+                                } else if (payloadobject.returnCode === 0){
+                                    var pollyurl = payloadobject.returnMessage;
+                                    callback(pollyurl);
+                                } else {
+                                    console.log('Polly Signed URL Request failed:');
+                                    console.log(payloadobject);
+                                }
+                            } else {
+                                console.log('Polly Signed URL Request something bad happened');
+                            }
+                        } else {
+                            console.log('Polly Signed URL Request Not 200 response:' + xhr.status);
+                        }
+                    }
+                };
+
+                //make our request
+                var xhrparams = "wstoken=" + @@CLOUDPOODLLTOKEN@@
+                + "&wsfunction=" + functionname
+                + "&moodlewsrestformat=" + 'json'
+                + "&text=" + encodeURIComponent(speaktext)
+                + '&texttype=text'
+                + '&voice=' + voice
+                + '&appid=' + 'filter_poodll'
+                + '&owner=poodll'
+                + '&region=useast1';
+
+                var serverurl = 'https://cloud.poodll.com' + "/webservice/rest/server.php";
+                xhr.open("POST", serverurl, true);
+                xhr.setRequestHeader("Cache-Control", "no-cache");
+                xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+                xhr.send(xhrparams);
+        };
+
+//FUNCTION: determine if the string is text or HTML
+var isHTML = function (testString) {
+    var htmlRegex = new RegExp("<([A-Za-z][A-Za-z0-9]*)\\b[^>]*>(.*?)</\\1>");
+    return htmlRegex.test(testString);
+};
+
+//FUNCTION: split a text passage into words
+var split_into_words= function(thetext){
+   thetext = thetext.replace(/\s+/g,' ').trim();
+   if(thetext==''){return[]};
+   return thetext.split(' ');  
+};
+
+//FUNCTION: split a text passage into sentences
+var split_into_sentences = function(thetext){
+     thetext = thetext.replace(/\s+/g,' ').trim();
+   if(thetext ==''){return[]};
+   return thetext.match(/([^\.!\?]+[\.!\?"']+)|([^\.!\?"']+$)/g);  
+};
+
+//FUNCTION: break a text passage into words/sentences, and surround the words with marker tags
+var spanify_text_passage = function(){
+          //the itemcount er
+          var itemcount = -1;
+
+         //get all the text nodes in the useblock
+         var textnodes = useblock.find('*').contents().filter(function(){ return this.nodeType == 3; });
+          //wrap sentence or words in text block with spans
+          textnodes.each(function(){
+             var retpieces = ''; 
+             if(@@highlightmode@@=='word'){
+                //for words
+                 var thewords = split_into_words($(this).text());
+                 for (var theword=0; theword < thewords.length; theword++){
+                    itemcount++;
+                    retpieces =  retpieces + '<span class="tbr_word" data-wordindex="'+ itemcount +'">' + thewords[theword] + '</span> ';
+                 }//end of for loop
+             }else{
+                //for sentences
+                var thesentences = split_into_sentences($(this).text());
+                for (var thesentence=0; thesentence < thesentences.length; thesentence++){
+                      itemcount++;
+                     retpieces =  retpieces + '<span class="tbr_sentence" data-sentenceindex="'+ itemcount +'">' + thesentences[thesentence] + '</span>&nbsp;';
+                 }//end of for loop
+             }
+             $(this).replaceWith(retpieces);
+          });//end of textnodes each
+};
+
+//FUNCTION:  unhighlight a sentence as active
+var dehighlight_all = function(){
+  switch(@@highlightmode@@){
+      case 'word':
+          $(wordselector,useblock).removeClass('activesentence');
+          break;
+      case 'sentence':
+         $(sentenceselector,useblock).removeClass('activesentence');
+         break;
+      case 'none':
+      default:
+         //do nothing
+  }
+}
+
+//FUNCTION:  highlight a sentence as active
+var highlight_sentence = function(thesentence){
+  switch(@@highlightmode@@){
+      case 'word':
+          $(wordselector,useblock).removeClass('activesentence');
+          $(wordselector,useblock).slice(wordstarts[thesentence],
+               wordstarts[thesentence] + 
+               wordcounts[thesentence]).addClass('activesentence');
+          break;
+      case 'sentence':
+         $(sentenceselector).removeClass('activesentence');
+         $(sentenceselector + '[data-sentenceindex=' + thesentence + ']').addClass('activesentence');
+         break;
+      case 'none':
+      default:
+         //do nothing
+  }
+}
+
+//FUNCTION: play a single sentence and mark it active for display purposes
+var doplayaudio = function(thesentence){
+     highlight_sentence(thesentence);
+      aplayer.attr('src',sentenceURLs[thesentence]);
+      aplayer[0].play();
+};
+
+//AUDIO PLAYER events
+aplayer[0].addEventListener('ended', function(){
+     if(thesentence_number< sentences.length -1){
+         thesentence_number++;
+         doplayaudio(thesentence_number);
+    }else{
+      dehighlight_all();
+      $(fa).removeClass(@@pause@@);
+      $(fa).addClass(@@play@@);
+      aplayer[0].pause();
+    }
+});
+
+//handle audio player button clicks
+$('#' + PASSAGEID).click(function(){
+  if(!aplayer[0].paused && !aplayer[0].ended){
+     aplayer[0].pause();
+     if(@@stoporpause@@=='stop'){
+         aplayer[0].load();
+         thesentence_number=0;
+     }
+     $(fa).removeClass(@@pause@@);
+     $(fa).addClass(@@play@@);
+
+ //if paused and in limbo no src state
+  }else if(aplayer[0].paused && aplayer.attr('src')){
+       aplayer[0].play();
+       $(fa).removeClass(@@play@@);
+       $(fa).addClass(@@pause@@);
+//play 
+}else{
+       if(!lettered){
+          spanify_text_passage();
+          lettered=true;
+       };//end of if lettered
+      if(@@stoporpause@@=='stop'){
+         thesentence_number=0;
+      } 
+    doplayaudio(thesentence_number);
+    $(fa).removeClass(@@play@@);
+    $(fa).addClass(@@pause@@);
+  }//end of if paused ended
+});
+
+//handle sentence clicks
+$('#' + PASSAGEID + '_textblock  .tbr_innerdiv').on('click', '.tbr_sentence',function(){
+aplayer[0].pause();
+    var sentenceindex = $(this).attr('data-sentenceindex');
+   $(fa).removeClass(@@play@@);
+   $(fa).addClass(@@pause@@);
+   thesentence_number = sentenceindex; 
+   doplayaudio(sentenceindex );
+});
+
+//PROCEDURAL stuff ...........................
+//break it into sentences, and fetch data + TTS URL for each sentence
+var sentences = split_into_sentences(usetext);
+var wordstarts=[];
+var wordcounts=[];
+var sentenceURLs=[];
+var previousend=0;
+for (var currentsentence=0;currentsentence<sentences.length;currentsentence++){
+  wordstarts[currentsentence]= previousend;
+  wordcounts[currentsentence]= split_into_words(sentences[currentsentence]).length;
+  previousend = previousend + wordcounts[currentsentence];
+
+var speaktext = sentences[currentsentence];
+fetch_polly_url(speaktext,voice,
+  function(sentenceindex){return function(pollyurl){sentenceURLs[sentenceindex]= pollyurl;}}(currentsentence)
+);
+
+}
+
+//end of instance wrapper
+};
+//we pass in the autoid to call it
+passagereader(@@AUTOID@@);
+";s:16:"templatescript_3";s:602:"  var popoverdata = {
+   autoid: @@AUTOID@@,
+    title: '@@title@@',
+    content: '@@content@@',
+    trigger: 'focus',
+     container: false};
+
+//if bootstrap popover is loaded, if not, load it then init popover
+if(!$.fn.popover){ 
+   if(!window.fp_popovers){window.fp_popovers = [];}
+   window.fp_popovers.push(popoverdata);
+    define(['theme_boost/popover'], function(p) {
+      $.each(window.fp_popovers,function(i, onepopover){
+          $('#' + onepopover.autoid).popover(onepopover);//end of popover
+       });
+        
+    });//end of define
+}else{
+  $('#' + @@AUTOID@@).popover(popoverdata);
+}";s:17:"templatescript_30";s:188:" $(function() {
+    $( "#" + @@AUTOID@@).accordion({
+  header: "h3",
+  heightStyle: "content",
+  active: $.isNumeric(@@active@@) ? parseInt(@@active@@) : false,
+  collapsible: true
+ })
+});";s:17:"templatescript_31";s:23992:"//Define interactive_transcript (it) see cloud poodll submission amd/src/interactivetranscript.js
+var it={
+        init: function(itoptions){
+            var config={};
+             var that =this; 
+            config.settings ={};
+            if(itoptions['theplayer']) {
+                config.prefix = itoptions['cssprefix'];
+                config.theplayer =  itoptions['theplayer'];
+                config.dummyplayerid = itoptions['dummyplayerid'];
+                config.dummyplayer = $('#' + config.dummyplayerid)[0];                
+                config.title =  itoptions['title'];
+                config.containerid = itoptions['containerid'];
+                config.scrollingthing = itoptions['scrollingthing'];
+                config.currentTrack = 0;
+                config.theduration= itoptions['duration'];
+                config.textTranscript='';
+                var transcript = this.transcript(config);
+
+                $('#' + itoptions['scrollcontainerid']).append(transcript.el());
+   
+                //unregisgter old, then register download transcript event
+               $('#' + itoptions.containerid + ' .' +
+                   itoptions.cssprefix + 'download').off('click');
+                
+                $('#' + itoptions.containerid + ' .' +
+                   itoptions.cssprefix + 'download').on('click',function(){
+                   that.downloadTranscript(config);
+                   return false;
+                 });
+    
+            }//end of if player
+
+        },
+
+         downloadTranscript: function(config){
+       var element = document.createElement('a');
+        element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(config.textTranscript));
+       element.setAttribute('download', config.title + '.txt');
+        element.style.display = 'none';
+       document.body.appendChild(element);
+       element.click();
+        document.body.removeChild(element);
+           },
+
+        // Defaults
+        defaults: {
+            autoscroll: true,
+            clickArea: 'line', //the clickable part of line text,line,timestamp, none
+            showTrackSelector: false, //the drop down box of caption tracks
+            followPlayerTrack: true,
+            scrollToCenter: false, //show current text in center
+            stopScrollWhenInUse: false, //stop scrolling when user interacting
+        },
+
+        /*global */
+        utils: {
+            prefix: 'transcript',
+            secondsToTime: function (timeInSeconds) {
+                var hour = Math.floor(timeInSeconds / 3600);
+                var min = Math.floor(timeInSeconds % 3600 / 60);
+                var sec = Math.floor(timeInSeconds % 60);
+                sec = (sec < 10) ? '0' + sec : sec;
+                min = (hour > 0 && min < 10) ? '0' + min : min;
+                if (hour > 0) {
+                    return hour + ':' + min + ':' + sec;
+                }
+                return min + ':' + sec;
+            },
+            localize: function (string) {
+                return string; // TODO: do something here;
+            },
+            createEl: function (elementName, className) {
+                className = className || '';
+                var el = document.createElement(elementName);
+                el.className = className;
+                return el;
+            },
+            extend: function(obj) {
+                var type = typeof obj;
+                if (!(type === 'function' || type === 'object' && !!obj)) {
+                    return obj;
+                }
+                var source, prop;
+                for (var i = 1, length = arguments.length; i < length; i++) {
+                    source = arguments[i];
+                    for (prop in source) {
+                        obj[prop] = source[prop];
+                    }
+                }
+                return obj;
+            }
+            
+        },
+
+        eventEmitter: {
+            handlers_: [],
+            on: function on (object, eventtype, callback) {
+                if (typeof callback === 'function') {
+                    this.handlers_.push([object, eventtype, callback]);
+                } else {
+                    throw new TypeError('Callback is not a function.');
+                }
+            },
+            trigger: function trigger (object, eventtype) {
+                this.handlers_.forEach( function(h) {
+                    if (h[0] === object &&
+                        h[1] === eventtype) {
+                        h[2].apply();
+                    }
+                });
+            }
+        },
+
+        scrollerProto: function(config) {
+
+            var initHandlers = function (el) {
+                var self = this;
+                // The scroll event. We want to keep track of when the user is scrolling the transcript.
+                el.addEventListener('scroll', function () {
+                    if (self.isAutoScrolling) {
+
+                        // If isAutoScrolling was set to true, we can set it to false and then ignore this event.
+                        // It wasn't the user.
+                        self.isAutoScrolling = false; // event handled
+                    } else {
+
+                        // We only care about when the user scrolls. Set userIsScrolling to true and add a nice class.
+                        self.userIsScrolling = true;
+                        el.classList.add('is-inuse');
+                    }
+                });
+
+                // The mouseover event.
+                el.addEventListener('mouseenter', function () {
+                    self.mouseIsOverTranscript = true;
+                });
+                el.addEventListener('mouseleave', function () {
+                    self.mouseIsOverTranscript = false;
+
+                    // Have a small delay before deciding user as done interacting.
+                    setTimeout(function () {
+
+                        // Make sure the user didn't move the pointer back in.
+                        if (!self.mouseIsOverTranscript) {
+                            self.userIsScrolling = false;
+                            el.classList.remove('is-inuse');
+                        }
+                    }, 1000);
+                });
+            };
+
+            // Init instance variables
+            var init = function (element) {
+                this.element = element;
+                this.userIsScrolling = false;
+
+                //default to true in case user isn't using a mouse;
+                this.mouseIsOverTranscript = true;
+                this.isAutoScrolling = true;
+                initHandlers.call(this, this.element);
+                return this;
+            };
+
+            // Easing function for smoothness.
+            var easeOut = function (time, start, change, duration) {
+                return start + change * Math.sin(Math.min(1, time / duration) * (Math.PI / 2));
+            };
+
+            // Animate the scrolling.
+            var scrollTo = function (element, newPos, duration) {
+                var startTime = Date.now();
+                var startPos = element.scrollTop;
+                var self = this;
+
+                // Don't try to scroll beyond the limits. You won't get there and this will loop forever.
+                newPos = Math.max(0, newPos);
+                newPos = Math.min(element.scrollHeight - element.clientHeight, newPos);
+                var change = newPos - startPos;
+                
+                 //if not animating
+                 if(true){ 
+                    element.scrollTop= newPos;
+                  //if animating ... which doesn't work
+                  }else{
+                     // This inner function is called until the elements scrollTop reaches newPos.
+                     var updateScroll = function () {
+                        var now = Date.now();
+                        var time = now - startTime;
+                        self.isAutoScrolling = true;
+                        element.scrollTop = easeOut(time, startPos, change, duration);
+                        if (element.scrollTop !== newPos) {
+                            window.requestAnimationFrame(updateScroll, element);
+                        }
+                     };//end of update scroll
+                    window.requestAnimationFrame(updateScroll, element);
+                 }
+            };
+
+            // Scroll an element's parent so the element is brought into view.
+            var scrollToElement = function (element) {
+                if (this.canScroll()) {
+                   //elem="line" parent="body" parent.parent="scrolling" parent.parent.parent.scrollable
+                    var parent = element.parentElement.parentElement.parentElement;
+                    var parentOffsetBottom = parent.offsetTop + parent.clientHeight;
+                    var elementOffsetBottom = element.offsetTop + element.clientHeight;
+                    var relTop = element.offsetTop;
+                    var relBottom = (element.offsetTop + element.clientHeight);
+                    var centerPosCorrection = 0;
+                    var newPos;
+                    /*
+                                        console.log('element.offsetTop: ' + element.offsetTop );
+                                        console.log('element.clientHeight: ' + element.clientHeight );
+                                        console.log('parent.offsetTop: ' + parent.offsetTop );
+                                        console.log('parent.scrollTop: ' + parent.scrollTop );
+                                        console.log('parent.clientHeight: ' + parent.clientHeight );
+                                        console.log(element);
+                                        console.log(parent);
+                    */                                        
+                    
+                    //scroll to center if we must
+                    if (config.settings.scrollToCenter){
+                        centerPosCorrection = Math.round(parent.clientHeight/2 - element.clientHeight/2);
+                    }
+                    // If the top of the line is above the top of the parent view, were scrolling up,
+                    // so we want to move the top of the element downwards to match the top of the parent.
+                    if (relTop < parent.scrollTop + centerPosCorrection) {
+                        newPos = element.offsetTop  -centerPosCorrection;
+
+                        // If the bottom of the line is below the parent view, we're scrolling down, so we want the
+                        // bottom edge of the line to move up to meet the bottom edge of the parent.
+                    } else if (relBottom > (parent.scrollTop + parent.clientHeight) - centerPosCorrection) {
+                        newPos = elementOffsetBottom + centerPosCorrection;
+                    }
+
+                    // Don't try to scroll if we haven't set a new position.  If we didn't
+                    // set a new position the line is already in view (i.e. It's not above
+                    // or below the view)
+                    // And don't try to scroll when the element is already in position.
+                    if (newPos !== undefined && parent.scrollTop !== newPos) {
+                        scrollTo(parent, newPos, 400);
+                    }
+                }
+            };
+
+
+            // Return whether the element is scrollable.
+            var canScroll = function () {
+                var el = this.element;
+                //console.log(el.scrollHeight + ' ' + el.offsetHeight);
+                return true;//el.scrollHeight > el.offsetHeight;
+            };
+
+            // Return whether the user is interacting with the transcript.
+            var inUse = function () {
+                return this.userIsScrolling;
+            };
+
+            return {
+                init: init,
+                to : scrollToElement,
+                canScroll : canScroll,
+                inUse : inUse
+            }
+        },
+
+        scroller:  function(element,config) {
+            return Object.create(this.scrollerProto(config)).init(element);
+        },
+
+
+        /*global config*/
+        trackList: function(config) {
+            var activeTrack;
+            return {
+                get: function () {
+                    var validTracks = [];
+                    var i, track;
+                    config.tracks = config.dummyplayer.textTracks;
+                    for (i = 0; i < config.tracks.length; i++) {
+                        track = config.tracks[i];
+                        if (track.kind === 'captions' || track.kind === 'subtitles') {
+                            validTracks.push(track);
+                        }
+                    }
+                    return validTracks;
+                },
+                active: function (tracks) {
+                    var i, track;
+                    for (i = 0; i < config.tracks.length; i++) {
+                        track = config.tracks[i];
+                        if (track.mode === 'showing') {
+                            activeTrack = track;
+                            return track;
+                        }
+                    }
+                    // fallback to first track
+                    return activeTrack || tracks[0];
+                },
+            };
+        },
+
+        /*globals utils, eventEmitter,scrollable*/
+
+        widget:  function(config) {
+            var that = this;
+            var thewidget = {};
+            thewidget.element = {};
+            thewidget.body = {};
+            var on = function (event, callback) {
+                eventEmitter.on(that, event, callback);
+            };
+            var trigger = function (event) {
+                eventEmitter.trigger(that, event);
+            };
+            var initToolbar = function () {
+                $('#' + config.containerid + ' .' + config.prefix + 'title').text(config.title);
+            };
+            var createSelector = function (){
+                var selector = that.utils.createEl('select', config.prefix + '-selector');
+                config.validTracks.forEach(function (track, i) {
+                    var option = document.createElement('option');
+                    option.value = i;
+                    option.textContent = track.label + ' (' + track.language + ')';
+                    selector.appendChild(option);
+                });
+                selector.addEventListener('change', function (e) {
+                    setTrack(document.querySelector('#' + config.prefix + '-' + config.dummyplayerid + ' option:checked').value);
+                    trigger('trackchanged');
+                });
+                return selector;
+            };
+            var clickToSeekHandler = function (event) {
+                var clickedClasses = event.target.classList;
+                var clickedTime = event.target.getAttribute('data-begin') || event.target.parentElement.getAttribute('data-begin');
+                if (clickedTime !== undefined && clickedTime !== null) { // can be zero
+                    if ((config.settings.clickArea === 'line') || // clickArea: 'line' activates on all elements
+                        (config.settings.clickArea === 'timestamp' && clickedClasses.contains(config.prefix + '-timestamp')) ||
+                        (config.settings.clickArea === 'text' && clickedClasses.contains(config.prefix + '-text'))) {
+                        config.theplayer.currentTime= clickedTime;
+                    }
+                }
+            };
+            var createLine = function (cue) {
+                var line = that.utils.createEl('div', config.prefix +'-line');
+                var timestamp = that.utils.createEl('span',config.prefix + '-timestamp');
+                var text = that.utils.createEl('span', config.prefix + '-text');
+                line.setAttribute('data-begin', cue.startTime);
+                line.setAttribute('tabindex', thewidget._options.tabIndex || 0);
+                timestamp.textContent = that.utils.secondsToTime(cue.startTime);
+                text.innerHTML = cue.text;
+                line.appendChild(timestamp);
+                line.appendChild(text);
+                return line;
+            };
+          
+            var createTranscriptBody = function (track) {
+                if (typeof track !== 'object') {
+                    track = config.dummyplayer.textTracks()[track];
+                }
+                var body = that.utils.createEl('div', config.prefix + '-body');
+                var line, i;
+                var fragment = document.createDocumentFragment();
+                // activeCues returns null when the track isn't loaded (for now?)
+                if (!track.activeCues) {
+                    // If cues aren't loaded, set mode to hidden, wait, and try again.
+                    // But don't hide an active track. In that case, just wait and try again.
+                    if (track.mode !== 'showing') {
+                        track.mode = 'hidden';
+                    }
+                    window.setTimeout(function() {
+                        createTranscriptBody(track);
+                    }, 100);
+                } else {
+                    var cues = track.cues;
+                    var textTranscript =[];
+                    for (i = 0; i < cues.length; i++) {
+                        line = createLine(cues[i]);
+                        if(!(cues[i].text==='')){
+                            textTranscript.push(cues[i].text);
+                        }
+                        fragment.appendChild(line);
+                    }
+                    //prepare text transcript
+                    config.textTranscript=textTranscript.join(' ');
+                    
+                    //build body of transcript
+                    body.innerHTML = '';
+                    body.appendChild(fragment);
+                    body.setAttribute('lang', track.language);
+                    body.scroll = that.scroller(thewidget.element,config);
+                    body.addEventListener('click', clickToSeekHandler);
+                    thewidget.element.replaceChild(body, thewidget.body);
+                    thewidget.body = body;
+                }
+
+            };
+            var create = function (options) {
+                initToolbar();
+                var el = document.createElement('div');
+                thewidget._options = options;
+                thewidget.element = el;
+                el.setAttribute('id', config.scrollingthing);
+              
+                if (config.settings.showTrackSelector) {
+                    var selector = createSelector();
+                    el.appendChild(selector);
+                }
+                thewidget.body = that.utils.createEl('div',config.prefix + '-body');
+                el.appendChild(thewidget.body);
+                setTrack(config.currentTrack);
+                return this;
+            };
+            var setTrack = function (track, trackCreated) {
+                createTranscriptBody(track, trackCreated);
+            };
+            var setCue = function (time) {
+                var active, i, line, begin, end;
+                var lines = thewidget.body.children;
+                for (i = 0; i < lines.length; i++) {
+                    line = lines[i];
+                    begin = line.getAttribute('data-begin');
+                    if (i < lines.length - 1) {
+                        end = lines[i + 1].getAttribute('data-begin');
+                    } else {
+                        end = config.theduration;
+                    }
+                    if (time > begin && time < end) {
+                        if (!line.classList.contains('is-active')) { // don't update if it hasn't changed
+                            line.classList.add('is-active');
+                            if (config.settings.autoscroll && !(config.settings.stopScrollWhenInUse && thewidget.body.scroll.inUse())) {
+                                thewidget.body.scroll.to(line);
+                            }
+                        }
+                    } else {
+                        line.classList.remove('is-active');
+                    }
+                }
+            };
+            var el = function () {
+                return thewidget.element;
+            };
+            return {
+                create: create,
+                setTrack: setTrack,
+                setCue: setCue,
+                el : el,
+                on: on,
+                trigger: trigger,
+            };
+        },
+
+        transcript: function(config){
+            var that=this;
+            var options=this.defaults;
+            this.utils.prefix='transcript';
+
+            config.validTracks = this.trackList(config).get();
+            config.currentTrack = this.trackList(config).active(config.validTracks);
+            config.settings = options;
+            config.widget = this.widget(config).create(options);
+
+            var timeUpdate = function (eventdata) {
+                config.widget.setCue(config.theplayer.currentTime);
+            };
+            var updateTrack = function () {
+                config.currentTrack = that.trackList(config).active(config.validTracks);
+                config.widget.setTrack(config.currentTrack);
+            };
+            if (config.validTracks.length > 0) {
+                config.theplayer.ontimeupdate =timeUpdate;
+            } else {
+                throw new Error('transcript: No tracks found!');
+            }
+            return {
+                el: function () {
+                    return config.widget.el();
+                },
+                setTrack: config.widget.setTrack
+            };
+        }
+ };//end of interactive transcript
+
+var processNewVideo = function(player, itoptions){
+   //first of all clear the existing transcript if we have one
+   $('#' + @@AUTOID@@ + '_transcriptscrollable').empty();
+    itoptions.title=@@TITLE@@;
+    itoptions.theduration=player.duration;
+    //finally load interactive transcript
+     it.init(itoptions);      
+
+
+}// end of processNewVideo
+ 
+//Set up our player 
+var theplayer = $('#' + @@AUTOID@@ + '_player')[0];
+
+ 
+ //init our interactive transcript options  (IT)
+var itoptions = {};
+itoptions.containerid = @@AUTOID@@ + '_transcriptcontainer';
+itoptions.scrollcontainerid = @@AUTOID@@ + '_transcriptscrollable';
+itoptions.scrollingthing = @@AUTOID@@ + '_transcriptscrolling';
+itoptions.dummyplayerid = @@AUTOID@@ + '_dummyplayer';
+itoptions.splitter = @@AUTOID@@ + '_splitter';
+itoptions.playerid = @@AUTOID@@ + '_player';
+itoptions.theplayer = theplayer;
+itoptions.cssprefix = 'filterpoodll_siv_transcript';
+
+
+//window stuff for resizing
+if ($(window).width() >= 992) {
+ $('#' + @@AUTOID@@ + '_player').resizable({
+          handles: {'e' : $('#' + @@AUTOID@@ + '_splitter')},
+         resizeHeight: false
+      });
+}
+
+//display toolbar buttons (they appear too soon otherwise)
+$('#' + itoptions.containerid + ' .' +
+      itoptions.cssprefix + 'toolbar .' + itoptions.cssprefix + 'tools').show();
+
+//Toggle time stamp      
+$('#' + itoptions.containerid + ' .' +
+      itoptions.cssprefix + 'showtime').on('click',function(){
+      
+    $('#' + itoptions.containerid + ' .' +
+      itoptions.cssprefix + '-body').toggleClass('notimestamp');
+  return false;
+
+});
+
+//Toggle layout      
+$('#' + itoptions.containerid + ' .' +
+      itoptions.cssprefix + 'layout').on('click',function(){
+   
+     var maincontainer =  $('.filterpoodll_siv_transcriptmain_container');
+     var sivvideo =  $('.sivvideo') ;
+      if(maincontainer.hasClass('fpv_flexrow')){
+           maincontainer.removeClass('fpv_flexrow');
+           maincontainer.addClass('fpv_flexcol'); 
+            $('#' + itoptions.splitter).hide();
+           //clear any resized widths  
+           sivvideo.css('width','');
+      }else{
+            maincontainer.removeClass('fpv_flexcol'); 
+            maincontainer.addClass('fpv_flexrow');
+          $('#' + itoptions.splitter).show();
+
+       }
+    return false;
+
+});
+
+
+//kick it all off
+processNewVideo(theplayer,itoptions);
+";s:17:"templatescript_32";s:0:"";s:17:"templatescript_33";s:0:"";s:17:"templatescript_34";s:0:"";s:17:"templatescript_35";s:0:"";s:17:"templatescript_36";s:0:"";s:17:"templatescript_37";s:0:"";s:17:"templatescript_38";s:0:"";s:17:"templatescript_39";s:0:"";s:16:"templatescript_4";s:415:"var player = new mejs.MediaElementPlayer("#" + "@@AUTOID@@");
+if(typeof player == 'undefined'){return;}
+if(typeof player.media == 'undefined'){return;}
+player.pause();
+player.media.onloadedmetadata=function(){
+  var mr = media_refresher.clone();
+   mr.init(@@FILENAME@@,
+@@AUDIOPLACEHOLDERDURATION@@,
+player.media.duration,
+function(){
+  player.media.src = player.media.src + '&reload=true';
+  player.load();
+ });
+}";s:17:"templatescript_40";s:0:"";s:16:"templatescript_5";s:23276:"//Define interactive_transcript (it) see cloud poodll submission amd/src/interactivetranscript.js
+var it={
+        init: function(itoptions){
+            var config={};
+             var that =this; 
+            config.settings ={};
+            if(itoptions['theplayer']) {
+                config.prefix = itoptions['cssprefix'];
+                config.theplayer =  itoptions['theplayer'];
+                config.dummyplayerid = itoptions['dummyplayerid'];
+                config.dummyplayer = $('#' + config.dummyplayerid)[0];                
+                config.title =  itoptions['title'];
+                config.containerid = itoptions['containerid'];
+                config.scrollingthing = itoptions['scrollingthing'];
+                config.currentTrack = 0;
+                config.theduration= itoptions['duration'];
+                config.textTranscript='';
+                var transcript = this.transcript(config);
+
+                $('#' + itoptions['scrollcontainerid']).append(transcript.el());
+   
+                //unregisgter old, then register download transcript event
+               $('#' + itoptions.containerid + ' .' +
+                   itoptions.cssprefix + 'download').off('click');
+                
+                $('#' + itoptions.containerid + ' .' +
+                   itoptions.cssprefix + 'download').on('click',function(){
+                   that.downloadTranscript(config);
+                   return false;
+                 });
+    
+            }//end of if player
+
+        },
+
+         downloadTranscript: function(config){
+        var element = document.createElement('a');
+        element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(config.textTranscript));
+       element.setAttribute('download', config.title + '.txt');
+        element.style.display = 'none';
+       document.body.appendChild(element);
+       element.click();
+        document.body.removeChild(element);
+           },
+
+        // Defaults
+        defaults: {
+            autoscroll: true,
+            clickArea: 'line', //the clickable part of line text,line,timestamp, none
+            showTrackSelector: false, //the drop down box of caption tracks
+            followPlayerTrack: true,
+            scrollToCenter: false, //show current text in center
+            stopScrollWhenInUse: false, //stop scrolling when user interacting
+        },
+
+        /*global */
+        utils: {
+            prefix: 'transcript',
+            secondsToTime: function (timeInSeconds) {
+                var hour = Math.floor(timeInSeconds / 3600);
+                var min = Math.floor(timeInSeconds % 3600 / 60);
+                var sec = Math.floor(timeInSeconds % 60);
+                sec = (sec < 10) ? '0' + sec : sec;
+                min = (hour > 0 && min < 10) ? '0' + min : min;
+                if (hour > 0) {
+                    return hour + ':' + min + ':' + sec;
+                }
+                return min + ':' + sec;
+            },
+            localize: function (string) {
+                return string; // TODO: do something here;
+            },
+            createEl: function (elementName, className) {
+                className = className || '';
+                var el = document.createElement(elementName);
+                el.className = className;
+                return el;
+            },
+            extend: function(obj) {
+                var type = typeof obj;
+                if (!(type === 'function' || type === 'object' && !!obj)) {
+                    return obj;
+                }
+                var source, prop;
+                for (var i = 1, length = arguments.length; i < length; i++) {
+                    source = arguments[i];
+                    for (prop in source) {
+                        obj[prop] = source[prop];
+                    }
+                }
+                return obj;
+            }
+            
+        },
+
+        eventEmitter: {
+            handlers_: [],
+            on: function on (object, eventtype, callback) {
+                if (typeof callback === 'function') {
+                    this.handlers_.push([object, eventtype, callback]);
+                } else {
+                    throw new TypeError('Callback is not a function.');
+                }
+            },
+            trigger: function trigger (object, eventtype) {
+                this.handlers_.forEach( function(h) {
+                    if (h[0] === object &&
+                        h[1] === eventtype) {
+                        h[2].apply();
+                    }
+                });
+            }
+        },
+
+        scrollerProto: function(config) {
+
+            var initHandlers = function (el) {
+                var self = this;
+                // The scroll event. We want to keep track of when the user is scrolling the transcript.
+                el.addEventListener('scroll', function () {
+                    if (self.isAutoScrolling) {
+
+                        // If isAutoScrolling was set to true, we can set it to false and then ignore this event.
+                        // It wasn't the user.
+                        self.isAutoScrolling = false; // event handled
+                    } else {
+
+                        // We only care about when the user scrolls. Set userIsScrolling to true and add a nice class.
+                        self.userIsScrolling = true;
+                        el.classList.add('is-inuse');
+                    }
+                });
+
+                // The mouseover event.
+                el.addEventListener('mouseenter', function () {
+                    self.mouseIsOverTranscript = true;
+                });
+                el.addEventListener('mouseleave', function () {
+                    self.mouseIsOverTranscript = false;
+
+                    // Have a small delay before deciding user as done interacting.
+                    setTimeout(function () {
+
+                        // Make sure the user didn't move the pointer back in.
+                        if (!self.mouseIsOverTranscript) {
+                            self.userIsScrolling = false;
+                            el.classList.remove('is-inuse');
+                        }
+                    }, 1000);
+                });
+            };
+
+            // Init instance variables
+            var init = function (element) {
+                this.element = element;
+                this.userIsScrolling = false;
+
+                //default to true in case user isn't using a mouse;
+                this.mouseIsOverTranscript = true;
+                this.isAutoScrolling = true;
+                initHandlers.call(this, this.element);
+                return this;
+            };
+
+            // Easing function for smoothness.
+            var easeOut = function (time, start, change, duration) {
+                return start + change * Math.sin(Math.min(1, time / duration) * (Math.PI / 2));
+            };
+
+            // Animate the scrolling.
+            var scrollTo = function (element, newPos, duration) {
+                var startTime = Date.now();
+                var startPos = element.scrollTop;
+                var self = this;
+
+                // Don't try to scroll beyond the limits. You won't get there and this will loop forever.
+                newPos = Math.max(0, newPos);
+                newPos = Math.min(element.scrollHeight - element.clientHeight, newPos);
+                var change = newPos - startPos;
+                
+                 //if not animating
+                 if(true){ 
+                    element.scrollTop= newPos;
+                  //if animating ... which doesn't work
+                  }else{
+                     // This inner function is called until the elements scrollTop reaches newPos.
+                     var updateScroll = function () {
+                        var now = Date.now();
+                        var time = now - startTime;
+                        self.isAutoScrolling = true;
+                        element.scrollTop = easeOut(time, startPos, change, duration);
+                        if (element.scrollTop !== newPos) {
+                            window.requestAnimationFrame(updateScroll, element);
+                        }
+                     };//end of update scroll
+                    window.requestAnimationFrame(updateScroll, element);
+                 }
+            };
+
+            // Scroll an element's parent so the element is brought into view.
+            var scrollToElement = function (element) {
+                if (this.canScroll()) {
+                   //elem="line" parent="body" parent.parent="scrolling" parent.parent.parent.scrollable
+                    var parent = element.parentElement.parentElement.parentElement;
+                    var parentOffsetBottom = parent.offsetTop + parent.clientHeight;
+                    var elementOffsetBottom = element.offsetTop + element.clientHeight;
+                    var relTop = element.offsetTop;
+                    var relBottom = (element.offsetTop + element.clientHeight);
+                    var centerPosCorrection = 0;
+                    var newPos;
+                    /*
+                                        console.log('element.offsetTop: ' + element.offsetTop );
+                                        console.log('element.clientHeight: ' + element.clientHeight );
+                                        console.log('parent.offsetTop: ' + parent.offsetTop );
+                                        console.log('parent.scrollTop: ' + parent.scrollTop );
+                                        console.log('parent.clientHeight: ' + parent.clientHeight );
+                                        console.log(element);
+                                        console.log(parent);
+                    */                                        
+                    
+                    //scroll to center if we must
+                    if (config.settings.scrollToCenter){
+                        centerPosCorrection = Math.round(parent.clientHeight/2 - element.clientHeight/2);
+                    }
+                    // If the top of the line is above the top of the parent view, were scrolling up,
+                    // so we want to move the top of the element downwards to match the top of the parent.
+                    if (relTop < parent.scrollTop + centerPosCorrection) {
+                        newPos = element.offsetTop  -centerPosCorrection;
+
+                        // If the bottom of the line is below the parent view, we're scrolling down, so we want the
+                        // bottom edge of the line to move up to meet the bottom edge of the parent.
+                    } else if (relBottom > (parent.scrollTop + parent.clientHeight) - centerPosCorrection) {
+                        newPos = elementOffsetBottom + centerPosCorrection;
+                    }
+
+                    // Don't try to scroll if we haven't set a new position.  If we didn't
+                    // set a new position the line is already in view (i.e. It's not above
+                    // or below the view)
+                    // And don't try to scroll when the element is already in position.
+                    if (newPos !== undefined && parent.scrollTop !== newPos) {
+                        scrollTo(parent, newPos, 400);
+                    }
+                }
+            };
+
+
+            // Return whether the element is scrollable.
+            var canScroll = function () {
+                var el = this.element;
+                //console.log(el.scrollHeight + ' ' + el.offsetHeight);
+                return true;//el.scrollHeight > el.offsetHeight;
+            };
+
+            // Return whether the user is interacting with the transcript.
+            var inUse = function () {
+                return this.userIsScrolling;
+            };
+
+            return {
+                init: init,
+                to : scrollToElement,
+                canScroll : canScroll,
+                inUse : inUse
+            }
+        },
+
+        scroller:  function(element,config) {
+            return Object.create(this.scrollerProto(config)).init(element);
+        },
+
+
+        /*global config*/
+        trackList: function(config) {
+            var activeTrack;
+            return {
+                get: function () {
+                    var validTracks = [];
+                    var i, track;
+                    config.tracks = config.dummyplayer.textTracks;
+                    for (i = 0; i < config.tracks.length; i++) {
+                        track = config.tracks[i];
+                        if (track.kind === 'captions' || track.kind === 'subtitles') {
+                            validTracks.push(track);
+                        }
+                    }
+                    return validTracks;
+                },
+                active: function (tracks) {
+                    var i, track;
+                    for (i = 0; i < config.tracks.length; i++) {
+                        track = config.tracks[i];
+                        if (track.mode === 'showing') {
+                            activeTrack = track;
+                            return track;
+                        }
+                    }
+                    // fallback to first track
+                    return activeTrack || tracks[0];
+                },
+            };
+        },
+
+        /*globals utils, eventEmitter,scrollable*/
+
+        widget:  function(config) {
+            var that = this;
+            var thewidget = {};
+            thewidget.element = {};
+            thewidget.body = {};
+            var on = function (event, callback) {
+                eventEmitter.on(that, event, callback);
+            };
+            var trigger = function (event) {
+                eventEmitter.trigger(that, event);
+            };
+            var initToolbar = function () {
+                $('#' + config.containerid + ' .' + config.prefix + 'title').text(config.title);
+            };
+            var createSelector = function (){
+                var selector = that.utils.createEl('select', config.prefix + '-selector');
+                config.validTracks.forEach(function (track, i) {
+                    var option = document.createElement('option');
+                    option.value = i;
+                    option.textContent = track.label + ' (' + track.language + ')';
+                    selector.appendChild(option);
+                });
+                selector.addEventListener('change', function (e) {
+                    setTrack(document.querySelector('#' + config.prefix + '-' + config.dummyplayerid + ' option:checked').value);
+                    trigger('trackchanged');
+                });
+                return selector;
+            };
+            var clickToSeekHandler = function (event) {
+                var clickedClasses = event.target.classList;
+                var clickedTime = event.target.getAttribute('data-begin') || event.target.parentElement.getAttribute('data-begin');
+                if (clickedTime !== undefined && clickedTime !== null) { // can be zero
+                    if ((config.settings.clickArea === 'line') || // clickArea: 'line' activates on all elements
+                        (config.settings.clickArea === 'timestamp' && clickedClasses.contains(config.prefix + '-timestamp')) ||
+                        (config.settings.clickArea === 'text' && clickedClasses.contains(config.prefix + '-text'))) {
+                        config.theplayer.currentTime= clickedTime;
+                    }
+                }
+            };
+            var createLine = function (cue) {
+                var line = that.utils.createEl('div', config.prefix +'-line');
+                var timestamp = that.utils.createEl('span',config.prefix + '-timestamp');
+                var text = that.utils.createEl('span', config.prefix + '-text');
+                line.setAttribute('data-begin', cue.startTime);
+                line.setAttribute('tabindex', thewidget._options.tabIndex || 0);
+                timestamp.textContent = that.utils.secondsToTime(cue.startTime);
+                text.innerHTML = cue.text;
+                line.appendChild(timestamp);
+                line.appendChild(text);
+                return line;
+            };
+          
+            var createTranscriptBody = function (track) {
+                if (typeof track !== 'object') {
+                    track = config.dummyplayer.textTracks()[track];
+                }
+                var body = that.utils.createEl('div', config.prefix + '-body');
+                var line, i;
+                var fragment = document.createDocumentFragment();
+                // activeCues returns null when the track isn't loaded (for now?)
+                if (!track.activeCues) {
+                    // If cues aren't loaded, set mode to hidden, wait, and try again.
+                    // But don't hide an active track. In that case, just wait and try again.
+                    if (track.mode !== 'showing') {
+                        track.mode = 'hidden';
+                    }
+                    window.setTimeout(function() {
+                        createTranscriptBody(track);
+                    }, 100);
+                } else {
+                    var cues = track.cues;
+                    var textTranscript =[];
+                    for (i = 0; i < cues.length; i++) {
+                        line = createLine(cues[i]);
+                        if(!(cues[i].text==='')){
+                            textTranscript.push(cues[i].text);
+                        }
+                        fragment.appendChild(line);
+                    }
+                    //prepare text transcript
+                    config.textTranscript=textTranscript.join(' ');
+                    
+                    //build body of transcript
+                    body.innerHTML = '';
+                    body.appendChild(fragment);
+                    body.setAttribute('lang', track.language);
+                    body.scroll = that.scroller(thewidget.element,config);
+                    body.addEventListener('click', clickToSeekHandler);
+                    thewidget.element.replaceChild(body, thewidget.body);
+                    thewidget.body = body;
+                }
+
+            };
+            var create = function (options) {
+                initToolbar();
+                var el = document.createElement('div');
+                thewidget._options = options;
+                thewidget.element = el;
+                el.setAttribute('id', config.scrollingthing);
+              
+                if (config.settings.showTrackSelector) {
+                    var selector = createSelector();
+                    el.appendChild(selector);
+                }
+                thewidget.body = that.utils.createEl('div',config.prefix + '-body');
+                el.appendChild(thewidget.body);
+                setTrack(config.currentTrack);
+                return this;
+            };
+            var setTrack = function (track, trackCreated) {
+                createTranscriptBody(track, trackCreated);
+            };
+            var setCue = function (time) {
+                var active, i, line, begin, end;
+                var lines = thewidget.body.children;
+                for (i = 0; i < lines.length; i++) {
+                    line = lines[i];
+                    begin = line.getAttribute('data-begin');
+                    if (i < lines.length - 1) {
+                        end = lines[i + 1].getAttribute('data-begin');
+                    } else {
+                        end = config.theduration;
+                    }
+                    if (time > begin && time < end) {
+                        if (!line.classList.contains('is-active')) { // don't update if it hasn't changed
+                            line.classList.add('is-active');
+                            if (config.settings.autoscroll && !(config.settings.stopScrollWhenInUse && thewidget.body.scroll.inUse())) {
+                                thewidget.body.scroll.to(line);
+                            }
+                        }
+                    } else {
+                        line.classList.remove('is-active');
+                    }
+                }
+            };
+            var el = function () {
+                return thewidget.element;
+            };
+            return {
+                create: create,
+                setTrack: setTrack,
+                setCue: setCue,
+                el : el,
+                on: on,
+                trigger: trigger,
+            };
+        },
+
+        transcript: function(config){
+            var that=this;
+            var options=this.defaults;
+            this.utils.prefix='transcript';
+
+            config.validTracks = this.trackList(config).get();
+            config.currentTrack = this.trackList(config).active(config.validTracks);
+            config.settings = options;
+            config.widget = this.widget(config).create(options);
+
+            var timeUpdate = function (eventdata) {
+                config.widget.setCue(config.theplayer.currentTime);
+            };
+            var updateTrack = function () {
+                config.currentTrack = that.trackList(config).active(config.validTracks);
+                config.widget.setTrack(config.currentTrack);
+            };
+            if (config.validTracks.length > 0) {
+                config.theplayer.ontimeupdate =timeUpdate;
+            } else {
+                throw new Error('transcript: No tracks found!');
+            }
+            return {
+                el: function () {
+                    return config.widget.el();
+                },
+                setTrack: config.widget.setTrack
+            };
+        }
+ };//end of interactive transcript
+
+var processNewVideo = function(player, itoptions){
+   //first of all clear the existing transcript if we have one
+   $('#' + @@AUTOID@@ + '_transcriptscrollable').empty();
+    itoptions.title=@@TITLE@@;
+    itoptions.theduration=player.duration;
+    //finally load interactive transcript
+     it.init(itoptions);      
+
+
+}// end of processNewVideo
+ 
+//Set up our player 
+var theplayer = $('#' + @@AUTOID@@ + '_player')[0];
+
+ 
+ //init our interactive transcript options  (IT)
+var itoptions = {};
+itoptions.containerid = @@AUTOID@@ + '_transcriptcontainer';
+itoptions.scrollcontainerid = @@AUTOID@@ + '_transcriptscrollable';
+itoptions.scrollingthing = @@AUTOID@@ + '_transcriptscrolling';
+itoptions.dummyplayerid = @@AUTOID@@ + '_dummyplayer';
+itoptions.splitter = @@AUTOID@@ + '_splitter';
+itoptions.playerid = @@AUTOID@@ + '_player';
+itoptions.theplayer = theplayer;
+itoptions.cssprefix = 'filterpoodll_sia_transcript';
+
+
+//window stuff for resizing
+if ($(window).width() >= 992) {
+ $('#' + @@AUTOID@@ + '_player').resizable({
+          handles: {'e' : $('#' + @@AUTOID@@ + '_splitter')},
+         resizeHeight: false
+      });
+}
+
+//display toolbar buttons (they appear too soon otherwise)
+$('#' + itoptions.containerid + ' .' +
+      itoptions.cssprefix + 'toolbar .' + itoptions.cssprefix + 'tools').show();
+
+//Toggle time stamp      
+$('#' + itoptions.containerid + ' .' +
+      itoptions.cssprefix + 'showtime').on('click',function(){
+      
+    $('#' + itoptions.containerid + ' .' +
+      itoptions.cssprefix + '-body').toggleClass('notimestamp');
+  return false;
+
+});
+
+//kick it all off
+processNewVideo(theplayer,itoptions);
+";s:16:"templatescript_6";s:5809:"//FUNCTION fetch polly url
+ var fetch_polly_url = function(speaktext, voice, callback) {
+
+                //The REST API we are calling
+                var functionname = 'local_cpapi_fetch_polly_url';
+
+                //fetch the Posturl. We need this.
+                //set up our ajax request
+                var xhr = new XMLHttpRequest();
+                var that = this;
+
+                //set up our handler for the response
+                xhr.onreadystatechange = function (e) {
+                    if (this.readyState === 4) {
+                        if (xhr.status == 200) {
+
+                            //get a yes or forgetit or tryagain
+                            var payload = xhr.responseText;
+                            var payloadobject = JSON.parse(payload);
+                            if (payloadobject) {
+                                //returnCode > 0  indicates an error
+                                if (payloadobject.returnCode > 0) {
+                                    console.log(payloadobject.returnMessage);
+                                    return false;
+                                    //if all good, then lets do the embed
+                                } else if (payloadobject.returnCode === 0){
+                                    var pollyurl = payloadobject.returnMessage;
+                                    callback(pollyurl);
+                                } else {
+                                    console.log('Polly Signed URL Request failed:');
+                                    console.log(payloadobject);
+                                }
+                            } else {
+                                console.log('Polly Signed URL Request something bad happened');
+                            }
+                        } else {
+                            console.log('Polly Signed URL Request Not 200 response:' + xhr.status);
+                        }
+                    }
+                };
+
+                //make our request
+                var xhrparams = "wstoken=" + @@CLOUDPOODLLTOKEN@@
+                + "&wsfunction=" + functionname
+                + "&moodlewsrestformat=" + 'json'
+                + "&text=" + encodeURIComponent(speaktext)
+                + '&texttype=text'
+                + '&voice=' + voice
+                + '&appid=' + 'filter_poodll'
+                + '&owner=poodll'
+                + '&region=useast1';
+
+                var serverurl = 'https://cloud.poodll.com' + "/webservice/rest/server.php";
+                xhr.open("POST", serverurl, true);
+                xhr.setRequestHeader("Cache-Control", "no-cache");
+                xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+                xhr.send(xhrparams);
+        };
+
+//remove any HTML editor artifacts
+$('#' + @@AUTOID@@ + ' p').remove();
+$('#' + @@AUTOID@@ + ' span').remove();
+
+//fetch the controls we inserted in "body"
+var theplayer = $('#' + @@AUTOID@@ + '_player');
+var theulcontainer = $('#' + @@AUTOID@@); 
+var theitemscontainer = $('#' + @@AUTOID@@ + '_container'); 
+
+theitemscontainer.on('click','.fp_soundboard_player_trigger', function(e){
+   theplayer.attr('src',$(this).attr('data-src'));
+   theplayer[0].play();
+});
+
+
+//determine voice
+var mf=@@speaker@@
+switch(@@language@@){
+case "English(US)": voice = mf=='Male'?'Joey':'Kendra';break;
+case "English(GB)": voice = mf=='Male'?'Brian':'Amy';break;
+case "English(AU)": voice = mf=='Male'?'Russell':'Nicole';break;
+case "English(IN)": voice = mf=='Male'?'Aditi':'Raveena';break;
+case "English(WELSH)": voice = mf=='Male'? 'Geraint':'Geraint';break;
+case "Danish": voice = mf=='Male'?'Mads':'Naja';break;
+case "Dutch": voice = mf=='Male'?'Ruben':'Lotte';break;
+case "French(FR)": voice = mf=='Male'?'Mathieu':'Celine';break;
+case "French(CA)": voice = mf=='Male'?'Chantal':'Chantal';break;
+case "German": voice = mf=='Male'?'Hans':'Marlene';break;
+case "Icelandic": voice = mf=='Male'?'Karl':'Dora';break;
+case "Italian": voice = mf=='Male'?'Carla':'Giorgio';break;
+case "Japanese": voice = mf=='Male'?'Takumi':'Mizuki';break;
+case "Korean": voice = mf=='Male'?'Seoyan':'Seoyan';break;
+case "Norwegian": voice = mf=='Male'?'Liv':'Liv';break;
+case "Polish": voice = mf=='Male'?'Jacek':'Ewa';break;
+case "Portugese(BR)": voice = mf=='Male'?'Ricardo':'Vitoria';break;
+case "Portugese(PT)": voice = mf=='Male'?'Cristiano':'Ines';break;
+case "Romanian": voice = mf=='Male'?'Carmen':'Carmen';break;
+case "Russian": voice = mf=='Male'?'Maxim':'Tatyana';break;
+case "Spanish(ES)": voice = mf=='Male'?'Enrique':'Conchita';break;
+case "Spanish(US)": voice = mf=='Male'?'Miguel':'Penelope';break;
+case "Swedish": voice = mf=='Male'?'Astrid':'Astrid';break;
+case "Turkish": voice = mf=='Male'?'Filiz':'Filiz';break;
+case "Welsh": voice = mf=='Male'?'Gwyneth':'Gwyneth';break;
+default: voice = mf=='Male'?'Brian':'Amy';
+}
+
+
+
+//build template for one dictation item
+var template ='<div class="fp_soundboard_row">';
+template += '<div id="fp_soundboard_player_@ID@" class="fp_soundboard_player">';
+template += '<a class="fp_soundboard_player_trigger btn btn-secondary" data-src="@AUDIO@">@TEXT@</a>';
+template +=  '</div></div>';
+
+
+$('#' + @@AUTOID@@ + " li" ).each(function(index) {
+    var usetext = $(this).text();
+
+   fetch_polly_url(usetext,voice,
+      function(itemindex,itemusetext){
+      return function(pollyurl){
+               var usetemplate = template.replace('@AUDIO@',pollyurl); 
+               usetemplate = usetemplate.replace('@TEXT@',itemusetext);  
+               usetemplate = usetemplate.replace(/@ID@/g, itemindex);
+               theitemscontainer.append(usetemplate);
+ 
+            //add events
+             var theaudio=  $('#fp_soundboard_player_' + itemindex + ' audio');
+       };
+  
+ }(index,usetext));
+
+   
+
+  });//end of each loop";s:16:"templatescript_7";s:0:"";s:16:"templatescript_8";s:686:"var theul = $("#" + @@AUTOID@@ + " ul");
+//because users may copy/paste/massage the tab items, we get html junk
+//so move any span nested tab items to directly under tabs
+$(".filter_generico_tabitem", $("#" + @@AUTOID@@)).each(function () {
+    $(this).unwrap('span');
+});
+
+//create li items for each tab item, ignore the (important) ul element and remove html junk
+$("#" + @@AUTOID@@).children().each(function () {
+    if($(this).is(".filter_generico_tabitem")){
+    theul.append("<li><a href='#" + this.id + "'><span>"+this.title+"</span></a></li>");
+  //end of if is tabitem
+}else if(!$(this).is('ul')){
+   this.remove();
+}
+});
+
+//finally create the tabs
+$( "#" + @@AUTOID@@).tabs();";s:16:"templatescript_9";s:1570:"CloudPoodll = requiredjs_speechcards;
+var whatheard =$('#' + @@AUTOID@@ + '_whatheard');
+var current=1;
+var items =[];
+var glider;
+
+function cleanText(text){
+  return text.toLowerCase().replace(/[^\w\s]|_/g, "").replace(/\s+/g, " ").trim();
+}
+
+
+$.getScript('https://cdn.jsdelivr.net/npm/glidejs@2.1.0/dist/glide.min.js').done(function(){
+
+function setCurrent(newcurrent){
+ current=newcurrent;
+}
+
+
+var li_template ="<li class='glide__slide'><div class='poodllspeechcards_box'>@thetext@</div></li>";
+var thelist = $("#" + @@AUTOID@@ + "_thelist");
+
+$("#" + @@AUTOID@@ + "_bullets li").each(function( index ) {
+  items[index]= cleanText($( this ).text());
+  thelist.append(li_template.replace('@thetext@',$(this).text()))
+});
+
+
+
+ glider = $("#" + @@AUTOID@@ + "_glide").glide({
+        type: "carousel",
+        autoplay: false,
+        afterTransition: function(data){setCurrent(data.index);},
+        afterInit: function(data){setCurrent(data.index);},
+    }).data('glide_api');
+});
+
+//CloudPoodll.autoCreateRecorders();
+CloudPoodll.createRecorder(@@AUTOID@@);
+
+CloudPoodll.theCallback = function(message){
+   console.log(message);
+   switch(message.type){
+     case 'speech':
+       var speechtext = message.capturedspeech;
+       whatheard.text(speechtext);
+      if(cleanText(speechtext)==items[current-1]){
+         whatheard.addClass('speechcards_gotit');
+         setTimeout(function(){
+         whatheard.removeClass('speechcards_gotit');
+         whatheard.text('........');
+         glider.go('>');
+         },700);
+      };
+  }
+};
+CloudPoodll.initEvents();
+
+
+
+ ";s:15:"templatestyle_1";s:0:"";s:16:"templatestyle_10";s:0:"";s:16:"templatestyle_11";s:1723:".poodll_multiplayer{
+  border: 3px solid #333;
+    width: 250px;
+    height: 120px;
+    text-align: center;
+    margin-bottom: 100px;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    position: relative;
+}
+.poodll_multiplayer  .skin{
+  height: 200px;
+    BACKGROUND-IMAGE: url(http://img.wennermedia.com/social/bruno-mars--press-photo-2---kai-z-feng-885f1d8b-0fc8-4ea6-a613-06ef6ce4e443.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.poodll_multiplayer   .poodll_multiplayer_button{
+  border: none;
+ width: 50px;
+  height: 42px;
+}
+.poodll_multiplayer .custom-pause:before{
+
+    content: "\f04b";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+
+  
+}
+.poodll_multiplayer .vol-but{
+    width: 25px;
+    float: right;
+    padding: 0px;
+}
+.poodll_multiplayer .volume-control .vol-up:before{
+  content: "\f028";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+}
+.poodll_multiplayer .volume-control .vol-down:before{
+ content: "\f027";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+}
+.poodll_multiplayer .meter{
+    width: 130px;
+    height: 15px;
+    border: 1px solid #333;
+    margin-top: 5px;
+    float: right;
+    margin-left: 5px;
+}
+.poodll_multiplayer .indicator{
+    height: 100%;
+    width: 20%;
+    background-color: red;
+  min-width: 0%;
+  max-width: 100%;
+}
+.poodll_multiplayer .button-wrapper{
+ width: 30%;
+ float: left;
+}
+.poodll_multiplayer .state-wrapper{
+  width: 70%;
+ float: left;
+}
+.poodll_multiplayer .volume-control{
+ position: absolute;
+    text-align: center;
+    bottom: 20px;
+}";s:16:"templatestyle_12";s:0:"";s:16:"templatestyle_13";s:186:".pf-popuprecorder-downloadbutton{
+    margin: auto;
+    text-align: center;
+    display: block;
+}
+.poodllrecorder{
+margin: auto;
+}
+.pf-popuprecorder-resetbutton{
+    text-align: right;
+}";s:16:"templatestyle_14";s:114:".filter_poodll_fff_outer {
+display: inline-block;
+ width: 600px;
+}
+.filter_poodll_fff_inner{
+ min-height: 400px;
+}";s:16:"templatestyle_15";s:0:"";s:16:"templatestyle_16";s:562:"/* //code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css */
+.poodll_onceplayer{
+ border: 3px solid blue;
+/* Safari 3-4, iOS 1-3.2, Android 1.6- */
+  -webkit-border-radius: 12px; 
+  /* Firefox 1-3.6 */
+  -moz-border-radius: 12px; 
+  /* Opera 10.5, IE 9, Safari 5, Chrome, Firefox 4, iOS 4, Android 2.1+ */
+  border-radius: 12px; 
+background-color: white;
+ width: 200px;
+ height: 110px;
+text-align: center;
+}
+.poodll_onceplayer_time{
+ padding: 3px;
+}
+.poodll_onceplayer_button{
+ border: 1px solid;
+ width: 50px;
+ height: 42px;
+ margin-top: 5px;
+ margin-top: 5px;
+}";s:16:"templatestyle_17";s:0:"";s:16:"templatestyle_18";s:0:"";s:16:"templatestyle_19";s:0:"";s:15:"templatestyle_2";s:101:".audiojs { 
+width: 100%; 
+max-width: 460px;
+min-width: 300px;
+}
+
+.audiojs .scrubber { 
+width: 48%; 
+}";s:16:"templatestyle_20";s:0:"";s:16:"templatestyle_21";s:0:"";s:16:"templatestyle_22";s:44:".activesentence {
+    background: #c5efcf;
+}";s:16:"templatestyle_23";s:0:"";s:16:"templatestyle_24";s:0:"";s:16:"templatestyle_25";s:0:"";s:16:"templatestyle_26";s:0:"";s:16:"templatestyle_27";s:0:"";s:16:"templatestyle_28";s:0:"";s:16:"templatestyle_29";s:194:"button.roundmini-audio-player{
+  border: none;
+ color: #fff;
+}
+button.roundmini-audio-player .fa{
+     font-size: 28px;
+}
+.activesentence {
+    background: #c5efcf;
+   /* font-weight: bold; */
+}";s:15:"templatestyle_3";s:55:"span.fp_popovertrigger {
+ text-decoration: underline;
+}";s:16:"templatestyle_30";s:0:"";s:16:"templatestyle_31";s:3579:".splitter {
+ flex: 0 0 auto;
+    width: 2%;
+    background: url(https://raw.githubusercontent.com/RickStrahl/jquery-resizable/master/assets/vsizegrip.png) center center no-repeat #535353;
+    min-height: 200px;
+    cursor: col-resize;
+    height: 480px;
+}
+.fpv_flexrow{
+   display: flex;flex-direction: row;
+}
+.fpv_flexcol{
+   display: flex;flex-direction: column;
+   max-width: 800px;
+
+}
+.fpv_flexcol .sivvideo{
+ width: 100%;
+} 
+.fpv_flexcol .filterpoodll_siv_transcriptcontainer{
+    height: 320px;
+}
+.sivvideo{
+  width: 50%;
+} 
+.filterpoodll_siv_transcriptcontainer{
+       flex: 1 1 auto;
+}
+.transcript-body{
+ height: 100% !important;
+}
+.filterpoodll_siv_transcriptcontainer{
+    height: 480px;
+}
+.filterpoodll_siv_transcriptscrollable {
+    height: calc(100% - 37px);
+}
+@media screen and (max-width: 992px) {
+ .filterpoodll_siv_transcriptmain_container{
+           display: block !important;
+       }
+    .splitter{
+        display: none;
+     }
+
+     .filterpoodll_siv_transcripttools{
+           display: none;
+     }
+
+     .sivvideo{
+   width: 100%;
+    float: none;
+    height: 200px;
+      } 
+     .filterpoodll_siv_transcriptcontainer{
+   float: none;
+    margin-left: 0%;    
+      }
+      .filterpoodll_siv_transcriptcontainer{
+   height: 200px !important;
+     }
+     .filterpoodll_siv_transcriptscrollable {
+    height: calc(100%-37px);
+              /* 163px !important; height - toolbar height */
+     }
+}
+
+/* interactive transcript */
+.filterpoodll_siv_transcriptcontainer {
+    font-family: Arial, sans-serif;
+    border: 1px solid #111;
+}
+
+.filterpoodll_siv_transcript-header {
+    height: 19px;
+    padding: 2px;
+    font-weight: bold;
+    text-align: center;
+}
+.filterpoodll_siv_transcript-selector {
+    height: 25px;
+}
+.filterpoodll_siv_transcript-body {
+    overflow-y: scroll;
+    background-color: #e7e7e7;
+    position: relative;
+    margin: auto;
+}
+
+.filterpoodll_siv_transcript-line {
+    position: relative;
+    padding: 5px;
+    cursor: pointer;
+    line-height: 1.3;
+}
+
+.filterpoodll_siv_transcript-line:nth-child(odd) {
+    background-color: #f5f5f5;
+}
+
+
+.filterpoodll_siv_transcript-timestamp {
+    position: absolute;
+    display: inline-block;
+    color: #333;
+    width: 50px;
+}
+
+.filterpoodll_siv_transcript-text {
+    display: block;
+    margin-left: 50px;
+}
+
+.filterpoodll_siv_transcript-line:hover,
+.filterpoodll_siv_transcript-line:hover .filterpoodll_siv_transcript-timestamp,
+.filterpoodll_siv_transcript-line:hover .filterpoodll_siv_transcript-text {
+    background-color: #777;
+    color: #e7e7e7;
+}
+
+.filterpoodll_siv_transcript-line.is-active,
+.filterpoodll_siv_transcript-line.is-active .filterpoodll_siv_transcript-timestamp,
+.filterpoodll_siv_transcript-line.is-active .filterpoodll_siv_transcript-text {
+    background-color: #555;
+    color: #e7e7e7;
+    width: auto;
+}
+
+.filterpoodll_siv_transcripttitle {
+  /*  Set line height to same height at toolbar */
+   line-height: 35px;
+   margin-left: 5px;
+   font-weight: bold;
+}
+
+.filterpoodll_siv_transcripttoolbar {
+ background-color: #CCC;
+ max-height: 35px;
+ min-height: 35px;
+ overflow:hidden
+}
+.filterpoodll_siv_transcriptscrollable {
+    width: 100%;
+    font-family: Arial, sans-serif;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+}
+.filterpoodll_siv_transcripttools {
+    float: right;
+}
+
+/* toggle timestamp on and off */
+.filterpoodll_siv_transcript-body.notimestamp .filterpoodll_siv_transcript-timestamp {
+    display: none;
+}
+
+.filterpoodll_siv_transcript-body.notimestamp .filterpoodll_siv_transcript-text {
+    margin-left: 5px;
+}
+";s:16:"templatestyle_32";s:0:"";s:16:"templatestyle_33";s:0:"";s:16:"templatestyle_34";s:0:"";s:16:"templatestyle_35";s:0:"";s:16:"templatestyle_36";s:0:"";s:16:"templatestyle_37";s:0:"";s:16:"templatestyle_38";s:0:"";s:16:"templatestyle_39";s:0:"";s:15:"templatestyle_4";s:44:".mejs-audio .mejs-clear {
+    clear: none;
+}";s:16:"templatestyle_40";s:0:"";s:15:"templatestyle_5";s:3324:".fpv_flexrow{
+   display: flex;flex-direction: row;
+}
+.fpv_flexcol{
+   display: flex;flex-direction: column;
+   max-width: 800px;
+
+}
+.fpv_flexcol .sivvideo{
+  width: 100%;
+} 
+.fpv_flexcol .filterpoodll_sia_transcriptcontainer{
+    height: 320px;
+}
+.sivvideo{
+  width: 50%;
+} 
+.filterpoodll_sia_transcriptcontainer{
+       flex: 1 1 auto;
+}
+.transcript-body{
+ height: 100% !important;
+}
+.filterpoodll_sia_transcriptcontainer{
+    height: 480px;
+}
+.filterpoodll_sia_transcriptscrollable {
+    height: calc(100% - 37px);
+}
+@media screen and (max-width: 992px) {
+ .filterpoodll_sia_transcriptmain_container{
+           display: block !important;
+       }
+    .splitter{
+        display: none;
+     }
+
+     .filterpoodll_sia_transcripttools{
+           display: none;
+     }
+
+     .sivvideo{
+   width: 100%;
+    float: none;
+    height: 200px;
+      } 
+     .filterpoodll_sia_transcriptcontainer{
+   float: none;
+    margin-left: 0%;    
+      }
+      .filterpoodll_sia_transcriptcontainer{
+   height: 200px !important;
+     }
+     .filterpoodll_sia_transcriptscrollable {
+    height: calc(100%-37px);
+              /* 163px !important; height - toolbar height */
+     }
+}
+
+/* interactive transcript */
+.filterpoodll_sia_transcriptcontainer {
+    font-family: Arial, sans-serif;
+    border: 1px solid #111;
+}
+
+.filterpoodll_sia_transcript-header {
+    height: 19px;
+    padding: 2px;
+    font-weight: bold;
+    text-align: center;
+}
+.filterpoodll_sia_transcript-selector {
+    height: 25px;
+}
+.filterpoodll_sia_transcript-body {
+    overflow-y: scroll;
+    background-color: #e7e7e7;
+    position: relative;
+    margin: auto;
+}
+
+.filterpoodll_sia_transcript-line {
+    position: relative;
+    padding: 5px;
+    cursor: pointer;
+    line-height: 1.3;
+}
+
+.filterpoodll_sia_transcript-line:nth-child(odd) {
+    background-color: #f5f5f5;
+}
+
+
+.filterpoodll_sia_transcript-timestamp {
+    position: absolute;
+    display: inline-block;
+    color: #333;
+    width: 50px;
+}
+
+.filterpoodll_sia_transcript-text {
+    display: block;
+    margin-left: 50px;
+}
+
+.filterpoodll_sia_transcript-line:hover,
+.filterpoodll_sia_transcript-line:hover .filterpoodll_sia_transcript-timestamp,
+.filterpoodll_sia_transcript-line:hover .filterpoodll_sia_transcript-text {
+    background-color: #777;
+    color: #e7e7e7;
+}
+
+.filterpoodll_sia_transcript-line.is-active,
+.filterpoodll_sia_transcript-line.is-active .filterpoodll_sia_transcript-timestamp,
+.filterpoodll_sia_transcript-line.is-active .filterpoodll_sia_transcript-text {
+    background-color: #555;
+    color: #e7e7e7;
+    width: auto;
+}
+
+.filterpoodll_sia_transcripttitle {
+  /*  Set line height to same height at toolbar */
+   line-height: 35px;
+   margin-left: 5px;
+   font-weight: bold;
+}
+
+.filterpoodll_sia_transcripttoolbar {
+ background-color: #CCC;
+ max-height: 35px;
+ min-height: 35px;
+ overflow:hidden
+}
+.filterpoodll_sia_transcriptscrollable {
+    width: 100%;
+    font-family: Arial, sans-serif;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+}
+.filterpoodll_sia_transcripttools {
+    float: right;
+}
+
+/* toggle timestamp on and off */
+.filterpoodll_sia_transcript-body.notimestamp .filterpoodll_sia_transcript-timestamp {
+    display: none;
+}
+
+.filterpoodll_sia_transcript-body.notimestamp .filterpoodll_sia_transcript-text {
+    margin-left: 5px;
+}
+";s:15:"templatestyle_6";s:0:"";s:15:"templatestyle_7";s:0:"";s:15:"templatestyle_8";s:0:"";s:15:"templatestyle_9";s:532:".poodllspeechcards_box {
+    text-align: center;
+    color: #fff;
+    width: 50%;
+    background: #868686;
+    padding: 54px 18px;
+    font-size: 2em;
+    margin-left: 15px;
+    margin-right: 15px;
+    border-radius: 6px;
+}
+.speechcards_toprow{
+   display: flex;
+   margin-left: 15px;
+   margin-bottom: 15px;
+}
+.poodllrecorder{
+  margin-left: 15px;
+}
+.speechcards_whatheard{
+ width: 400px;
+ border: dotted 1px;
+ border-color: green;
+ text-align: center;
+ margin: 1px;
+}
+.speechcards_gotit{
+ color: white;
+ background-color: green;
+}";s:17:"templateversion_1";s:5:"1.0.7";s:18:"templateversion_10";s:5:"1.0.0";s:18:"templateversion_11";s:5:"1.0.4";s:18:"templateversion_12";s:5:"1.0.5";s:18:"templateversion_13";s:5:"1.0.5";s:18:"templateversion_14";s:5:"1.0.5";s:18:"templateversion_15";s:5:"1.0.0";s:18:"templateversion_16";s:5:"1.0.1";s:18:"templateversion_17";s:5:"1.0.0";s:18:"templateversion_18";s:5:"1.0.2";s:18:"templateversion_19";s:5:"1.0.2";s:17:"templateversion_2";s:5:"1.0.6";s:18:"templateversion_20";s:5:"1.0.2";s:18:"templateversion_21";s:5:"1.0.0";s:18:"templateversion_22";s:5:"1.0.0";s:18:"templateversion_23";s:5:"1.0.5";s:18:"templateversion_24";s:5:"1.0.3";s:18:"templateversion_25";s:5:"1.0.6";s:18:"templateversion_26";s:5:"1.0.1";s:18:"templateversion_27";s:5:"1.0.0";s:18:"templateversion_28";s:5:"1.0.0";s:18:"templateversion_29";s:5:"1.0.1";s:17:"templateversion_3";s:5:"1.0.2";s:18:"templateversion_30";s:5:"1.0.1";s:18:"templateversion_31";s:5:"1.0.4";s:18:"templateversion_32";s:5:"1.0.1";s:18:"templateversion_33";s:0:"";s:18:"templateversion_34";s:0:"";s:18:"templateversion_35";s:0:"";s:18:"templateversion_36";s:0:"";s:18:"templateversion_37";s:0:"";s:18:"templateversion_38";s:0:"";s:18:"templateversion_39";s:0:"";s:17:"templateversion_4";s:5:"1.0.7";s:18:"templateversion_40";s:0:"";s:17:"templateversion_5";s:5:"1.0.3";s:17:"templateversion_6";s:5:"1.0.0";s:17:"templateversion_7";s:5:"1.0.2";s:17:"templateversion_8";s:5:"1.0.1";s:17:"templateversion_9";s:5:"1.0.6";s:12:"useplayerflv";s:3:"fff";s:12:"useplayermp3";s:17:"mediaelementaudio";s:12:"useplayermp4";s:3:"fff";s:12:"useplayerogg";s:11:"nativeaudio";s:12:"useplayerogv";s:11:"nativevideo";s:12:"useplayerrss";s:11:"nativeaudio";s:13:"useplayerwebm";s:11:"nativevideo";s:16:"useplayeryoutube";s:13:"youtubeplayer";s:7:"version";s:10:"2020122200";}

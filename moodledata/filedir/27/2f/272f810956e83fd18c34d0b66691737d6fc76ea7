@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>eXe</title>
+<meta http-equiv="Content-Type" content="text/html;  charset=utf-8" />
+<style type="text/css">
+@import url(content.css);
+</style>
+<script type="text/javascript" src="APIWrapper.js"></script>
+<script type="text/javascript" src="SCOFunctions.js"></script>
+<script type="text/javascript" src="common.js"></script>
+</head>
+<body onload="loadPage()" onbeforeunload="unloadPage()" onunload="unloadPage()"><div id="outer">
+<div id="main">
+<div id="nodeDecoration">
+<p id="nodeTitle">
+Learner-content interactions</p></div>
+<div class="iDevice emphasis0">
+<div id="7_1" style="display:block"><p>In <a href="http://exelearning.org">eXe</a> there are a number of instructional devices (iDevices) that enable teachers to set up simple learner-content interactions. This is very useful, especially when preparing content for asynchronous learning situations because teachers can provide personalised feedback on various activities. The following iDevices in eXe cater for learner-content interactions:</p> <ul>   <li>Reading activity</li>   <li>Case study</li>   <li>Reflection</li> </ul> Consider the examples below.&nbsp;</div></div>
+<div class="iDevice emphasis1">
+<img alt="" class="iDevice_icon" src="icon_reading.gif"/>
+<span class="iDeviceTitle">Reading Activity</span>
+<div class="iDevice_inner">
+<div id="11_4" style="display:block"><div id="11_16" style="display: block">Sandy Britain has completed a review of the eXe project in relation to selected authoring software. The purpose of the review was to:</div> <div id="11_16" style="display: block"> <ul>   <li>perform a gap analysis to establish whether or not <span style="font-style: italic">eXe</span> fills a niche in the suite of e-learning technologies.</li> </ul> </div> <div id="11_16" style="display: block"><ul><li>consider recommendations for further development on the project.</li></ul></div></div><br/>
+<div id="11_5" style="display:block">We are interested to hear what you think about Sandy's report. In particular:<br /> <ul> <li>Whether you find   reviews of this nature useful in open source projects like <span style="font-style: italic">eXe</span>?</li><li>What are   your thoughts about Sandy's recommendations for future development of   <span style="font-style: italic">eXe</span>?</li><li>Any other relevant information</li> </ul> You will find access to a copy of the report below:<br /></div><br/>
+<div id="11_6" style="display:block"><div id="11_18" style="display: block">Britain, S. 2005. <span style="font-style: italic">A review and analysis of content authoring software in relation to eXe. </span>Report commissioned for the University of Auckland. Available <a href="http://eduforge.org/docman/view.php/20/243/eXe_report_sbritain.pdf">online</a>.<br /></div></div><br/>
+<div id="11_7" style="display:block">As indicated in the review, Sandy's report was not a comprehensive analysis of all the available authoring tools. Nonetheless, the review has provided the eXe team with valuable insights for future development. In addition, the analytical framework used in this review is a valuable approach when assessing strategic directions for new software developments.<br /></div><br/>
+</div>
+</div>
+<div class="iDevice emphasis1">
+<img alt="iDevice icon" class="iDevice_icon"  src="icon_casestudy.gif"/>
+<span class="iDeviceTitle">Case Study</span>
+<div class="iDevice_inner">
+<p><span>Snow White has recently discovered the power of e-learning to facilitate meaningful learning experiences for the seven dwarfs. She can now develop learning content that is accessible anytime, anywhere. She downloaded a copy of eXe and has developed a package on the benefits and risks of food poisoning. She has tried using the iDevice editor to create a &quot;drag-and-drop&quot; activity using images of different fruit types that are likely suspects for food poisoning. She was not able to do this and is now frustrated.</span></p><p> </p><br/>
+<b>Question</b><br/>Can you advise Snow White on what she should do? <div id="viewq0b8" style="display:block;"><input type="button" name="btnshowq0b8" value ="Click here" onclick="showAnswer('q0b8',1)"/></div>
+ <div id="hideq0b8" style="display:none;"><input type="button" name="btnhideq0b8" value="Hide" onclick="showAnswer('q0b8',0)"/></div>
+ <div id="sq0b8" class="feedback" style=" display: none;"><div style="display: block" class="feedback" id="sq0b12"><span>Snow White should be patient and wait for further releases of eXe. Alternatively she can find a more expensive substitute for her multi-media authoring requirements in the mean time. Snow White could assist <span style="font-style: italic">eXe</span> if she made a <a href="http://cfdl.auckland.ac.nz/idevice_interest/introduction.html" target="_blank">submission</a> for an iDevice describing her ideas for a drag and drop activity.</span></div> <br />    <br /></div><br/>
+</div>
+</div>
+<div class="iDevice emphasis1">
+<img alt="iDevice icon" class="iDevice_icon"  src="icon_reflection.gif"/>
+<span class="iDeviceTitle">Reflection</span>
+<script type="text/javascript" src="common.js"></script>
+<div class="iDevice_inner">
+ Rumple Stiltskin is a critical rationalist who is attitudinally challenged.<br /> <br /> He is well read in the contemporary e-learning literature and has extensive teaching experience. He recently downloaded a <span style="font-style: italic">eXe</span>  copy of Release 0.5. He spent 14 hours developing content for a new  course, and after a power failure, lost everything. He has compiled a  78 page critical review of eXe and has approached you for legal advice  on this incident. What advice do you offer Professor Stiltskin?<div id="view9" style="display:block;"><input type="button" name="btnshow9" value ="Click here" onclick="showAnswer('9',1)"/></div>
+ <div id="hide9" style="display:none;"><input type="button" name="btnhide9" value="Hide" onclick="showAnswer('9',0)"/></div>
+ <div id="s9" class="feedback" style=" display: none;">Apart from recommending a name change, you encourage him to submit his  critical review as a submission to improve the technology. You remind  him of the GPL license and direct him to a copy of the <a href="http://www.firstmonday.org/issues/issue3_3/raymond/">Cathedral and the Bazaar</a>, by Eric Raymond. As an FLOSS advocate, you don't charge for the consultation.</div>
+</div>
+</div>
+</div>
+</div>
+</body></html>

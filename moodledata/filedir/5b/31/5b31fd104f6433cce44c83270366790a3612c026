@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>eXe</title>
+<meta http-equiv="Content-Type" content="text/html;  charset=utf-8" />
+<style type="text/css">
+@import url(content.css);
+</style>
+<script type="text/javascript" src="APIWrapper.js"></script>
+<script type="text/javascript" src="SCOFunctions.js"></script>
+<script type="text/javascript" src="common.js"></script>
+</head>
+<body onload="loadPage()" onbeforeunload="unloadPage()" onunload="unloadPage()"><div id="outer">
+<div id="main">
+<div id="nodeDecoration">
+<p id="nodeTitle">
+A cloze activity</p></div>
+<div class="iDevice emphasis0">
+<div id="4_1" style="display:block"><p>This iDevice is still <strong>experimental</strong>. Nonetheless it provides an easy way for teachers to create a cloze activity without the need to know any XHTML markup.</p><p>At the moment, the cloze activity uses a &quot;predictive&quot; text utility and will accept minor typo's by learners as correct answers. However, short words of three or four letters do not work well with this feature. In the future we will provide the option of turning off this feature, and look at ways in which it can be improved. There are certainly good educational reasons where correct spelling is an important learning objective, for example language teaching. </p></div></div>
+<div class="iDevice emphasis1">
+<img alt="iDevice icon" class="iDevice_icon"  src="icon_question.gif"/>
+<span class="iDeviceTitle">Moodle and SCORM packages</span>
+<script type="text/javascript" src="common.js"></script>
+
+    <div class="iDevice_inner">
+
+     <p>
+    <div id="5_5" style="display:block">Read the paragraph below and fill in the missing words</div>
+     </p>
+     <p id="clozeContent5">
+    The preferred Learning Management System for this group of users is    
+ <input type="text" value="" 
+        id="clz5_60"
+  oninput="onClozeChange(this, 'Moodle')"
+    style="width:6em"/>
+
+   . The    
+ <input type="text" value="" 
+        id="clz5_61"
+  oninput="onClozeChange(this, 'E-learning')"
+    style="width:10em"/>
+
+   
+XHTML Editor (eXe) is an open source software alternative that teachers
+and academics can use to author SCORM packages for Moodle. Oceania as a
+region has demonstrated leadership in the development of open source
+software solutions for e-learning because Moodle and LAMS were
+developed in    
+ <input type="text" value="" 
+        id="clz5_62"
+  oninput="onClozeChange(this, 'Australia')"
+    style="width:9em"/>
+
+   , while eXe comes from    
+ <input type="text" value="" 
+        id="clz5_63"
+  oninput="onClozeChange(this, 'New')"
+    style="width:3em"/>
+
+       
+ <input type="text" value="" 
+        id="clz5_64"
+  oninput="onClozeChange(this, 'Zealand')"
+    style="width:7em"/>
+
+   .<br/>
+<br/>
+Clearly there is a strong link between Australia and New Zealand, because Martin's daughter is called    
+ <input type="text" value="" 
+        id="clz5_65"
+  oninput="onClozeChange(this, 'Tui')"
+    style="width:3em"/>
+
+   , which is a New Zealand    
+ <input type="text" value="" 
+        id="clz5_66"
+  oninput="onClozeChange(this, 'bird')"
+    style="width:4em"/>
+
+   . However,    
+ <input type="text" value="" 
+        id="clz5_67"
+  oninput="onClozeChange(this, 'rugby')"
+    style="width:5em"/>
+
+    is a topic where we are unlikely to achieve consesus between Australia and New Zealand.<br/>
+<br/><br/><input type="button" 
+value = "Get score"
+onclick="calScore('8','5_6')"/>
+
+<input type="button" 
+value = "Show/Hide Feedback"
+onclick="toggleFeedback('5_7')"/>
+
+&nbsp;&nbsp;<input type="button" 
+value = "Show/Clear Answers"
+onclick="wordArray= new Array('Moodle','E-learning','Australia','New','Zealand','Tui','bird','rugby'); ;toggleClozeAnswers(8,'5_6')"/>
+     </p>
+     <p>
+    <div id="5_7" style="display:none"><p>If you're having any difficulty with the missing words you may want to visit the following websites:</p> <ul>   <li><a href="http://moodle.org">Moodle</a></li>   <li><a href="http://exelearning.org">e-Learning XHTML Editor</a>  (eXe) project  <br />   </li> </ul></div>
+     </p>
+    </div>
+</div>
+</div>
+</div>
+</body></html>
