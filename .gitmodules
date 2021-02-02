@@ -1,0 +1,3 @@
+[submodule "doc_extract"]
+	path = doc_extract
+	url = https://github.com/nts-dev/doc_extract.git
